@@ -1,0 +1,4 @@
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+ÀÁÂÃÈÉÊÌÍÒÓÔÕÙÚÝĐàáâãèéêìíòóôõùúýđ
+ĂẮẰẲẴẶăắằẳẵặƠỚỜỞỠỢơớờởỡợƯỨỪỬỮỰưứừửữự
+0123456789.,!?-:;()

@@ -1,0 +1,204 @@
+val/1176.jpg	đắk r'măng, đăk glong, đắk nông
+val/1128.jpg	Nghĩa Đức, Gia Nghĩa, Đắk Nông
+val/1185.jpg	Xã Đắk Plao, Huyện Đăk Glong, Tỉnh Đắk Nông
+val/1078.jpg	Dak Sao, Tu Mo Rong, Kon Tum
+val/1181.jpg	Xa Quang Khe, Huyen Dak Glong, Tinh Dak Nong
+val/1208.jpg	Nam Dong, Cư Jút, Đắk Nông
+val/1056.jpg	Tu Mo Rong
+val/1192.jpg	Cu Jut, Dak Nong
+val/1070.jpg	Mang Ri, Tu Mo Rong, Kon Tum
+val/1136.jpg	Nghia Phu, Gia Nghia, Dak Nong
+val/1055.jpg	XÃ YA LY, HUYỆN SA THẦY, TỈNH KON TUM
+val/1057.jpg	Huyen Tu Mo Rong
+val/1026.jpg	Hơ Moong, Sa Thầy, Kon Tum
+val/1101.jpg	Xã Văn Xuôi
+val/1214.jpg	tâm thắng
+val/1143.jpg	phường nghĩa trung
+val/1102.jpg	văn xuôi, tu mơ rông, kon tum
+val/1108.jpg	Ia Dal
+val/1053.jpg	Xa Ya ly
+val/1220.jpg	Cư Knia, Cư Jút, Đắk Nông
+val/1112.jpg	Ia Dom
+val/1160.jpg	đăk glong, đắk nông
+val/1042.jpg	sa bình, sa thầy, kon tum
+val/1062.jpg	NGỌK LÂY, TU MƠ RÔNG, KON TUM
+val/1076.jpg	Đắk Sao
+val/1123.jpg	thị xã gia nghĩa
+val/1037.jpg	Xã Sa Nghĩa
+val/1038.jpg	sa nghĩa, sa thầy, kon tum
+val/1077.jpg	Xã Đắk Sao
+val/1092.jpg	Đắk Hà
+val/1061.jpg	Xa Ngok Lay
+val/1189.jpg	XÃ ĐẮK SOM, HUYỆN ĐĂK GLONG, TỈNH ĐẮK NÔNG
+val/1149.jpg	Xã Đăk R'Moan, Thị xã Gia Nghĩa, Tỉnh Đắk Nông
+val/1191.jpg	HUYỆN CƯ JÚT
+val/1170.jpg	Dak Ha
+val/1144.jpg	Nghĩa Trung, Gia Nghĩa, Đắk Nông
+val/1120.jpg	Dak Nong
+val/1215.jpg	Xã Tâm Thắng
+val/1074.jpg	NGOK YÊU, TU MƠ RÔNG, KON TUM
+val/1196.jpg	Ea T'Ling, Cư Jút, Đắk Nông
+val/1024.jpg	Hơ Moong
+val/1184.jpg	đắk plao, đăk glong, đắk nông
+val/1082.jpg	ĐẮK RƠ ÔNG, TU MƠ RÔNG, KON TUM
+val/1079.jpg	Xã Đắk Sao, Huyện Tu Mơ Rông, Tỉnh Kon Tum
+val/1084.jpg	ĐẮK TƠ KAN
+val/1022.jpg	Sa Nhơn, Sa Thầy, Kon Tum
+val/1199.jpg	xã đắk wil
+val/1194.jpg	Ea T'Ling
+val/1134.jpg	Nghia Phu
+val/1138.jpg	nghĩa tân
+val/1023.jpg	Xa Sa Nhon, Huyen Sa Thay, Tinh Kon Tum
+val/1186.jpg	Dak Som
+val/1171.jpg	Xã Đắk Ha
+val/1147.jpg	XÃ ĐĂK R'MOAN
+val/1025.jpg	Xã Hơ Moong
+val/1043.jpg	Xã Sa Bình, Huyện Sa Thầy, Tỉnh Kon Tum
+val/1021.jpg	XÃ SA NHƠN
+val/1030.jpg	Mo Rai, Sa Thay, Kon Tum
+val/1157.jpg	xã đắk nia, thị xã gia nghĩa, tỉnh đắk nông
+val/1051.jpg	XÃ YA TĂNG, HUYỆN SA THẦY, TỈNH KON TUM
+val/1117.jpg	Xã Ia Tơi
+val/1058.jpg	TU MƠ RÔNG, KON TUM
+val/1028.jpg	Mô Rai
+val/1036.jpg	SA NGHĨA
+val/1131.jpg	Phường Nghĩa Thành
+val/1039.jpg	XÃ SA NGHĨA, HUYỆN SA THẦY, TỈNH KON TUM
+val/1071.jpg	Xa Mang Ri, Huyen Tu Mo Rong, Tinh Kon Tum
+val/1127.jpg	Phường Nghĩa Đức
+val/1206.jpg	Nam Dong
+val/1201.jpg	xã đắk wil, huyện cư jút, tỉnh đắk nông
+val/1098.jpg	Te Xang, Tu Mo Rong, Kon Tum
+val/1130.jpg	nghĩa thành
+val/1040.jpg	Sa Bình
+val/1152.jpg	QUẢNG THÀNH, GIA NGHĨA, ĐẮK NÔNG
+val/1158.jpg	đăk glong
+val/1110.jpg	ia dal, ia h' drai, kon tum
+val/1064.jpg	Dak Na
+val/1161.jpg	Huyen Dak Glong, Tinh Dak Nong
+val/1085.jpg	Xã Đắk Tơ Kan
+val/1041.jpg	Xa Sa Binh
+val/1072.jpg	Ngok Yêu
+val/1193.jpg	Huyện Cư Jút, Tỉnh Đắk Nông
+val/1179.jpg	Xa Quang Khe
+val/1122.jpg	Gia Nghĩa
+val/1059.jpg	Huyen Tu Mo Rong, Tinh Kon Tum
+val/1139.jpg	PHƯỜNG NGHĨA TÂN
+val/1115.jpg	XÃ IA DOM, HUYỆN IA H' DRAI, TỈNH KON TUM
+val/1162.jpg	QUẢNG SƠN
+val/1202.jpg	Ea Pô
+val/1155.jpg	Xã Đắk Nia
+val/1049.jpg	Xã Ya Tăng
+val/1172.jpg	Đắk Ha, Đăk Glong, Đắk Nông
+val/1045.jpg	Xã Ya Xiêr
+val/1195.jpg	thị trấn ea t'ling
+val/1099.jpg	xã tê xăng, huyện tu mơ rông, tỉnh kon tum
+val/1048.jpg	Ya Tang
+val/1118.jpg	Ia Toi, Ia H' Drai, Kon Tum
+val/1200.jpg	Dak Wil, Cu Jut, Dak Nong
+val/1068.jpg	măng ri
+val/1119.jpg	Xa Ia Toi, Huyen Ia H' Drai, Tinh Kon Tum
+val/1088.jpg	TU MƠ RÔNG
+val/1029.jpg	Xã Mô Rai
+val/1169.jpg	Xã Quảng Hoà, Huyện Đăk Glong, Tỉnh Đắk Nông
+val/1177.jpg	XÃ ĐẮK R'MĂNG, HUYỆN ĐĂK GLONG, TỈNH ĐẮK NÔNG
+val/1142.jpg	Nghĩa Trung
+val/1216.jpg	Tâm Thắng, Cư Jút, Đắk Nông
+val/1190.jpg	Cu Jut
+val/1060.jpg	Ngok Lay
+val/1033.jpg	Xã Sa Sơn
+val/1168.jpg	Quảng Hoà, Đăk Glong, Đắk Nông
+val/1107.jpg	Huyện Ia H' Drai, Tỉnh Kon Tum
+val/1095.jpg	Xã Đắk Hà, Huyện Tu Mơ Rông, Tỉnh Kon Tum
+val/1163.jpg	Xa Quang Son
+val/1094.jpg	Dak Ha, Tu Mo Rong, Kon Tum
+val/1046.jpg	Ya Xiêr, Sa Thầy, Kon Tum
+val/1154.jpg	đắk nia
+val/1081.jpg	Xã Đắk Rơ Ông
+val/1111.jpg	Xã Ia Dal, Huyện Ia H' Drai, Tỉnh Kon Tum
+val/1090.jpg	Tu Mo Rong, Tu Mo Rong, Kon Tum
+val/1047.jpg	XÃ YA XIÊR, HUYỆN SA THẦY, TỈNH KON TUM
+val/1032.jpg	Sa Son
+val/1223.jpg	xã trúc sơn
+val/1159.jpg	huyện đăk glong
+val/1221.jpg	Xã Cư Knia, Huyện Cư Jút, Tỉnh Đắk Nông
+val/1063.jpg	XÃ NGỌK LÂY, HUYỆN TU MƠ RÔNG, TỈNH KON TUM
+val/1100.jpg	Văn Xuôi
+val/1133.jpg	Phường Nghĩa Thành, Thị xã Gia Nghĩa, Tỉnh Đắk Nông
+val/1075.jpg	Xa Ngok Yeu, Huyen Tu Mo Rong, Tinh Kon Tum
+val/1052.jpg	YA LY
+val/1207.jpg	xã nam dong
+val/1109.jpg	Xa Ia Dal
+val/1050.jpg	Ya Tăng, Sa Thầy, Kon Tum
+val/1083.jpg	Xã Đắk Rơ Ông, Huyện Tu Mơ Rông, Tỉnh Kon Tum
+val/1104.jpg	Ia H' Drai
+val/1091.jpg	xã tu mơ rông, huyện tu mơ rông, tỉnh kon tum
+val/1113.jpg	Xa Ia Dom
+val/1175.jpg	Xã Đắk R'Măng
+val/1213.jpg	Xã Đắk DRông, Huyện Cư Jút, Tỉnh Đắk Nông
+val/1069.jpg	xã măng ri
+val/1153.jpg	xã quảng thành, thị xã gia nghĩa, tỉnh đắk nông
+val/1106.jpg	ia h' drai, kon tum
+val/1137.jpg	Phường Nghĩa Phú, Thị xã Gia Nghĩa, Tỉnh Đắk Nông
+val/1222.jpg	TRÚC SƠN
+val/1156.jpg	ĐẮK NIA, GIA NGHĨA, ĐẮK NÔNG
+val/1150.jpg	Quảng Thành
+val/1116.jpg	Ia Tơi
+val/1031.jpg	Xã Mô Rai, Huyện Sa Thầy, Tỉnh Kon Tum
+val/1209.jpg	Xã Nam Dong, Huyện Cư Jút, Tỉnh Đắk Nông
+val/1188.jpg	Dak Som, Dak Glong, Dak Nong
+val/1126.jpg	NGHĨA ĐỨC
+val/1065.jpg	Xa Dak Na
+val/1148.jpg	Dak R'Moan, Gia Nghia, Dak Nong
+val/1097.jpg	Xã Tê Xăng
+val/1096.jpg	Tê Xăng
+val/1105.jpg	Huyện Ia H' Drai
+val/1080.jpg	Dak Ro Ong
+val/1044.jpg	ya xiêr
+val/1204.jpg	Ea Pô, Cư Jút, Đắk Nông
+val/1132.jpg	Nghĩa Thành, Gia Nghĩa, Đắk Nông
+val/1086.jpg	ĐẮK TƠ KAN, TU MƠ RÔNG, KON TUM
+val/1180.jpg	Quảng Khê, Đăk Glong, Đắk Nông
+val/1218.jpg	Cu Knia
+val/1141.jpg	Phuong Nghia Tan, Thi xa Gia Nghia, Tinh Dak Nong
+val/1211.jpg	XÃ ĐẮK DRÔNG
+val/1034.jpg	Sa Sơn, Sa Thầy, Kon Tum
+val/1125.jpg	Thị xã Gia Nghĩa, Tỉnh Đắk Nông
+val/1219.jpg	XÃ CƯ KNIA
+val/1066.jpg	Đắk Na, Tu Mơ Rông, Kon Tum
+val/1198.jpg	đắk wil
+val/1146.jpg	đăk r'moan
+val/1093.jpg	Xa Dak Ha
+val/1027.jpg	xã hơ moong, huyện sa thầy, tỉnh kon tum
+val/1020.jpg	sa nhơn
+val/1054.jpg	Ya ly, Sa Thay, Kon Tum
+val/1067.jpg	xã đắk na, huyện tu mơ rông, tỉnh kon tum
+val/1183.jpg	Xa Dak Plao
+val/1140.jpg	Nghia Tan, Gia Nghia, Dak Nong
+val/1035.jpg	Xã Sa Sơn, Huyện Sa Thầy, Tỉnh Kon Tum
+val/1187.jpg	XÃ ĐẮK SOM
+val/1174.jpg	đắk r'măng
+val/1167.jpg	Xã Quảng Hoà
+val/1217.jpg	Xã Tâm Thắng, Huyện Cư Jút, Tỉnh Đắk Nông
+val/1151.jpg	xã quảng thành
+val/1135.jpg	Phường Nghĩa Phú
+val/1212.jpg	Đắk DRông, Cư Jút, Đắk Nông
+val/1121.jpg	TỈNH ĐẮK NÔNG
+val/1087.jpg	Xã Đắk Tơ Kan, Huyện Tu Mơ Rông, Tỉnh Kon Tum
+val/1178.jpg	Quảng Khê
+val/1203.jpg	Xã Ea Pô
+val/1103.jpg	XÃ VĂN XUÔI, HUYỆN TU MƠ RÔNG, TỈNH KON TUM
+val/1114.jpg	IA DOM, IA H' DRAI, KON TUM
+val/1129.jpg	PHƯỜNG NGHĨA ĐỨC, THỊ XÃ GIA NGHĨA, TỈNH ĐẮK NÔNG
+val/1210.jpg	ĐẮK DRÔNG
+val/1124.jpg	Gia Nghia, Dak Nong
+val/1145.jpg	Phường Nghĩa Trung, Thị xã Gia Nghĩa, Tỉnh Đắk Nông
+val/1166.jpg	QUẢNG HOÀ
+val/1073.jpg	xã ngok yêu
+val/1165.jpg	Xa Quang Son, Huyen Dak Glong, Tinh Dak Nong
+val/1197.jpg	Thị trấn Ea T'Ling, Huyện Cư Jút, Tỉnh Đắk Nông
+val/1089.jpg	xã tu mơ rông
+val/1173.jpg	Xa Dak Ha, Huyen Dak Glong, Tinh Dak Nong
+val/1205.jpg	Xã Ea Pô, Huyện Cư Jút, Tỉnh Đắk Nông
+val/1164.jpg	Quảng Sơn, Đăk Glong, Đắk Nông
+val/1182.jpg	Đắk Plao

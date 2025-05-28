@@ -1,0 +1,404 @@
+val/1176.jpg	đắk r'măng, đăk glong, đắk nông
+val/1128.jpg	Nghĩa Đức, Gia Nghĩa, Đắk Nông
+val/1185.jpg	Xã Đắk Plao, Huyện Đăk Glong, Tỉnh Đắk Nông
+val/1078.jpg	Dak Sao, Tu Mo Rong, Kon Tum
+val/1181.jpg	Xa Quang Khe, Huyen Dak Glong, Tinh Dak Nong
+val/1208.jpg	Nam Dong, Cư Jút, Đắk Nông
+val/1056.jpg	Tu Mo Rong
+val/1192.jpg	Cu Jut, Dak Nong
+val/1070.jpg	Mang Ri, Tu Mo Rong, Kon Tum
+val/1136.jpg	Nghia Phu, Gia Nghia, Dak Nong
+val/1055.jpg	XÃ YA LY, HUYỆN SA THẦY, TỈNH KON TUM
+val/1057.jpg	Huyen Tu Mo Rong
+val/1026.jpg	Hơ Moong, Sa Thầy, Kon Tum
+val/1101.jpg	Xã Văn Xuôi
+val/1214.jpg	tâm thắng
+val/1143.jpg	phường nghĩa trung
+val/1102.jpg	văn xuôi, tu mơ rông, kon tum
+val/1108.jpg	Ia Dal
+val/1053.jpg	Xa Ya ly
+val/1220.jpg	Cư Knia, Cư Jút, Đắk Nông
+val/1112.jpg	Ia Dom
+val/1160.jpg	đăk glong, đắk nông
+val/1042.jpg	sa bình, sa thầy, kon tum
+val/1062.jpg	NGỌK LÂY, TU MƠ RÔNG, KON TUM
+val/1076.jpg	Đắk Sao
+val/1123.jpg	thị xã gia nghĩa
+val/1037.jpg	Xã Sa Nghĩa
+val/1038.jpg	sa nghĩa, sa thầy, kon tum
+val/1077.jpg	Xã Đắk Sao
+val/1092.jpg	Đắk Hà
+val/1061.jpg	Xa Ngok Lay
+val/1189.jpg	XÃ ĐẮK SOM, HUYỆN ĐĂK GLONG, TỈNH ĐẮK NÔNG
+val/1149.jpg	Xã Đăk R'Moan, Thị xã Gia Nghĩa, Tỉnh Đắk Nông
+val/1191.jpg	HUYỆN CƯ JÚT
+val/1170.jpg	Dak Ha
+val/1144.jpg	Nghĩa Trung, Gia Nghĩa, Đắk Nông
+val/1120.jpg	Dak Nong
+val/1215.jpg	Xã Tâm Thắng
+val/1074.jpg	NGOK YÊU, TU MƠ RÔNG, KON TUM
+val/1196.jpg	Ea T'Ling, Cư Jút, Đắk Nông
+val/1024.jpg	Hơ Moong
+val/1184.jpg	đắk plao, đăk glong, đắk nông
+val/1082.jpg	ĐẮK RƠ ÔNG, TU MƠ RÔNG, KON TUM
+val/1079.jpg	Xã Đắk Sao, Huyện Tu Mơ Rông, Tỉnh Kon Tum
+val/1084.jpg	ĐẮK TƠ KAN
+val/1022.jpg	Sa Nhơn, Sa Thầy, Kon Tum
+val/1199.jpg	xã đắk wil
+val/1194.jpg	Ea T'Ling
+val/1134.jpg	Nghia Phu
+val/1138.jpg	nghĩa tân
+val/1023.jpg	Xa Sa Nhon, Huyen Sa Thay, Tinh Kon Tum
+val/1186.jpg	Dak Som
+val/1171.jpg	Xã Đắk Ha
+val/1147.jpg	XÃ ĐĂK R'MOAN
+val/1025.jpg	Xã Hơ Moong
+val/1043.jpg	Xã Sa Bình, Huyện Sa Thầy, Tỉnh Kon Tum
+val/1021.jpg	XÃ SA NHƠN
+val/1030.jpg	Mo Rai, Sa Thay, Kon Tum
+val/1157.jpg	xã đắk nia, thị xã gia nghĩa, tỉnh đắk nông
+val/1051.jpg	XÃ YA TĂNG, HUYỆN SA THẦY, TỈNH KON TUM
+val/1117.jpg	Xã Ia Tơi
+val/1058.jpg	TU MƠ RÔNG, KON TUM
+val/1028.jpg	Mô Rai
+val/1036.jpg	SA NGHĨA
+val/1131.jpg	Phường Nghĩa Thành
+val/1039.jpg	XÃ SA NGHĨA, HUYỆN SA THẦY, TỈNH KON TUM
+val/1071.jpg	Xa Mang Ri, Huyen Tu Mo Rong, Tinh Kon Tum
+val/1127.jpg	Phường Nghĩa Đức
+val/1206.jpg	Nam Dong
+val/1201.jpg	xã đắk wil, huyện cư jút, tỉnh đắk nông
+val/1098.jpg	Te Xang, Tu Mo Rong, Kon Tum
+val/1130.jpg	nghĩa thành
+val/1040.jpg	Sa Bình
+val/1152.jpg	QUẢNG THÀNH, GIA NGHĨA, ĐẮK NÔNG
+val/1158.jpg	đăk glong
+val/1110.jpg	ia dal, ia h' drai, kon tum
+val/1064.jpg	Dak Na
+val/1161.jpg	Huyen Dak Glong, Tinh Dak Nong
+val/1085.jpg	Xã Đắk Tơ Kan
+val/1041.jpg	Xa Sa Binh
+val/1072.jpg	Ngok Yêu
+val/1193.jpg	Huyện Cư Jút, Tỉnh Đắk Nông
+val/1179.jpg	Xa Quang Khe
+val/1122.jpg	Gia Nghĩa
+val/1059.jpg	Huyen Tu Mo Rong, Tinh Kon Tum
+val/1139.jpg	PHƯỜNG NGHĨA TÂN
+val/1115.jpg	XÃ IA DOM, HUYỆN IA H' DRAI, TỈNH KON TUM
+val/1162.jpg	QUẢNG SƠN
+val/1202.jpg	Ea Pô
+val/1155.jpg	Xã Đắk Nia
+val/1049.jpg	Xã Ya Tăng
+val/1172.jpg	Đắk Ha, Đăk Glong, Đắk Nông
+val/1045.jpg	Xã Ya Xiêr
+val/1195.jpg	thị trấn ea t'ling
+val/1099.jpg	xã tê xăng, huyện tu mơ rông, tỉnh kon tum
+val/1048.jpg	Ya Tang
+val/1118.jpg	Ia Toi, Ia H' Drai, Kon Tum
+val/1200.jpg	Dak Wil, Cu Jut, Dak Nong
+val/1068.jpg	măng ri
+val/1119.jpg	Xa Ia Toi, Huyen Ia H' Drai, Tinh Kon Tum
+val/1088.jpg	TU MƠ RÔNG
+val/1029.jpg	Xã Mô Rai
+val/1169.jpg	Xã Quảng Hoà, Huyện Đăk Glong, Tỉnh Đắk Nông
+val/1177.jpg	XÃ ĐẮK R'MĂNG, HUYỆN ĐĂK GLONG, TỈNH ĐẮK NÔNG
+val/1142.jpg	Nghĩa Trung
+val/1216.jpg	Tâm Thắng, Cư Jút, Đắk Nông
+val/1190.jpg	Cu Jut
+val/1060.jpg	Ngok Lay
+val/1033.jpg	Xã Sa Sơn
+val/1168.jpg	Quảng Hoà, Đăk Glong, Đắk Nông
+val/1107.jpg	Huyện Ia H' Drai, Tỉnh Kon Tum
+val/1095.jpg	Xã Đắk Hà, Huyện Tu Mơ Rông, Tỉnh Kon Tum
+val/1163.jpg	Xa Quang Son
+val/1094.jpg	Dak Ha, Tu Mo Rong, Kon Tum
+val/1046.jpg	Ya Xiêr, Sa Thầy, Kon Tum
+val/1154.jpg	đắk nia
+val/1081.jpg	Xã Đắk Rơ Ông
+val/1111.jpg	Xã Ia Dal, Huyện Ia H' Drai, Tỉnh Kon Tum
+val/1090.jpg	Tu Mo Rong, Tu Mo Rong, Kon Tum
+val/1047.jpg	XÃ YA XIÊR, HUYỆN SA THẦY, TỈNH KON TUM
+val/1032.jpg	Sa Son
+val/1223.jpg	xã trúc sơn
+val/1159.jpg	huyện đăk glong
+val/1221.jpg	Xã Cư Knia, Huyện Cư Jút, Tỉnh Đắk Nông
+val/1063.jpg	XÃ NGỌK LÂY, HUYỆN TU MƠ RÔNG, TỈNH KON TUM
+val/1100.jpg	Văn Xuôi
+val/1133.jpg	Phường Nghĩa Thành, Thị xã Gia Nghĩa, Tỉnh Đắk Nông
+val/1075.jpg	Xa Ngok Yeu, Huyen Tu Mo Rong, Tinh Kon Tum
+val/1052.jpg	YA LY
+val/1207.jpg	xã nam dong
+val/1109.jpg	Xa Ia Dal
+val/1050.jpg	Ya Tăng, Sa Thầy, Kon Tum
+val/1083.jpg	Xã Đắk Rơ Ông, Huyện Tu Mơ Rông, Tỉnh Kon Tum
+val/1104.jpg	Ia H' Drai
+val/1091.jpg	xã tu mơ rông, huyện tu mơ rông, tỉnh kon tum
+val/1113.jpg	Xa Ia Dom
+val/1175.jpg	Xã Đắk R'Măng
+val/1213.jpg	Xã Đắk DRông, Huyện Cư Jút, Tỉnh Đắk Nông
+val/1069.jpg	xã măng ri
+val/1153.jpg	xã quảng thành, thị xã gia nghĩa, tỉnh đắk nông
+val/1106.jpg	ia h' drai, kon tum
+val/1137.jpg	Phường Nghĩa Phú, Thị xã Gia Nghĩa, Tỉnh Đắk Nông
+val/1222.jpg	TRÚC SƠN
+val/1156.jpg	ĐẮK NIA, GIA NGHĨA, ĐẮK NÔNG
+val/1150.jpg	Quảng Thành
+val/1116.jpg	Ia Tơi
+val/1031.jpg	Xã Mô Rai, Huyện Sa Thầy, Tỉnh Kon Tum
+val/1209.jpg	Xã Nam Dong, Huyện Cư Jút, Tỉnh Đắk Nông
+val/1188.jpg	Dak Som, Dak Glong, Dak Nong
+val/1126.jpg	NGHĨA ĐỨC
+val/1065.jpg	Xa Dak Na
+val/1148.jpg	Dak R'Moan, Gia Nghia, Dak Nong
+val/1097.jpg	Xã Tê Xăng
+val/1096.jpg	Tê Xăng
+val/1105.jpg	Huyện Ia H' Drai
+val/1080.jpg	Dak Ro Ong
+val/1044.jpg	ya xiêr
+val/1204.jpg	Ea Pô, Cư Jút, Đắk Nông
+val/1132.jpg	Nghĩa Thành, Gia Nghĩa, Đắk Nông
+val/1086.jpg	ĐẮK TƠ KAN, TU MƠ RÔNG, KON TUM
+val/1180.jpg	Quảng Khê, Đăk Glong, Đắk Nông
+val/1218.jpg	Cu Knia
+val/1141.jpg	Phuong Nghia Tan, Thi xa Gia Nghia, Tinh Dak Nong
+val/1211.jpg	XÃ ĐẮK DRÔNG
+val/1034.jpg	Sa Sơn, Sa Thầy, Kon Tum
+val/1125.jpg	Thị xã Gia Nghĩa, Tỉnh Đắk Nông
+val/1219.jpg	XÃ CƯ KNIA
+val/1066.jpg	Đắk Na, Tu Mơ Rông, Kon Tum
+val/1198.jpg	đắk wil
+val/1146.jpg	đăk r'moan
+val/1093.jpg	Xa Dak Ha
+val/1027.jpg	xã hơ moong, huyện sa thầy, tỉnh kon tum
+val/1020.jpg	sa nhơn
+val/1054.jpg	Ya ly, Sa Thay, Kon Tum
+val/1067.jpg	xã đắk na, huyện tu mơ rông, tỉnh kon tum
+val/1183.jpg	Xa Dak Plao
+val/1140.jpg	Nghia Tan, Gia Nghia, Dak Nong
+val/1035.jpg	Xã Sa Sơn, Huyện Sa Thầy, Tỉnh Kon Tum
+val/1187.jpg	XÃ ĐẮK SOM
+val/1174.jpg	đắk r'măng
+val/1167.jpg	Xã Quảng Hoà
+val/1217.jpg	Xã Tâm Thắng, Huyện Cư Jút, Tỉnh Đắk Nông
+val/1151.jpg	xã quảng thành
+val/1135.jpg	Phường Nghĩa Phú
+val/1212.jpg	Đắk DRông, Cư Jút, Đắk Nông
+val/1121.jpg	TỈNH ĐẮK NÔNG
+val/1087.jpg	Xã Đắk Tơ Kan, Huyện Tu Mơ Rông, Tỉnh Kon Tum
+val/1178.jpg	Quảng Khê
+val/1203.jpg	Xã Ea Pô
+val/1103.jpg	XÃ VĂN XUÔI, HUYỆN TU MƠ RÔNG, TỈNH KON TUM
+val/1114.jpg	IA DOM, IA H' DRAI, KON TUM
+val/1129.jpg	PHƯỜNG NGHĨA ĐỨC, THỊ XÃ GIA NGHĨA, TỈNH ĐẮK NÔNG
+val/1210.jpg	ĐẮK DRÔNG
+val/1124.jpg	Gia Nghia, Dak Nong
+val/1145.jpg	Phường Nghĩa Trung, Thị xã Gia Nghĩa, Tỉnh Đắk Nông
+val/1166.jpg	QUẢNG HOÀ
+val/1073.jpg	xã ngok yêu
+val/1165.jpg	Xa Quang Son, Huyen Dak Glong, Tinh Dak Nong
+val/1197.jpg	Thị trấn Ea T'Ling, Huyện Cư Jút, Tỉnh Đắk Nông
+val/1089.jpg	xã tu mơ rông
+val/1173.jpg	Xa Dak Ha, Huyen Dak Glong, Tinh Dak Nong
+val/1205.jpg	Xã Ea Pô, Huyện Cư Jút, Tỉnh Đắk Nông
+val/1164.jpg	Quảng Sơn, Đăk Glong, Đắk Nông
+val/1182.jpg	Đắk Plao
+val/5801.jpg	màu đỏ sậm thì lại ngả sang màu... đen cháy. Nhưng nhìn mâm cơm, mẹ vẫn cười.
+val/5802.jpg	Bởi vì hai bố con không thể thành công trên " chiến trường " bếp núc, nhưng lại thành
+val/5803.jpg	công khi tặng mẹ " đoá hồng " của tình yêu. Một món quà ý nghĩa hơn cả những
+val/5804.jpg	món quà quý giá, hạnh phúc ấy long lanh in trong mắt mẹ.
+val/5805.jpg	Thành công còn là hình ảnh một cậu bé bị dị tật ở chân, không bao giờ đi lại bình
+val/5806.jpg	thường được. Từ nhỏ cậu đã nuôi ước mơ trở thành cầu thủ bóng đá. Sau bao nỗ lực khổ
+val/5807.jpg	luyện, cậu bé trở thành cầu thủ dự bị trong một đội bóng nhỏ, và chưa bao giờ được
+val/5808.jpg	chính thức ra sân. Nhưng đó không phải là thất bại. Trái lại, thành công đã nở hoa
+val/5809.jpg	khi cậu bé năm xưa, với bao nghị lực và quyết tâm, đã chiến thắng hoàn cảnh để theo
+val/5810.jpg	đuổi ước mơ từ ngày thơ bé.
+val/5811.jpg	Thành công ấy, liệu có mấy người đạt được? Sau mỗi mùa thi đại học, có bao
+val/5812.jpg	" tử sĩ ". Hai bảy điểm, cao thật đấy. Nhưng cao mà làm gì khi NV1 lấy tới hai
+val/5813.jpg	bảy phẩy năm? Đó thật ra không phải là thất bại, chỉ là khi thành công - bị - trì -
+val/5814.jpg	hoãn mà thôi. Cuộc sống vẫn chào đón họ với NV2, NV3. Quan trọng là họ
+val/5815.jpg	đã nỗ lực hết sức để khẳng định mình. Đó là ý nghĩa vẹn nguyên của các kỳ thi,
+val/5816.jpg	và cũng là bản chất của thành công.
+val/5817.jpg	KHÁI QUÁT VỀ BIỂN ĐẢO VIỆT NAM
+val/5818.jpg	Nước ta giáp với biển Đông ở hai phía Đông và Nam. Vùng biển Việt Nam là
+val/5819.jpg	một phần biển Đông.
+val/5820.jpg	Bờ biển dài 3.260 km, từ Quảng Ninh đến Kiên Giang. Như vậy cứ 100 km2 thì
+val/5821.jpg	có 1 km bờ biển (trung bình của thế giới là 600 km2 đất liền / 1 km bờ biển).
+val/5822.jpg	Biển có vùng nội thủy, lãnh hải, vùng đặc quyền kinh tế và thềm lục địa với diện
+val/5823.jpg	tích trên 1 triệu km2 (gấp 3 diện tích đất liền : 1 triệu km2 / 330.000 km2)
+val/5824.jpg	Trong đó có 2 quần đảo Hoàng Sa, Trường Sa và 2.577 đảo lớn, nhỏ, gần và xa bờ,
+val/5825.jpg	hợp thành phòng tuyến bảo vệ, kiểm soát và làm chủ vùng biển.
+val/5826.jpg	Có vị trí chiến lược quan trọng : nối liền Thái Bình Dương với Ấn Độ Dương, châu Á
+val/5827.jpg	với châu Âu, châu Úc với Trung Đông. Giao lưu quốc tế thuận lợi, phát triển
+val/5828.jpg	ngành biển.
+val/5829.jpg	Có khí hậu biển là vùng nhiệt đới tạo điều kiện cho sinh vật biển phát triển,
+val/5830.jpg	tồn tại tốt.
+val/5831.jpg	Có tài nguyên sinh vật và khoáng sản phong phú, đa dạng, quý hiếm.
+val/5832.jpg	Vùng biển và hải đảo nước ta có vị trí chiến lược hết sức to lớn, có ảnh hưởng
+val/5833.jpg	trực tiếp đến sự nghiệp bảo vệ nền độc lập dân tộc và xây dựng chủ nghĩa xã hội,
+val/5834.jpg	có liên quan trực tiếp đến sự phồn vinh của đất nước, đến văn minh và
+val/5835.jpg	hạnh phúc của nhân dân.
+val/5836.jpg	BẢN CHẤT CỦA THÀNH CÔNG
+val/5837.jpg	Đã bao giờ bạn tự hỏi thành công là gì mà bao kẻ bỏ cả cuộc đời mình theo đuổi? Phải chăng
+val/5838.jpg	đó là kết quả hoàn hảo trong công việc, sự chính xác đến từng chi tiết? Hay đó là cách
+val/5839.jpg	nói khác của từ thành đạt, nghĩa là có được một cuộc sống giàu sang, được mọi người
+val/5840.jpg	nể phục? Vậy thì bạn hãy dành chút thời gian để lặng mình suy ngẫm.
+val/5841.jpg	Cuộc sống sẽ chỉ cho bạn có những người đạt được thành công theo một cách giản dị đến
+val/5842.jpg	bất ngờ
+val/5843.jpg	Thành công là khi bố và con trai có dũng khí bước vào bếp, nấu những món ăn mẹ
+val/5844.jpg	thích nhân ngày 8 - 3. Món canh có thể hơi mặn, món cá sốt đáng lẽ phải có màu đỏ sậm
+val/5845.jpg	thì lại ngả sang màu... đen cháy. Nhưng nhìn mâm cơm, mẹ vẫn cười. Bởi vì hai bố
+val/5846.jpg	con không thể thành công trên " chiến trường " bếp núc, nhưng lại thành công khi tặng mẹ " đoá
+val/5847.jpg	hồng " của tình yêu. Một món quà ý nghĩa hơn cả những món quà quý giá, hạnh phúc
+val/5848.jpg	ấy long lanh in trong mắt mẹ.
+val/5849.jpg	Thành công còn là hình ảnh một cậu bé bị dị tật ở chân, không bao giờ đi lại bình
+val/5850.jpg	thường được. Từ nhỏ cậu đã nuôi ước mơ trở thành cầu thủ bóng đá. Sau bao nỗ lực
+val/5851.jpg	khổ luyện, cậu bé trở thành cầu thủ dự bị trong một đội bóng nhỏ, và chưa bao giờ
+val/5852.jpg	được chính thức ra sân. Nhưng đó không phải là thất bại. Trái lại, thành công đã nở hoa
+val/5853.jpg	khi cậu bé năm xưa, với bao nghị lực và quyết tâm, đã chiến thắng hoàn cảnh để theo đuổi
+val/5854.jpg	ước mơ từ ngày thơ bé
+val/5855.jpg	Thành công ấy, liệu có mấy người đạt được?
+val/5856.jpg	Sau mỗi mùa thi đại học, có bao " sĩ tử " buồn rầu khi biết mình trở thành " tử sĩ "
+val/5857.jpg	Hai bảy điểm, cao thật đấy. Nhưng cao mà làm gì khi NV1 lấy tới hai bảy phẩy năm?
+val/5858.jpg	Đó thật ra không phải là thất bại, chỉ là khi thành công - bị - trì - hoãn mà thôi. Cuộc sống
+val/5859.jpg	vẫn chào đón họ với NV2, NV3. Quan trọng là họ đã nỗ lực hết sức để khẳng định mình.
+val/5860.jpg	Đó là ý nghĩa vẹn nguyên của các kỳ thi, và cũng là bản chất của thành công.
+val/5861.jpg	KHÁI QUÁT VỀ BIỂN ĐẢO VIỆT NAM
+val/5862.jpg	Nước ta giáp với biển Đông ở hai phía Đông và Nam. Vùng biển Việt Nam là một phần biển Đông.
+val/5863.jpg	Bờ biển dài 3.260 km, từ Quảng Ninh đến Kiên Giang. Như vậy cứ 100 km2 thì có km bờ biển
+val/5864.jpg	(trung bình của thế giới là 600 km2 đất liền / 1 km bờ biển).
+val/5865.jpg	Biển có vùng nội thủy, lãnh hải, vùng đặc quyền kinh tế và thềm lục địa với diện tích trên 1 triệu
+val/5866.jpg	km2 (gấp 3 diện tích đất liền : 1 triệu km2 / 330.000 km2)
+val/5867.jpg	Trong đó có 2 quần đảo Hoàng Sa, Trường Sa và 2.577 đảo lớn, nhỏ, gần và xa bờ, hợp thành
+val/5868.jpg	phòng tuyến bảo vệ, kiểm soát và làm chủ vùng biển.
+val/5869.jpg	Có vị trí chiến lược quan trọng : nối liền Thái Bình Dương với Ấn Độ Dương, châu Á với châu Âu,
+val/5870.jpg	châu Úc với Trung Đông. Giao lưu quốc tế thuận lợi, phát triển ngành biển.
+val/5871.jpg	Có khí hậu biển là vùng nhiệt đới tạo điều kiện cho sinh vật biển phát triển, tồn tại tốt.
+val/5872.jpg	Có tài nguyên sinh vật và khoáng sản phong phú, đa dạng, quý hiếm.
+val/5873.jpg	Vùng biển và hải đảo nước ta có vị trí chiến lược hết sức to lớn, có ảnh hưởng trực tiếp đến sự
+val/5874.jpg	nghiệp bảo vệ nền độc lập dân tộc và xây dựng chủ nghĩa xã hội, có liên quan trực tiếp đến sự
+val/5875.jpg	phồn vinh của đất nước, đến văn minh và hạnh phúc của nhân dân.
+val/5876.jpg	BẢN CHẤT CỦA THÀNH CÔNG
+val/5877.jpg	Đã bao giờ bạn tự hỏi thành công là gì mà bao kẻ bỏ cả cuộc đời mình theo đuổi? Phải
+val/5878.jpg	chăng đó là kết quả hoàn hảo trong công việc, sự chính xác đến từng chi tiết? Hay đó
+val/5879.jpg	là cách nói khác của từ thành đạt, nghĩa là có được một cuộc sống giàu sang,
+val/5880.jpg	được mọi người nể phục?
+val/5881.jpg	Vậy thì bạn hãy dành chút thời gian để lặng mình suy ngẫm.
+val/5882.jpg	Cuộc sống sẽ chỉ cho bạn có những người đạt được thành công theo một cách giản
+val/5883.jpg	dị đến bất ngờ.
+val/5884.jpg	Thành công là khi bố và con trai có dũng khí bước vào bếp, nấu những món
+val/5885.jpg	ăn mẹ thích nhân ngày 8 - 3. Món canh có thể hơi mặn, món cá sốt đáng lẽ phải có
+val/5886.jpg	màu đỏ sậm thì lại ngả sang màu... đen cháy. Nhưng nhìn mâm cơm, mẹ vẫn
+val/5887.jpg	cười. Bởi vì hai bố con không thể thành công trên " chiến trường " bếp núc, nhưng
+val/5888.jpg	lại thành công khi tặng mẹ " đoá hồng " của tình yêu. Một món quà ý nghĩa hơn cả
+val/5889.jpg	những món quà quý giá, hạnh phúc ấy long lanh in trong mắt mẹ.
+val/5890.jpg	Thành công còn là hình ảnh một cậu bé bị dị tật ở chân, không bao giờ đi lại bình
+val/5891.jpg	thường được. Từ nhỏ cậu đã nuôi ước mơ trở thành cầu thủ bóng đá. Sau bao nỗ
+val/5892.jpg	lực khổ luyện, cậu bé trở thành cầu thủ dự bị trong một đội bóng nhỏ, và chưa bao
+val/5893.jpg	giờ được chính thức ra sân. Nhưng đó không phải là thất bại. Trái lại, thành
+val/5894.jpg	công đã nở hoa khi cậu bé năm xưa, với bao nghị lực và quyết tâm, đã chiến
+val/5895.jpg	thắng hoàn cảnh để theo đuổi ước mơ từ ngày thơ bé.
+val/5896.jpg	Thành công ấy, liệu có mấy người đạt được?
+val/5897.jpg	Sau mỗi mùa thi đại học, có bao " sĩ tử " buồn rầu khi biết mình trở thành " tử sĩ ".
+val/5898.jpg	Hai bảy điểm, cao thật đấy. Nhưng cao mà làm gì khi NV1 lấy tới hai bảy phẩy
+val/5899.jpg	năm? Đó thật ra không phải là thất bại, chỉ là khi thành công - bị - trì - hoãn mà
+val/5900.jpg	thôi. Cuộc sống vẫn chào đón họ với NV2, NV3. Quan trọng là họ đã nỗ lực
+val/5901.jpg	hết sức để khẳng định mình. Đó là ý nghĩa vẹn nguyên của các kỳ thi, và cũng
+val/5902.jpg	là bản chất của thành công.
+val/5903.jpg	KHÁI QUÁT VỀ BIỂN ĐẢO VIỆT NAM
+val/5904.jpg	Nước ta giáp với biển Đông ở hai phía Đông và Nam. Vùng biển Việt Nam là một
+val/5905.jpg	phần biển Đông.
+val/5906.jpg	Bờ biển dài 3.260 km, từ Quảng Ninh đến Kiên Giang. Như vậy cứ 100 km2 thì
+val/5907.jpg	có 1 km bờ biển (trung bình của thế giới là 600 km2 đất liền / 1 km bờ biển).
+val/5908.jpg	Biển có vùng nội thủy, lãnh hải, vùng đặc quyền kinh tế và thềm lục địa với diện
+val/5909.jpg	tích trên 1 triệu km2 (gấp 3 diện tích đất liền : 1 triệu km2 / 330.000 km2).
+val/5910.jpg	Trong đó có 2 quần đảo Hoàng Sa, Trường Sa và 2.577 đảo lớn, nhỏ, gần và xa bờ,
+val/5911.jpg	hợp thành phòng tuyến bảo vệ, kiểm soát và làm chủ vùng biển.
+val/5912.jpg	Có vị trí chiến lược quan trọng : nối liền Thái Bình Dương với Ấn Độ Dương, châu Á
+val/5913.jpg	với châu Âu, châu Úc với Trung Đông. Giao lưu quốc tế thuận lợi, phát triển
+val/5914.jpg	ngành biển.
+val/5915.jpg	Có khí hậu biển là vùng nhiệt đới tạo điều kiện cho sinh vật biển phát triển, tồn
+val/5916.jpg	tại tốt.
+val/5917.jpg	Có tài nguyên sinh vật và khoáng sản phong phú, đa dạng, quý hiếm.
+val/5918.jpg	Vùng biển và hải đảo nước ta có vị trí chiến lược hết sức to lớn, có ảnh hưởng trực
+val/5919.jpg	tiếp đến sự nghiệp bảo vệ nền độc lập dân tộc và xây dựng chủ nghĩa xã hội,
+val/5920.jpg	có liên quan trực tiếp đến sự phồn vinh của đất nước, đến văn minh và hạnh
+val/5921.jpg	phúc của nhân dân.
+val/5922.jpg	Mãi mãi tuổi 20. Nguyễn Kỳ Sơn chỉ là một trong hàng chục vạn người lính đã nằm xuống
+val/5923.jpg	cho độc lập tự do của Tổ quốc, anh cũng chỉ là một liệt sĩ bình thường như hàng ngàn người
+val/5924.jpg	lính đã hi sinh nay vẫn chưa tìm thấy thân xác... Nhưng những dòng nhật ký của anh là
+val/5925.jpg	câu chuyện chân thực và đầy thuyết phục về một thế hệ, họ đã sống cho lý tưởng, cống hiến
+val/5926.jpg	tuổi xuân một cách đầy lãng mạn. Sáng 27 - 7, như mọi năm tôi vào thắp hương ở đài
+val/5927.jpg	tưởng niệm Thành Cổ Quảng Trị.
+val/5928.jpg	Buổi sáng hôm ấy ràn rạt gió Lào, nhang trên đài tưởng niệm thắp xong cứ cháy bùng lên
+val/5929.jpg	thành lửa ngọn. Như một nghi lễ thiêng liêng, hàng trăm người vẫn đến dâng hương vào
+val/5930.jpg	ngày này. Nhưng có hai người phụ nữ hơi khác thường : khi dâng hương đã khóc vật vã
+val/5931.jpg	trên đài. Họ là hai chị em gái quê tận Quảng Bình, gần 30 năm nay đi tìm mộ của người
+val/5932.jpg	anh trai ngã xuống ở vùng đất này mà cho đến giờ vẫn chưa tìm thấy.
+val/5933.jpg	Thì vẫn có hàng ngàn cuộc kiếm tìm như vậy, nhưng câu chuyện về người anh trai của hai
+val/5934.jpg	người phụ nữ tôi gặp trong buổi sáng 27 - 7 trên đài tưởng niệm Thành Cổ Quảng Trị thì
+val/5935.jpg	không như những cuộc kiếm tìm khác. Hai chị lấy từ trong túi xách ra một cuốn nhật ký
+val/5936.jpg	đã ố vàng. Cuốn nhật ký của một người lính trẻ, anh là Nguyễn Kỳ Sơn. Đồng đội anh đã
+val/5937.jpg	chuyển cuốn nhật ký về cho gia đình sau khi anh hi sinh và được gia đình gìn giữ như
+val/5938.jpg	một báu vật thiêng liêng.
+val/5939.jpg	Và những trang nhật ký ấy khiến chúng tôi vô cùng xúc động. Đang là sinh viên năm 2
+val/5940.jpg	của Trường đại học Thủy lợi Hà Nội, đến đợt động viên năm 1972 thì anh Nguyễn Kỳ Sơn
+val/5941.jpg	vào lính. Khi ấy anh 20 tuổi. Có một thế hệ sinh viên đã vào trận như thế. Lãng mạn, yêu
+val/5942.jpg	nước, đầy nhiệt huyết. Lần giở những trang nhật ký của liệt sĩ Nguyễn Kỳ Sơn sau hơn
+val/5943.jpg	30 năm, những dòng chữ rắn rỏi của một sinh viên, viết giữa đạn bom ác liệt, khoảng
+val/5944.jpg	lặng giữa hai trận đánh...
+val/5945.jpg	Tự thân đã nói lên nhiều điều. Sau gần 30 bài thơ anh viết khi đang huấn luyện ở hậu
+val/5946.jpg	phương là những trang nhật ký viết trong bom đạn. Chúng tôi chỉ xin trích lại đây những
+val/5947.jpg	dòng nhật ký ấy được viết ở Ái Tử, một trận địa nằm không xa Thành Cổ :... 8-1972.
+val/5948.jpg	Lọc lừa hàng chợ. Đêm 18 - 9, lang Thưởng đang uống rượu với tôi ở Phúc Yên (Mê Linh,
+val/5949.jpg	Vĩnh Phúc) thì một chiếc xe hơi đón xuống Hà Nội gấp xem giúp bộ xương hổ từ Ấn Độ về.
+val/5950.jpg	Xe vượt cầu Lủ rẽ vào khu Định Công (Hai Bà Trưng) đến một biệt thự lớn. Chủ và
+val/5951.jpg	khách đang đứng trước một thùng kim loại có hệ thống giữ nhiệt hiện đại, gắn nhãn nước
+val/5952.jpg	ngoài. Bên trong là một khối đá lạnh trong suốt ôm chặt một con hổ da vàng vằn
+val/5953.jpg	vện bị móp vào bộ xương thịt đã móc hết ruột gan.
+val/5954.jpg	Tay " lái hổ " nói : " Nó vừa từ chuyên cơ hạ cánh xuống VN; nặng 2,7 tạ (khi sống),
+val/5955.jpg	giá 500 triệu đồng ". Chủ nhà, viện phó một bệnh viện, gật và đếm tiền. " Lái hổ "
+val/5956.jpg	dặn lang Thưởng tìm khách mua xương thì được hưởng 5 triệu. Nếu lấy ngay,
+val/5957.jpg	hắn chỉ còn ba bộ 5, 7 và 8 kg. Giá xương to nhỏ chênh nhau 2 triệu / kg. Lang
+val/5958.jpg	Thưởng cho hay : hiện ở Hà Nội ông có thể mua xương hổ bất cứ lúc nào sau
+val/5959.jpg	ba giờ hẹn.
+val/5960.jpg	Muốn hổ tươi thì đợi vài tuần. Các phương tiện vận chuyển hầu hết là đặc chủng hoặc
+val/5961.jpg	giấy phép đặc biệt. Hổ này là của Ấn Độ, Bangladesh, Sri Lanka, Nga, Thái Lan...
+val/5962.jpg	Đường thứ ba là từ Campuchia, Lào về qua các cửa khẩu Cầu Treo (Hà Tĩnh) và
+val/5963.jpg	Lai Châu. Cách đây vài năm, lực lượng an ninh Ninh Bình bắt được một vụ buôn bán
+val/5964.jpg	gần 30 bộ xương hổ. Nhưng khi kiểm tra thì toàn là... bột ximăng. Hàng giả
+val/5965.jpg	độc nhất là làm xương hổ bằng bột ximăng, thạch cao với những đường nét, hoa văn,
+val/5966.jpg	trọng lượng, thậm chí cả khuyết tật, vết trúng thương hay đặc điểm sống ở các vùng
+val/5967.jpg	cũng được các " nghệ sĩ điêu khắc " phù phép như
+val/5968.jpg	Lừa thông thường là tráo bằng xương gấu, xương báo, xương ngựa. Có " tâm "
+val/5969.jpg	hơn là trộn xương khác và " tử tế " nhất là bớt đi một số xương quan trọng hoặc
+val/5970.jpg	gắn thêm thịt vào cho nặng... Lừa cấp thấp hơn là khi nấu cao lấy trộm dịch
+val/5971.jpg	chiết, pha thêm các xương trâu, mèo, chó, gấu...
+val/5972.jpg	Dứt tiếng máy bay, bầu trời như được vút lên cao. Cả bốn phương
+val/5973.jpg	lồng lộng cái gió nam của tháng bảy, cái rực vàng của những
+val/5974.jpg	tia nắng đầu những ngày mưa. Cây lá hình như xanh hơn, thắm
+val/5975.jpg	hơn nhờ được tắm sau trận mưa đêm qua hay muốn tranh thủ lớn thêm
+val/5976.jpg	một tí trong phút giây ngắn ngủi thanh bình này? Bầu trời ở đây có
+val/5977.jpg	khác gì bầu trời quê ta, bầu trời miền Bắc thanh bình có chim có
+val/5978.jpg	bướm mà dưới khoảng xanh ấy có tuổi trẻ của ta, ước mơ của
+val/5979.jpg	ta...
+val/5980.jpg	Ta yêu hòa bình, ta yêu màu xanh, cho ta sống mãi với màu xanh
+val/5981.jpg	này, màu xanh tương lai, màu xanh mà ta phải tranh đấu. Trong
+val/5982.jpg	bom đạn tưởng chừng như không bao giờ dứt, một phút như thế này
+val/5983.jpg	có ý nghĩa biết bao nhiêu. Ta càng yêu quí cuộc sống đến bao
+val/5984.jpg	nhiêu... Một đoạn nhật ký khác khiến người đọc bật cười rồi chợt nao
+val/5985.jpg	lòng vì sự hồn nhiên của những người lính trẻ : Bây giờ đã 7
+val/5986.jpg	giờ tối thế mà vẫn không dứt tiếng máy bay Mỹ, tiếng đại
+val/5987.jpg	bác đì đùng...
+val/5988.jpg	Đêm ngày giờ khắc vẫn được tính bằng khoảng cách thời gian
+val/5989.jpg	giữa những trận B.52, những trận pháo kích. Tiểu đội tôi bốn
+val/5990.jpg	người đã đào được ba hầm vòm. Bây giờ chỉ còn mình tôi với
+val/5991.jpg	một ngọn đèn. Gió nhẹ đưa đẩy bản hợp xướng của hàng trăm
+val/5992.jpg	chú muỗi... Và việc của tôi lại bắt đầu... Những lúc như thế
+val/5993.jpg	này thì việc lý thú nhất vẫn là việc bắt muỗi bằng ngọn đèn
+val/5994.jpg	làm bằng vỏ hộp Coca Cola Mỹ.
+val/5995.jpg	Những chú muỗi gầy có, béo có, nhỏ có, to có lần lượt lao vào ngọn
+val/5996.jpg	đèn đầy muội đen. A! OV.10 này. A! L.19 này, con này là
+val/5997.jpg	B.52, con này bay nhanh quá, phong cho nó là F.4 vậy, cứ
+val/5998.jpg	thế mỗi con là một cái tên tương xứng với không lực Hoa Kỳ lần
+val/5999.jpg	lượt lao qua ngọn đèn của tôi... Một trò chơi của một người lính
+val/6000.jpg	trẻ dưới công sự, bên trời bom đạn... Cứ nhìn những bức ảnh, xem

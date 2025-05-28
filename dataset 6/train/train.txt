@@ -1,0 +1,1020 @@
+train/184.jpg	Tân An, Tân Châu, An Giang
+train/233.jpg	xã phú lâm, huyện phú tân, tỉnh an giang
+train/594.jpg	hòa an
+train/49.jpg	Phường Mỹ Hòa, Thành Phố Long Xuyên, Tỉnh An Giang
+train/224.jpg	long hoà, phú tân, an giang
+train/757.jpg	Xa Hoa Binh
+train/545.jpg	Xã Long Điền A, Huyện Chợ Mới, Tỉnh An Giang
+train/377.jpg	Xã Văn Giáo, Huyện Tịnh Biên, Tỉnh An Giang
+train/117.jpg	xã nhơn hội, huyện an phú, tỉnh an giang
+train/806.jpg	Đắk Kroong, Đắk Glei, Kon Tum
+train/694.jpg	THẮNG LỢI, KON TUM, KON TUM
+train/951.jpg	xã đắk pne, huyện kon rẫy, tỉnh kon tum
+train/69.jpg	Phường Châu Phú A, Thành Phố Châu Đốc, Tỉnh An Giang
+train/470.jpg	An Chau
+train/422.jpg	Vĩnh Gia
+train/1.jpg	Tỉnh An Giang
+train/275.jpg	XÃ BÌNH THẠNH ĐÔNG
+train/465.jpg	xã ô lâm, huyện tri tôn, tỉnh an giang
+train/852.jpg	Đắk Tô
+train/932.jpg	đắk rve
+train/760.jpg	Đắk Glei
+train/437.jpg	xã lương phi, huyện tri tôn, tỉnh an giang
+train/510.jpg	vĩnh nhuận
+train/258.jpg	Hiep Xuong
+train/898.jpg	ĐẮK RING, KON PLÔNG, KON TUM
+train/873.jpg	Xã Kon Đào
+train/958.jpg	Tân Lập, Kon Rẫy, Kon Tum
+train/364.jpg	An Phú, Tịnh Biên, An Giang
+train/174.jpg	VĨNH HÒA
+train/284.jpg	Tân Trung, Phú Tân, An Giang
+train/592.jpg	Hòa Bình, Chợ Mới, An Giang
+train/726.jpg	ngọk bay, kon tum, kon tum
+train/503.jpg	Xã Hòa Bình Thạnh
+train/462.jpg	Ô LÂM
+train/415.jpg	Xã Lạc Quới
+train/203.jpg	Xã Lê Chánh
+train/7.jpg	PHƯỜNG MỸ BÌNH
+train/815.jpg	Huyen Ngoc Hoi, Tinh Kon Tum
+train/347.jpg	Thị Trấn Nhà Bàng
+train/335.jpg	Xa Binh Phu
+train/362.jpg	an phú
+train/767.jpg	thị trấn đắk glei, huyện đắk glei, tỉnh kon tum
+train/208.jpg	Long Son, Tan Chau, An Giang
+train/478.jpg	CẦN ĐĂNG
+train/950.jpg	Đắk Pne, Kon Rẫy, Kon Tum
+train/23.jpg	PHƯỜNG BÌNH ĐỨC
+train/491.jpg	xã vĩnh bình
+train/823.jpg	xã đắk ang, huyện ngọc hồi, tỉnh kon tum
+train/596.jpg	hòa an, chợ mới, an giang
+train/181.jpg	XÃ TÂN THẠNH, THỊ XÃ TÂN CHÂU, TỈNH AN GIANG
+train/537.jpg	XÃ KIẾN AN, HUYỆN CHỢ MỚI, TỈNH AN GIANG
+train/1014.jpg	SA THẦY, SA THẦY, KON TUM
+train/379.jpg	Xa An Cu
+train/576.jpg	LONG KIẾN, CHỢ MỚI, AN GIANG
+train/575.jpg	Xa Long Kien
+train/95.jpg	Thị Trấn An Phú
+train/12.jpg	My Long, Long Xuyen, An Giang
+train/508.jpg	Vĩnh Lợi, Châu Thành, An Giang
+train/106.jpg	Khánh Bình
+train/171.jpg	Xã Vĩnh Xương
+train/157.jpg	PHƯỜNG LONG THẠNH, THỊ XÃ TÂN CHÂU, TỈNH AN GIANG
+train/647.jpg	XÃ MỸ PHÚ ĐÔNG
+train/758.jpg	Hòa Bình, Kon Tum, Kon Tum
+train/975.jpg	XÃ ĐĂK LONG, HUYỆN ĐẮK HÀ, TỈNH KON TUM
+train/689.jpg	Phường Trường Chinh
+train/378.jpg	AN CƯ
+train/147.jpg	Xã Đa Phước
+train/219.jpg	thị trấn chợ vàm
+train/113.jpg	xã quốc thái, huyện an phú, tỉnh an giang
+train/344.jpg	Tinh Bien, An Giang
+train/742.jpg	Dak Nang, Kon Tum, Kon Tum
+train/400.jpg	tân lập, tịnh biên, an giang
+train/1005.jpg	Xã Đắk La
+train/4.jpg	LONG XUYÊN, AN GIANG
+train/185.jpg	Xã Tân An, Thị Xã Tân Châu, Tỉnh An Giang
+train/967.jpg	THỊ TRẤN ĐẮK HÀ, HUYỆN ĐẮK HÀ, TỈNH KON TUM
+train/610.jpg	óc eo
+train/387.jpg	Xã Vĩnh Trung
+train/256.jpg	phú xuân, phú tân, an giang
+train/782.jpg	Dak Pek, Dak Glei, Kon Tum
+train/952.jpg	đắk tờ re
+train/547.jpg	Xã Tấn Mỹ
+train/667.jpg	Xã Vọng Thê
+train/101.jpg	Xã Khánh An, Huyện An Phú, Tỉnh An Giang
+train/239.jpg	Xã Phú Thạnh
+train/361.jpg	Xa Nhon Hung, Huyen Tinh Bien, Tinh An Giang
+train/77.jpg	PHƯỜNG NÚI SAM, THÀNH PHỐ CHÂU ĐỐC, TỈNH AN GIANG
+train/830.jpg	Đắk Nông, Ngọc Hồi, Kon Tum
+train/867.jpg	xã đắk trăm, huyện đắk tô, tỉnh kon tum
+train/563.jpg	Xa My An
+train/590.jpg	hòa bình
+train/988.jpg	ĐẮK MAR
+train/334.jpg	Bình Phú
+train/302.jpg	MỸ PHÚ
+train/893.jpg	xã đắk nên
+train/26.jpg	BÌNH KHÁNH
+train/701.jpg	Phường Thống Nhất
+train/762.jpg	ĐẮK GLEI, KON TUM
+train/5.jpg	Thanh pho Long Xuyen, Tinh An Giang
+train/687.jpg	Phường Quyết Thắng, Thành Phố Kon Tum, Tỉnh Kon Tum
+train/461.jpg	Xa Tan Tuyen, Huyen Tri Ton, Tinh An Giang
+train/965.jpg	Thị trấn Đắk Hà
+train/718.jpg	Đắk Cấm, Kon Tum, Kon Tum
+train/59.jpg	Thanh pho Chau Doc
+train/617.jpg	Xã Tây Phú, Huyện Thoại Sơn, Tỉnh An Giang
+train/790.jpg	Xốp, Đắk Glei, Kon Tum
+train/381.jpg	Xa An Cu, Huyen Tinh Bien, Tinh An Giang
+train/572.jpg	Long Giang, Cho Moi, An Giang
+train/432.jpg	Chau Lang, Tri Ton, An Giang
+train/509.jpg	Xa Vinh Loi, Huyen Chau Thanh, Tinh An Giang
+train/468.jpg	Châu Thành, An Giang
+train/273.jpg	Xã Phú Hưng, Huyện Phú Tân, Tỉnh An Giang
+train/16.jpg	Đông Xuyên, Long Xuyên, An Giang
+train/47.jpg	phường mỹ hòa
+train/881.jpg	Xã Diên Bình
+train/1010.jpg	SA THẦY, KON TUM
+train/807.jpg	Xã Đắk KRoong, Huyện Đắk Glei, Tỉnh Kon Tum
+train/369.jpg	xã thới sơn, huyện tịnh biên, tỉnh an giang
+train/551.jpg	Xã Long Điền B
+train/730.jpg	Vinh Quang, Kon Tum, Kon Tum
+train/160.jpg	LONG HƯNG, TÂN CHÂU, AN GIANG
+train/98.jpg	KHÁNH AN
+train/83.jpg	Xã Vĩnh Tế
+train/2.jpg	Long Xuyên
+train/87.jpg	Xa Vinh Chau
+train/487.jpg	xã bình thạnh
+train/972.jpg	đăk long
+train/525.jpg	HUYỆN CHỢ MỚI, TỈNH AN GIANG
+train/472.jpg	An Châu, Châu Thành, An Giang
+train/476.jpg	An Hoa, Chau Thanh, An Giang
+train/245.jpg	Xã Hoà Lạc, Huyện Phú Tân, Tỉnh An Giang
+train/318.jpg	BÌNH LONG
+train/193.jpg	Phường Long Phú, Thị xã Tân Châu, Tỉnh An Giang
+train/165.jpg	Phuong Long Chau, Thi xa Tan Chau, Tinh An Giang
+train/139.jpg	xã vĩnh trường
+train/97.jpg	thị trấn an phú, huyện an phú, tỉnh an giang
+train/143.jpg	Xa Vinh Hoi Dong
+train/420.jpg	LÊ TRÌ, TRI TÔN, AN GIANG
+train/375.jpg	Xa Van Giao
+train/477.jpg	xã an hòa, huyện châu thành, tỉnh an giang
+train/66.jpg	CHÂU PHÚ A
+train/496.jpg	Bình Hòa, Châu Thành, An Giang
+train/560.jpg	Mỹ Hiệp, Chợ Mới, An Giang
+train/558.jpg	My Hiep
+train/869.jpg	Xã Văn Lem
+train/900.jpg	măng buk
+train/111.jpg	XÃ QUỐC THÁI
+train/155.jpg	Phường Long Thạnh
+train/943.jpg	Xa Dak To Lung, Huyen Kon Ray, Tinh Kon Tum
+train/457.jpg	XÃ CÔ TÔ, HUYỆN TRI TÔN, TỈNH AN GIANG
+train/159.jpg	Phuong Long Hung
+train/14.jpg	Đông Xuyên
+train/759.jpg	xã hòa bình, thành phố kon tum, tỉnh kon tum
+train/135.jpg	Xã Vĩnh Hậu
+train/646.jpg	Mỹ Phú Đông
+train/880.jpg	Diên Bình
+train/285.jpg	xã tân trung, huyện phú tân, tỉnh an giang
+train/994.jpg	NGOK WANG, ĐẮK HÀ, KON TUM
+train/953.jpg	XÃ ĐẮK TỜ RE
+train/738.jpg	Ia Chim, Kon Tum, Kon Tum
+train/61.jpg	Thành Phố Châu Đốc, Tỉnh An Giang
+train/549.jpg	xã tấn mỹ, huyện chợ mới, tỉnh an giang
+train/693.jpg	Phường Thắng Lợi
+train/269.jpg	Xa Phu Tho, Huyen Phu Tan, Tinh An Giang
+train/272.jpg	PHÚ HƯNG, PHÚ TÂN, AN GIANG
+train/218.jpg	Chợ Vàm
+train/649.jpg	XÃ MỸ PHÚ ĐÔNG, HUYỆN THOẠI SƠN, TỈNH AN GIANG
+train/971.jpg	XÃ ĐẮK PXI, HUYỆN ĐẮK HÀ, TỈNH KON TUM
+train/281.jpg	Xã Tân Hòa, Huyện Phú Tân, Tỉnh An Giang
+train/750.jpg	Chư Hreng, Kon Tum, Kon Tum
+train/976.jpg	ĐẮK HRING
+train/431.jpg	Xã Châu Lăng
+train/48.jpg	Mỹ Hòa, Long Xuyên, An Giang
+train/739.jpg	Xa Ia Chim, Thanh pho Kon Tum, Tinh Kon Tum
+train/357.jpg	Xa Nui Voi, Huyen Tinh Bien, Tinh An Giang
+train/638.jpg	định mỹ
+train/183.jpg	xã tân an
+train/37.jpg	PHƯỜNG MỸ QUÝ, THÀNH PHỐ LONG XUYÊN, TỈNH AN GIANG
+train/186.jpg	Long An
+train/1004.jpg	đắk la
+train/812.jpg	Ngọc Hồi
+train/243.jpg	xã hoà lạc
+train/705.jpg	PHƯỜNG LÊ LỢI
+train/670.jpg	KON TUM
+train/591.jpg	Xã Hòa Bình
+train/425.jpg	xã vĩnh gia, huyện tri tôn, tỉnh an giang
+train/761.jpg	Huyện Đắk Glei
+train/800.jpg	Dak Long
+train/338.jpg	Bình Chánh
+train/114.jpg	Nhơn Hội
+train/626.jpg	Vinh Trach
+train/423.jpg	xã vĩnh gia
+train/729.jpg	Xa Vinh Quang
+train/121.jpg	Xã Phú Hữu, Huyện An Phú, Tỉnh An Giang
+train/688.jpg	TRƯỜNG CHINH
+train/86.jpg	VĨNH CHÂU
+train/216.jpg	phú mỹ, phú tân, an giang
+train/721.jpg	Xã Kroong
+train/286.jpg	châu phú
+train/513.jpg	Xa Vinh Nhuan, Huyen Chau Thanh, Tinh An Giang
+train/929.jpg	Huyện Kon Rẫy
+train/401.jpg	XÃ TÂN LẬP, HUYỆN TỊNH BIÊN, TỈNH AN GIANG
+train/623.jpg	Xã Vĩnh Phú
+train/323.jpg	XÃ BÌNH MỸ
+train/628.jpg	vĩnh trạch, thoại sơn, an giang
+train/268.jpg	phú thọ, phú tân, an giang
+train/24.jpg	bình đức, long xuyên, an giang
+train/126.jpg	phước hưng
+train/644.jpg	Dinh Thanh, Thoai Son, An Giang
+train/719.jpg	Xã Đắk Cấm, Thành Phố Kon Tum, Tỉnh Kon Tum
+train/110.jpg	quốc thái
+train/777.jpg	Xa Dak Nhoong
+train/278.jpg	Tân Hòa
+train/28.jpg	bình khánh, long xuyên, an giang
+train/44.jpg	Mỹ Thạnh, Long Xuyên, An Giang
+train/36.jpg	Mỹ Quý, Long Xuyên, An Giang
+train/804.jpg	ĐẮK KROONG
+train/564.jpg	mỹ an, chợ mới, an giang
+train/662.jpg	Bình Thành
+train/828.jpg	Đắk Nông
+train/355.jpg	Xa Nui Voi
+train/262.jpg	Phú Bình
+train/434.jpg	Lương Phi
+train/921.jpg	xã đắk long
+train/879.jpg	XÃ TÂN CẢNH, HUYỆN ĐẮK TÔ, TỈNH KON TUM
+train/937.jpg	Xã Đắk Kôi
+train/515.jpg	xã tân phú
+train/733.jpg	Xã Đắk Blà
+train/969.jpg	Xa Dak PXi
+train/195.jpg	xã châu phong
+train/925.jpg	Xa Hieu
+train/228.jpg	Phu Long, Phu Tan, An Giang
+train/569.jpg	Xã Nhơn Mỹ, Huyện Chợ Mới, Tỉnh An Giang
+train/382.jpg	An Nông
+train/301.jpg	Xã Mỹ Đức, Huyện Châu Phú, Tỉnh An Giang
+train/559.jpg	Xã Mỹ Hiệp
+train/700.jpg	Thống Nhất
+train/810.jpg	Dak Mon, Dak Glei, Kon Tum
+train/188.jpg	Long An, Tân Châu, An Giang
+train/238.jpg	Phú Thạnh
+train/293.jpg	THỊ TRẤN CÁI DẦU, HUYỆN CHÂU PHÚ, TỈNH AN GIANG
+train/85.jpg	xã vĩnh tế, thành phố châu đốc, tỉnh an giang
+train/365.jpg	xã an phú, huyện tịnh biên, tỉnh an giang
+train/236.jpg	Phú Hiệp, Phú Tân, An Giang
+train/255.jpg	Xã Phú Xuân
+train/92.jpg	An Phú, An Giang
+train/954.jpg	Dak To Re, Kon Ray, Kon Tum
+train/630.jpg	Phú Thuận
+train/834.jpg	Dak Xu, Ngoc Hoi, Kon Tum
+train/619.jpg	Xã An Bình
+train/680.jpg	duy tân
+train/310.jpg	Vĩnh Thạnh Trung
+train/430.jpg	CHÂU LĂNG
+train/291.jpg	Thị Trấn Cái Dầu
+train/959.jpg	XÃ TÂN LẬP, HUYỆN KON RẪY, TỈNH KON TUM
+train/489.jpg	Xa Binh Thanh, Huyen Chau Thanh, Tinh An Giang
+train/570.jpg	Long Giang
+train/707.jpg	PHƯỜNG LÊ LỢI, THÀNH PHỐ KON TUM, TỈNH KON TUM
+train/676.jpg	Quang Trung
+train/153.jpg	thị xã tân châu, tỉnh an giang
+train/715.jpg	Phường Trần Hưng Đạo, Thành phố Kon Tum, Tỉnh Kon Tum
+train/776.jpg	Dak Nhoong
+train/643.jpg	Xã Định Thành
+train/977.jpg	Xã Đắk Hring
+train/321.jpg	XÃ BÌNH LONG, HUYỆN CHÂU PHÚ, TỈNH AN GIANG
+train/490.jpg	vĩnh bình
+train/960.jpg	ĐẮK HÀ
+train/352.jpg	chi lăng, tịnh biên, an giang
+train/380.jpg	An Cu, Tinh Bien, An Giang
+train/883.jpg	XÃ DIÊN BÌNH, HUYỆN ĐẮK TÔ, TỈNH KON TUM
+train/1007.jpg	xã đắk la, huyện đắk hà, tỉnh kon tum
+train/989.jpg	Xã Đắk Mar
+train/267.jpg	xã phú thọ
+train/214.jpg	phú mỹ
+train/158.jpg	Long Hưng
+train/862.jpg	Ngọk Tụ, Đắk Tô, Kon Tum
+train/8.jpg	Mỹ Bình, Long Xuyên, An Giang
+train/397.jpg	Xã An Hảo, Huyện Tịnh Biên, Tỉnh An Giang
+train/33.jpg	PHƯỜNG MỸ PHƯỚC, THÀNH PHỐ LONG XUYÊN, TỈNH AN GIANG
+train/500.jpg	VĨNH AN, CHÂU THÀNH, AN GIANG
+train/601.jpg	Huyen Thoai Son, Tinh An Giang
+train/992.jpg	NGOK WANG
+train/908.jpg	Ngok Tem
+train/581.jpg	Xa Binh Phuoc Xuan, Huyen Cho Moi, Tinh An Giang
+train/695.jpg	Phuong Thang Loi, Thanh pho Kon Tum, Tinh Kon Tum
+train/826.jpg	ĐẮK DỤC, NGỌC HỒI, KON TUM
+train/60.jpg	Châu Đốc, An Giang
+train/313.jpg	Xa Vinh Thanh Trung, Huyen Chau Phu, Tinh An Giang
+train/137.jpg	xã vĩnh hậu, huyện an phú, tỉnh an giang
+train/766.jpg	Đắk Glei, Đắk Glei, Kon Tum
+train/346.jpg	Nha Bang
+train/305.jpg	Xa My Phu, Huyen Chau Phu, Tinh An Giang
+train/897.jpg	Xã Đắk Ring
+train/795.jpg	Xã Mường Hoong, Huyện Đắk Glei, Tỉnh Kon Tum
+train/928.jpg	Kon Ray
+train/957.jpg	xã tân lập
+train/631.jpg	Xã Phú Thuận
+train/747.jpg	Xã Đoàn Kết, Thành Phố Kon Tum, Tỉnh Kon Tum
+train/621.jpg	XÃ AN BÌNH, HUYỆN THOẠI SƠN, TỈNH AN GIANG
+train/90.jpg	AN PHÚ
+train/89.jpg	XÃ VĨNH CHÂU, THÀNH PHỐ CHÂU ĐỐC, TỈNH AN GIANG
+train/891.jpg	Huyện Kon Plông, Tỉnh Kon Tum
+train/156.jpg	Long Thanh, Tan Chau, An Giang
+train/724.jpg	Ngọk Bay
+train/856.jpg	Đắk Rơ Nga
+train/458.jpg	Tan Tuyen
+train/875.jpg	Xa Kon Dao, Huyen Dak To, Tinh Kon Tum
+train/744.jpg	đoàn kết
+train/191.jpg	PHƯỜNG LONG PHÚ
+train/801.jpg	Xa Dak Long
+train/845.jpg	Xã Sa Loong
+train/19.jpg	phường mỹ xuyên
+train/612.jpg	óc eo, thoại sơn, an giang
+train/841.jpg	Xã Pờ Y
+train/99.jpg	XÃ KHÁNH AN
+train/536.jpg	Kiến An, Chợ Mới, An Giang
+train/774.jpg	Dak Man, Dak Glei, Kon Tum
+train/586.jpg	Hội An
+train/27.jpg	PHƯỜNG BÌNH KHÁNH
+train/466.jpg	Chau Thanh
+train/642.jpg	Dinh Thanh
+train/833.jpg	xã đắk xú
+train/616.jpg	Tây Phú, Thoại Sơn, An Giang
+train/528.jpg	Chợ Mới, Chợ Mới, An Giang
+train/731.jpg	Xã Vinh Quang, Thành Phố Kon Tum, Tỉnh Kon Tum
+train/341.jpg	xã bình chánh, huyện châu phú, tỉnh an giang
+train/993.jpg	xã ngok wang
+train/433.jpg	xã châu lăng, huyện tri tôn, tỉnh an giang
+train/460.jpg	tân tuyến, tri tôn, an giang
+train/264.jpg	PHÚ BÌNH, PHÚ TÂN, AN GIANG
+train/70.jpg	Vinh My
+train/813.jpg	Huyen Ngoc Hoi
+train/703.jpg	Phường Thống Nhất, Thành Phố Kon Tum, Tỉnh Kon Tum
+train/485.jpg	Xã Vĩnh Hanh, Huyện Châu Thành, Tỉnh An Giang
+train/579.jpg	XÃ BÌNH PHƯỚC XUÂN
+train/494.jpg	Binh Hoa
+train/21.jpg	Phuong My Xuyen, Thanh pho Long Xuyen, Tinh An Giang
+train/136.jpg	Vinh Hau, An Phu, An Giang
+train/734.jpg	Đắk Blà, Kon Tum, Kon Tum
+train/764.jpg	đắk glei
+train/935.jpg	Thị Trấn Đắk Rve, Huyện Kon Rẫy, Tỉnh Kon Tum
+train/1000.jpg	Hà Mòn
+train/632.jpg	Phu Thuan, Thoai Son, An Giang
+train/391.jpg	Xã Tân Lợi
+train/521.jpg	Xa Vinh Thanh, Huyen Chau Thanh, Tinh An Giang
+train/283.jpg	Xã Tân Trung
+train/52.jpg	Mỹ Khánh, Long Xuyên, An Giang
+train/204.jpg	Lê Chánh, Tân Châu, An Giang
+train/130.jpg	VĨNH LỘC
+train/402.jpg	Tri Tôn
+train/818.jpg	plei cần, ngọc hồi, kon tum
+train/118.jpg	PHÚ HỮU
+train/495.jpg	XÃ BÌNH HÒA
+train/637.jpg	Xã Vĩnh Chánh, Huyện Thoại Sơn, Tỉnh An Giang
+train/755.jpg	Xa Dak Ro Wa, Thanh pho Kon Tum, Tinh Kon Tum
+train/320.jpg	Binh Long, Chau Phu, An Giang
+train/593.jpg	xã hòa bình, huyện chợ mới, tỉnh an giang
+train/996.jpg	Ngok Réo
+train/808.jpg	ĐẮK MÔN
+train/926.jpg	Hiếu, Kon Plông, Kon Tum
+train/530.jpg	My Luong
+train/177.jpg	xã vĩnh hòa, thị xã tân châu, tỉnh an giang
+train/395.jpg	Xã An Hảo
+train/754.jpg	Đắk Rơ Wa, Kon Tum, Kon Tum
+train/909.jpg	xã ngok tem
+train/607.jpg	THỊ TRẤN PHÚ HOÀ
+train/412.jpg	Ba Chuc, Tri Ton, An Giang
+train/448.jpg	Núi Tô, Tri Tôn, An Giang
+train/46.jpg	Mỹ Hòa
+train/435.jpg	Xã Lương Phi
+train/973.jpg	Xa Dak Long
+train/55.jpg	Xã Mỹ Hoà Hưng
+train/196.jpg	Châu Phong, Tân Châu, An Giang
+train/91.jpg	huyện an phú
+train/447.jpg	xã núi tô
+train/627.jpg	Xã Vĩnh Trạch
+train/389.jpg	XÃ VĨNH TRUNG, HUYỆN TỊNH BIÊN, TỈNH AN GIANG
+train/608.jpg	PHÚ HOÀ, THOẠI SƠN, AN GIANG
+train/215.jpg	thị trấn phú mỹ
+train/166.jpg	PHÚ LỘC
+train/931.jpg	Huyen Kon Ray, Tinh Kon Tum
+train/708.jpg	Nguyễn Trãi
+train/732.jpg	Dak Bla
+train/100.jpg	KHÁNH AN, AN PHÚ, AN GIANG
+train/312.jpg	VĨNH THẠNH TRUNG, CHÂU PHÚ, AN GIANG
+train/247.jpg	Xa Phu Thanh
+train/816.jpg	PLEI CẦN
+train/814.jpg	ngọc hồi, kon tum
+train/13.jpg	phường mỹ long, thành phố long xuyên, tỉnh an giang
+train/349.jpg	thị trấn nhà bàng, huyện tịnh biên, tỉnh an giang
+train/257.jpg	Xã Phú Xuân, Huyện Phú Tân, Tỉnh An Giang
+train/17.jpg	PHƯỜNG ĐÔNG XUYÊN, THÀNH PHỐ LONG XUYÊN, TỈNH AN GIANG
+train/986.jpg	ĐĂK NGỌK, ĐẮK HÀ, KON TUM
+train/74.jpg	NÚI SAM
+train/878.jpg	Tan Canh, Dak To, Kon Tum
+train/541.jpg	XÃ MỸ HỘI ĐÔNG, HUYỆN CHỢ MỚI, TỈNH AN GIANG
+train/846.jpg	SA LOONG, NGỌC HỒI, KON TUM
+train/336.jpg	BÌNH PHÚ, CHÂU PHÚ, AN GIANG
+train/915.jpg	XÃ PỜ Ê, HUYỆN KON PLÔNG, TỈNH KON TUM
+train/463.jpg	xã ô lâm
+train/661.jpg	XÃ THOẠI GIANG, HUYỆN THOẠI SƠN, TỈNH AN GIANG
+train/919.jpg	Xa Mang Canh, Huyen Kon Plong, Tinh Kon Tum
+train/622.jpg	Vĩnh Phú
+train/870.jpg	Văn Lem, Đắk Tô, Kon Tum
+train/324.jpg	Binh My, Chau Phu, An Giang
+train/886.jpg	Pô Kô, Đắk Tô, Kon Tum
+train/330.jpg	Đào Hữu Cảnh
+train/148.jpg	Đa Phước, An Phú, An Giang
+train/1009.jpg	Huyện Sa Thầy
+train/653.jpg	xã vọng đông, huyện thoại sơn, tỉnh an giang
+train/179.jpg	XÃ TÂN THẠNH
+train/353.jpg	THỊ TRẤN CHI LĂNG, HUYỆN TỊNH BIÊN, TỈNH AN GIANG
+train/690.jpg	Trường Chinh, Kon Tum, Kon Tum
+train/756.jpg	Hoa Binh
+train/416.jpg	Lac Quoi, Tri Ton, An Giang
+train/911.jpg	Xã Ngok Tem, Huyện Kon Plông, Tỉnh Kon Tum
+train/167.jpg	Xã Phú Lộc
+train/501.jpg	xã vĩnh an, huyện châu thành, tỉnh an giang
+train/872.jpg	kon đào
+train/84.jpg	vĩnh tế, châu đốc, an giang
+train/254.jpg	PHÚ XUÂN
+train/876.jpg	Tan Canh
+train/45.jpg	Phường Mỹ Thạnh, Thành phố Long Xuyên, Tỉnh An Giang
+train/966.jpg	Đắk Hà, Đắk Hà, Kon Tum
+train/295.jpg	Xa Khanh Hoa
+train/450.jpg	An Tuc
+train/648.jpg	mỹ phú đông, thoại sơn, an giang
+train/303.jpg	Xã Mỹ Phú
+train/553.jpg	xã long điền b, huyện chợ mới, tỉnh an giang
+train/493.jpg	XÃ VĨNH BÌNH, HUYỆN CHÂU THÀNH, TỈNH AN GIANG
+train/201.jpg	XÃ PHÚ VĨNH, THỊ XÃ TÂN CHÂU, TỈNH AN GIANG
+train/393.jpg	xã tân lợi, huyện tịnh biên, tỉnh an giang
+train/292.jpg	CÁI DẦU, CHÂU PHÚ, AN GIANG
+train/64.jpg	Châu Phú B, Châu Đốc, An Giang
+train/604.jpg	Núi Sập, Thoại Sơn, An Giang
+train/103.jpg	thị trấn long bình
+train/526.jpg	Chợ Mới
+train/154.jpg	Long Thạnh
+train/664.jpg	BÌNH THÀNH, THOẠI SƠN, AN GIANG
+train/449.jpg	Xa Nui To, Huyen Tri Ton, Tinh An Giang
+train/351.jpg	Thị Trấn Chi Lăng
+train/198.jpg	PHÚ VĨNH
+train/340.jpg	bình chánh, châu phú, an giang
+train/866.jpg	Dak Tram, Dak To, Kon Tum
+train/141.jpg	Xã Vĩnh Trường, Huyện An Phú, Tỉnh An Giang
+train/546.jpg	Tấn Mỹ
+train/740.jpg	Đăk Năng
+train/711.jpg	Phuong Nguyen Trai, Thanh pho Kon Tum, Tinh Kon Tum
+train/614.jpg	Tây Phú
+train/938.jpg	đắk kôi, kon rẫy, kon tum
+train/597.jpg	Xã Hòa An, Huyện Chợ Mới, Tỉnh An Giang
+train/842.jpg	pờ y, ngọc hồi, kon tum
+train/843.jpg	xã pờ y, huyện ngọc hồi, tỉnh kon tum
+train/901.jpg	xã măng buk
+train/771.jpg	XÃ ĐẮK PLÔ, HUYỆN ĐẮK GLEI, TỈNH KON TUM
+train/81.jpg	Phuong Vinh Nguon, Thanh pho Chau Doc, Tinh An Giang
+train/737.jpg	xã ia chim
+train/821.jpg	Xã Đắk Ang
+train/629.jpg	Xã Vĩnh Trạch, Huyện Thoại Sơn, Tỉnh An Giang
+train/602.jpg	núi sập
+train/548.jpg	tấn mỹ, chợ mới, an giang
+train/529.jpg	Thị Trấn Chợ Mới, Huyện Chợ Mới, Tỉnh An Giang
+train/684.jpg	Quyết Thắng
+train/220.jpg	Chợ Vàm, Phú Tân, An Giang
+train/930.jpg	kon rẫy, kon tum
+train/232.jpg	Phu Lam, Phu Tan, An Giang
+train/486.jpg	Bình Thạnh
+train/429.jpg	xã vĩnh phước, huyện tri tôn, tỉnh an giang
+train/383.jpg	Xã An Nông
+train/499.jpg	Xã Vĩnh An
+train/146.jpg	Đa Phước
+train/150.jpg	Tân Châu
+train/506.jpg	Vĩnh Lợi
+train/745.jpg	xã đoàn kết
+train/309.jpg	Xã Ô Long Vỹ, Huyện Châu Phú, Tỉnh An Giang
+train/620.jpg	An Bình, Thoại Sơn, An Giang
+train/325.jpg	Xã Bình Mỹ, Huyện Châu Phú, Tỉnh An Giang
+train/1002.jpg	HÀ MÒN, ĐẮK HÀ, KON TUM
+train/736.jpg	Ia Chim
+train/319.jpg	xã bình long
+train/125.jpg	Xã Phú Hội, Huyện An Phú, Tỉnh An Giang
+train/456.jpg	cô tô, tri tôn, an giang
+train/555.jpg	Xã Kiến Thành
+train/35.jpg	phường mỹ quý
+train/280.jpg	Tan Hoa, Phu Tan, An Giang
+train/492.jpg	VĨNH BÌNH, CHÂU THÀNH, AN GIANG
+train/366.jpg	THỚI SƠN
+train/93.jpg	Huyện An Phú, Tỉnh An Giang
+train/31.jpg	Phường Mỹ Phước
+train/104.jpg	LONG BÌNH, AN PHÚ, AN GIANG
+train/249.jpg	XÃ PHÚ THÀNH, HUYỆN PHÚ TÂN, TỈNH AN GIANG
+train/848.jpg	đắk tô
+train/871.jpg	XÃ VĂN LEM, HUYỆN ĐẮK TÔ, TỈNH KON TUM
+train/20.jpg	MỸ XUYÊN, LONG XUYÊN, AN GIANG
+train/246.jpg	Phú Thành
+train/743.jpg	xã đăk năng, thành phố kon tum, tỉnh kon tum
+train/282.jpg	TÂN TRUNG
+train/371.jpg	Thi tran Tinh Bien
+train/905.jpg	Xã Đắk Tăng
+train/987.jpg	Xa Dak Ngok, Huyen Dak Ha, Tinh Kon Tum
+train/229.jpg	Xã Phú Long, Huyện Phú Tân, Tỉnh An Giang
+train/853.jpg	thị trấn đắk tô
+train/199.jpg	Xã Phú Vĩnh
+train/217.jpg	Thi tran Phu My, Huyen Phu Tan, Tinh An Giang
+train/370.jpg	TỊNH BIÊN
+train/200.jpg	phú vĩnh, tân châu, an giang
+train/307.jpg	XÃ Ô LONG VỸ
+train/892.jpg	Đắk Nên
+train/444.jpg	Tà Đảnh, Tri Tôn, An Giang
+train/502.jpg	hòa bình thạnh
+train/995.jpg	xã ngok wang, huyện đắk hà, tỉnh kon tum
+train/424.jpg	Vĩnh Gia, Tri Tôn, An Giang
+train/386.jpg	Vĩnh Trung
+train/641.jpg	Xã Định Mỹ, Huyện Thoại Sơn, Tỉnh An Giang
+train/25.jpg	Phường Bình Đức, Thành phố Long Xuyên, Tỉnh An Giang
+train/587.jpg	Xã Hội An
+train/168.jpg	Phú Lộc, Tân Châu, An Giang
+train/865.jpg	XÃ ĐẮK TRĂM
+train/289.jpg	Huyen Chau Phu, Tinh An Giang
+train/342.jpg	Tinh Bien
+train/473.jpg	Thị trấn An Châu, Huyện Châu Thành, Tỉnh An Giang
+train/230.jpg	Phu Lam
+train/479.jpg	XÃ CẦN ĐĂNG
+train/399.jpg	Xa Tan Lap
+train/107.jpg	xã khánh bình
+train/717.jpg	XÃ ĐẮK CẤM
+train/471.jpg	Thi tran An Chau
+train/794.jpg	mường hoong, đắk glei, kon tum
+train/38.jpg	Mỹ Thới
+train/170.jpg	Vinh Xuong
+train/79.jpg	PHƯỜNG VĨNH NGƯƠN
+train/442.jpg	Tà Đảnh
+train/584.jpg	An Thạnh Trung, Chợ Mới, An Giang
+train/714.jpg	Trần Hưng Đạo, Kon Tum, Kon Tum
+train/797.jpg	Xã Ngọc Linh
+train/660.jpg	Thoai Giang, Thoai Son, An Giang
+train/213.jpg	huyện phú tân, tỉnh an giang
+train/751.jpg	XÃ CHƯ HRENG, THÀNH PHỐ KON TUM, TỈNH KON TUM
+train/946.jpg	ĐẮK RUỒNG, KON RẪY, KON TUM
+train/451.jpg	Xã An Tức
+train/3.jpg	Thanh pho Long Xuyen
+train/825.jpg	Xã Đắk Dục
+train/235.jpg	Xã Phú Hiệp
+train/956.jpg	tân lập
+train/793.jpg	XÃ MƯỜNG HOONG
+train/945.jpg	Xã Đắk Ruồng
+train/535.jpg	xã kiến an
+train/674.jpg	Kon Tum, Kon Tum
+train/859.jpg	XÃ ĐẮK RƠ NGA, HUYỆN ĐẮK TÔ, TỈNH KON TUM
+train/328.jpg	bình thủy, châu phú, an giang
+train/568.jpg	Nhơn Mỹ, Chợ Mới, An Giang
+train/194.jpg	Chau Phong
+train/62.jpg	Châu Phú B
+train/30.jpg	mỹ phước
+train/577.jpg	XÃ LONG KIẾN, HUYỆN CHỢ MỚI, TỈNH AN GIANG
+train/518.jpg	vĩnh thành
+train/480.jpg	Can Dang, Chau Thanh, An Giang
+train/266.jpg	PHÚ THỌ
+train/242.jpg	Hoà Lạc
+train/783.jpg	xã đắk pék, huyện đắk glei, tỉnh kon tum
+train/1008.jpg	SA THẦY
+train/896.jpg	Dak Ring
+train/716.jpg	đắk cấm
+train/253.jpg	Xã Phú An, Huyện Phú Tân, Tỉnh An Giang
+train/933.jpg	Thi tran Dak Rve
+train/682.jpg	Duy Tân, Kon Tum, Kon Tum
+train/710.jpg	Nguyễn Trãi, Kon Tum, Kon Tum
+train/678.jpg	Quang Trung, Kon Tum, Kon Tum
+train/75.jpg	Phường Núi Sam
+train/189.jpg	Xa Long An, Thi xa Tan Chau, Tinh An Giang
+train/939.jpg	Xa Dak Koi, Huyen Kon Ray, Tinh Kon Tum
+train/544.jpg	LONG ĐIỀN A, CHỢ MỚI, AN GIANG
+train/864.jpg	ĐẮK TRĂM
+train/857.jpg	Xa Dak Ro Nga
+train/887.jpg	xã pô kô, huyện đắk tô, tỉnh kon tum
+train/877.jpg	Xã Tân Cảnh
+train/605.jpg	Thi tran Nui Sap, Huyen Thoai Son, Tinh An Giang
+train/839.jpg	XÃ ĐẮK KAN, HUYỆN NGỌC HỒI, TỈNH KON TUM
+train/50.jpg	Mỹ Khánh
+train/164.jpg	long châu, tân châu, an giang
+train/634.jpg	VĨNH CHÁNH
+train/354.jpg	Nui Voi
+train/322.jpg	BÌNH MỸ
+train/791.jpg	Xã Xốp, Huyện Đắk Glei, Tỉnh Kon Tum
+train/683.jpg	Phuong Duy Tan, Thanh pho Kon Tum, Tinh Kon Tum
+train/706.jpg	Lê Lợi, Kon Tum, Kon Tum
+train/119.jpg	xã phú hữu
+train/822.jpg	Đắk Ang, Ngọc Hồi, Kon Tum
+train/1013.jpg	Thị Trấn Sa Thầy
+train/276.jpg	Bình Thạnh Đông, Phú Tân, An Giang
+train/562.jpg	My An
+train/316.jpg	Thanh My Tay, Chau Phu, An Giang
+train/237.jpg	Xã Phú Hiệp, Huyện Phú Tân, Tỉnh An Giang
+train/231.jpg	XÃ PHÚ LÂM
+train/910.jpg	NGOK TEM, KON PLÔNG, KON TUM
+train/140.jpg	vĩnh trường, an phú, an giang
+train/712.jpg	trần hưng đạo
+train/578.jpg	Bình Phước Xuân
+train/80.jpg	Vĩnh Ngươn, Châu Đốc, An Giang
+train/769.jpg	XÃ ĐẮK PLÔ
+train/67.jpg	phường châu phú a
+train/452.jpg	an tức, tri tôn, an giang
+train/781.jpg	Xã Đắk Pék
+train/805.jpg	Xã Đắk KRoong
+train/1016.jpg	Rơ Kơi
+train/561.jpg	xã mỹ hiệp, huyện chợ mới, tỉnh an giang
+train/787.jpg	XÃ ĐẮK CHOONG, HUYỆN ĐẮK GLEI, TỈNH KON TUM
+train/573.jpg	Xa Long Giang, Huyen Cho Moi, Tinh An Giang
+train/669.jpg	Xã Vọng Thê, Huyện Thoại Sơn, Tỉnh An Giang
+train/6.jpg	Mỹ Bình
+train/552.jpg	LONG ĐIỀN B, CHỢ MỚI, AN GIANG
+train/207.jpg	PHƯỜNG LONG SƠN
+train/692.jpg	Thắng Lợi
+train/78.jpg	Vĩnh Ngươn
+train/890.jpg	Kon Plông, Kon Tum
+train/209.jpg	Phường Long Sơn, Thị Xã Tân Châu, Tỉnh An Giang
+train/414.jpg	Lạc Quới
+train/941.jpg	xã đắk tơ lung
+train/768.jpg	đắk plô
+train/940.jpg	ĐẮK TƠ LUNG
+train/659.jpg	XÃ THOẠI GIANG
+train/211.jpg	Huyện Phú Tân
+train/571.jpg	Xa Long Giang
+train/392.jpg	tân lợi, tịnh biên, an giang
+train/850.jpg	ĐẮK TÔ, KON TUM
+train/922.jpg	Đắk Long, Kon Plông, Kon Tum
+train/511.jpg	Xã Vĩnh Nhuận
+train/997.jpg	xã ngok réo
+train/722.jpg	Kroong, Kon Tum, Kon Tum
+train/41.jpg	Phường Mỹ Thới, Thành phố Long Xuyên, Tỉnh An Giang
+train/600.jpg	Thoại Sơn, An Giang
+train/388.jpg	Vinh Trung, Tinh Bien, An Giang
+train/298.jpg	mỹ đức
+train/374.jpg	VĂN GIÁO
+train/427.jpg	xã vĩnh phước
+train/677.jpg	PHƯỜNG QUANG TRUNG
+train/748.jpg	CHƯ HRENG
+train/780.jpg	ĐẮK PÉK
+train/819.jpg	Thị trấn Plei Cần, Huyện Ngọc Hồi, Tỉnh Kon Tum
+train/788.jpg	Xốp
+train/792.jpg	Muong Hoong
+train/831.jpg	XÃ ĐẮK NÔNG, HUYỆN NGỌC HỒI, TỈNH KON TUM
+train/317.jpg	Xã Thạnh Mỹ Tây, Huyện Châu Phú, Tỉnh An Giang
+train/65.jpg	phường châu phú b, thành phố châu đốc, tỉnh an giang
+train/53.jpg	Xã Mỹ Khánh, Thành Phố Long Xuyên, Tỉnh An Giang
+train/974.jpg	Đăk Long, Đắk Hà, Kon Tum
+train/847.jpg	Xã Sa Loong, Huyện Ngọc Hồi, Tỉnh Kon Tum
+train/840.jpg	pờ y
+train/868.jpg	văn lem
+train/259.jpg	Xa Hiep Xuong
+train/329.jpg	Xã Bình Thủy, Huyện Châu Phú, Tỉnh An Giang
+train/640.jpg	ĐỊNH MỸ, THOẠI SƠN, AN GIANG
+train/786.jpg	Dak Choong, Dak Glei, Kon Tum
+train/944.jpg	Dak Ruong
+train/566.jpg	Nhơn Mỹ
+train/698.jpg	Ngô Mây, Kon Tum, Kon Tum
+train/270.jpg	phú hưng
+train/443.jpg	Xã Tà Đảnh
+train/474.jpg	an hòa
+train/18.jpg	Mỹ Xuyên
+train/128.jpg	phước hưng, an phú, an giang
+train/753.jpg	Xã Đắk Rơ Wa
+train/574.jpg	Long Kien
+train/123.jpg	Xa Phu Hoi
+train/54.jpg	MỸ HOÀ HƯNG
+train/240.jpg	PHÚ THẠNH, PHÚ TÂN, AN GIANG
+train/829.jpg	xã đắk nông
+train/844.jpg	Sa Loong
+train/980.jpg	Đắk Ui
+train/998.jpg	Ngok Réo, Đắk Hà, Kon Tum
+train/924.jpg	Hieu
+train/464.jpg	Ô Lâm, Tri Tôn, An Giang
+train/129.jpg	Xa Phuoc Hung, Huyen An Phu, Tinh An Giang
+train/453.jpg	Xã An Tức, Huyện Tri Tôn, Tỉnh An Giang
+train/820.jpg	ĐẮK ANG
+train/498.jpg	Vĩnh An
+train/0.jpg	An Giang
+train/752.jpg	Dak Ro Wa
+train/22.jpg	Binh Duc
+train/419.jpg	Xa Le Tri
+train/274.jpg	Bình Thạnh Đông
+train/542.jpg	LONG ĐIỀN A
+train/961.jpg	Huyện Đắk Hà
+train/835.jpg	Xã Đắk Xú, Huyện Ngọc Hồi, Tỉnh Kon Tum
+train/999.jpg	Xa Ngok Reo, Huyen Dak Ha, Tinh Kon Tum
+train/874.jpg	Kon Đào, Đắk Tô, Kon Tum
+train/180.jpg	Tân Thạnh, Tân Châu, An Giang
+train/408.jpg	tri tôn, tri tôn, an giang
+train/895.jpg	Xa Dak Nen, Huyen Kon Plong, Tinh Kon Tum
+train/356.jpg	núi voi, tịnh biên, an giang
+train/368.jpg	thới sơn, tịnh biên, an giang
+train/1003.jpg	Xã Hà Mòn, Huyện Đắk Hà, Tỉnh Kon Tum
+train/962.jpg	Dak Ha, Kon Tum
+train/606.jpg	Phu Hoa
+train/1015.jpg	Thị trấn Sa Thầy, Huyện Sa Thầy, Tỉnh Kon Tum
+train/918.jpg	Măng Cành, Kon Plông, Kon Tum
+train/863.jpg	XÃ NGỌK TỤ, HUYỆN ĐẮK TÔ, TỈNH KON TUM
+train/350.jpg	chi lăng
+train/709.jpg	Phuong Nguyen Trai
+train/251.jpg	XÃ PHÚ AN
+train/290.jpg	Cai Dau
+train/455.jpg	Xã Cô Tô
+train/799.jpg	Xã Ngọc Linh, Huyện Đắk Glei, Tỉnh Kon Tum
+train/51.jpg	XÃ MỸ KHÁNH
+train/543.jpg	Xã Long Điền A
+train/517.jpg	xã tân phú, huyện châu thành, tỉnh an giang
+train/271.jpg	Xã Phú Hưng
+train/697.jpg	PHƯỜNG NGÔ MÂY
+train/979.jpg	Xa Dak HRing, Huyen Dak Ha, Tinh Kon Tum
+train/1017.jpg	Xã Rơ Kơi
+train/407.jpg	Thị trấn Tri Tôn
+train/56.jpg	mỹ hoà hưng, long xuyên, an giang
+train/713.jpg	phường trần hưng đạo
+train/963.jpg	Huyen Dak Ha, Tinh Kon Tum
+train/851.jpg	huyện đắk tô, tỉnh kon tum
+train/615.jpg	XÃ TÂY PHÚ
+train/96.jpg	An Phú, An Phú, An Giang
+train/1019.jpg	XÃ RƠ KƠI, HUYỆN SA THẦY, TỈNH KON TUM
+train/102.jpg	long bình
+train/222.jpg	Long Hoà
+train/178.jpg	Tan Thanh
+train/531.jpg	THỊ TRẤN MỸ LUÔNG
+train/772.jpg	Đắk Man
+train/589.jpg	Xã Hội An, Huyện Chợ Mới, Tỉnh An Giang
+train/15.jpg	PHƯỜNG ĐÔNG XUYÊN
+train/949.jpg	Xã Đắk Pne
+train/611.jpg	Thi Tran Oc Eo
+train/187.jpg	Xã Long An
+train/964.jpg	ĐẮK HÀ
+train/149.jpg	Xa Da Phuoc, Huyen An Phu, Tinh An Giang
+train/226.jpg	Phu Long
+train/550.jpg	Long Điền B
+train/656.jpg	Vĩnh Khánh, Thoại Sơn, An Giang
+train/394.jpg	An Hao
+train/903.jpg	Xã Măng Buk, Huyện Kon Plông, Tỉnh Kon Tum
+train/234.jpg	Phú Hiệp
+train/441.jpg	Xã Lương An Trà, Huyện Tri Tôn, Tỉnh An Giang
+train/127.jpg	Xã Phước Hưng
+train/396.jpg	An Hảo, Tịnh Biên, An Giang
+train/948.jpg	đắk pne
+train/483.jpg	Xa Vinh Hanh
+train/488.jpg	Bình Thạnh, Châu Thành, An Giang
+train/467.jpg	Huyen Chau Thanh
+train/519.jpg	XÃ VĨNH THÀNH
+train/860.jpg	Ngok Tu
+train/984.jpg	Đăk Ngọk
+train/116.jpg	Nhơn Hội, An Phú, An Giang
+train/855.jpg	Thị trấn Đắk Tô, Huyện Đắk Tô, Tỉnh Kon Tum
+train/82.jpg	VĨNH TẾ
+train/108.jpg	Khanh Binh, An Phu, An Giang
+train/970.jpg	ĐẮK PXI, ĐẮK HÀ, KON TUM
+train/221.jpg	Thị trấn Chợ Vàm, Huyện Phú Tân, Tỉnh An Giang
+train/888.jpg	Kon Plông
+train/837.jpg	xã đắk kan
+train/942.jpg	Dak To Lung, Kon Ray, Kon Tum
+train/749.jpg	Xã Chư Hreng
+train/384.jpg	An Nong, Tinh Bien, An Giang
+train/348.jpg	Nhà Bàng, Tịnh Biên, An Giang
+train/417.jpg	Xã Lạc Quới, Huyện Tri Tôn, Tỉnh An Giang
+train/668.jpg	Vọng Thê, Thoại Sơn, An Giang
+train/770.jpg	Đắk Plô, Đắk Glei, Kon Tum
+train/534.jpg	KIẾN AN
+train/372.jpg	Tịnh Biên, Tịnh Biên, An Giang
+train/645.jpg	Xa Dinh Thanh, Huyen Thoai Son, Tinh An Giang
+train/445.jpg	XÃ TÀ ĐẢNH, HUYỆN TRI TÔN, TỈNH AN GIANG
+train/42.jpg	mỹ thạnh
+train/599.jpg	Huyen Thoai Son
+train/398.jpg	Tân Lập
+train/202.jpg	lê chánh
+train/802.jpg	Đắk Long, Đắk Glei, Kon Tum
+train/1006.jpg	Đắk La, Đắk Hà, Kon Tum
+train/151.jpg	Thi xa Tan Chau
+train/73.jpg	Phường Vĩnh Mỹ, Thành phố Châu Đốc, Tỉnh An Giang
+train/633.jpg	Xã Phú Thuận, Huyện Thoại Sơn, Tỉnh An Giang
+train/968.jpg	đắk pxi
+train/635.jpg	xã vĩnh chánh
+train/913.jpg	Xa Po E
+train/438.jpg	Lương An Trà
+train/936.jpg	đắk kôi
+train/778.jpg	Đắk Nhoong, Đắk Glei, Kon Tum
+train/520.jpg	vĩnh thành, châu thành, an giang
+train/145.jpg	XÃ VĨNH HỘI ĐÔNG, HUYỆN AN PHÚ, TỈNH AN GIANG
+train/595.jpg	Xa Hoa An
+train/505.jpg	XÃ HÒA BÌNH THẠNH, HUYỆN CHÂU THÀNH, TỈNH AN GIANG
+train/773.jpg	xã đắk man
+train/978.jpg	Đắk HRing, Đắk Hà, Kon Tum
+train/120.jpg	Phú Hữu, An Phú, An Giang
+train/206.jpg	Long Sơn
+train/798.jpg	Ngoc Linh, Dak Glei, Kon Tum
+train/40.jpg	Mỹ Thới, Long Xuyên, An Giang
+train/446.jpg	Nui To
+train/144.jpg	Vĩnh Hội Đông, An Phú, An Giang
+train/663.jpg	Xa Binh Thanh
+train/304.jpg	Mỹ Phú, Châu Phú, An Giang
+train/1011.jpg	Huyện Sa Thầy, Tỉnh Kon Tum
+train/990.jpg	ĐẮK MAR, ĐẮK HÀ, KON TUM
+train/373.jpg	THỊ TRẤN TỊNH BIÊN, HUYỆN TỊNH BIÊN, TỈNH AN GIANG
+train/109.jpg	Xã Khánh Bình, Huyện An Phú, Tỉnh An Giang
+train/803.jpg	Xa Dak Long, Huyen Dak Glei, Tinh Kon Tum
+train/650.jpg	vọng đông
+train/907.jpg	Xã Đắk Tăng, Huyện Kon Plông, Tỉnh Kon Tum
+train/556.jpg	Kiến Thành, Chợ Mới, An Giang
+train/902.jpg	măng buk, kon plông, kon tum
+train/9.jpg	Phường Mỹ Bình, Thành Phố Long Xuyên, Tỉnh An Giang
+train/32.jpg	Mỹ Phước, Long Xuyên, An Giang
+train/94.jpg	an phú
+train/554.jpg	Kien Thanh
+train/613.jpg	Thi Tran Oc Eo, Huyen Thoai Son, Tinh An Giang
+train/263.jpg	Xã Phú Bình
+train/665.jpg	xã bình thành, huyện thoại sơn, tỉnh an giang
+train/71.jpg	Phường Vĩnh Mỹ
+train/169.jpg	Xã Phú Lộc, Thị xã Tân Châu, Tỉnh An Giang
+train/982.jpg	Đắk Ui, Đắk Hà, Kon Tum
+train/163.jpg	Phường Long Châu
+train/763.jpg	huyện đắk glei, tỉnh kon tum
+train/279.jpg	Xa Tan Hoa
+train/702.jpg	Thống Nhất, Kon Tum, Kon Tum
+train/39.jpg	Phuong My Thoi
+train/832.jpg	Đắk Xú
+train/588.jpg	HỘI AN, CHỢ MỚI, AN GIANG
+train/567.jpg	Xa Nhon My
+train/582.jpg	An Thạnh Trung
+train/250.jpg	Phu An
+train/343.jpg	Huyện Tịnh Biên
+train/899.jpg	Xa Dak Ring, Huyen Kon Plong, Tinh Kon Tum
+train/210.jpg	phú tân
+train/912.jpg	Po E
+train/666.jpg	VỌNG THÊ
+train/894.jpg	đắk nên, kon plông, kon tum
+train/337.jpg	Xã Bình Phú, Huyện Châu Phú, Tỉnh An Giang
+train/428.jpg	Vĩnh Phước, Tri Tôn, An Giang
+train/609.jpg	THỊ TRẤN PHÚ HOÀ, HUYỆN THOẠI SƠN, TỈNH AN GIANG
+train/885.jpg	Xã Pô Kô
+train/481.jpg	XÃ CẦN ĐĂNG, HUYỆN CHÂU THÀNH, TỈNH AN GIANG
+train/142.jpg	Vinh Hoi Dong
+train/197.jpg	Xa Chau Phong, Thi xa Tan Chau, Tinh An Giang
+train/376.jpg	Văn Giáo, Tịnh Biên, An Giang
+train/1012.jpg	sa thầy
+train/134.jpg	vĩnh hậu
+train/436.jpg	LƯƠNG PHI, TRI TÔN, AN GIANG
+train/704.jpg	Lê Lợi
+train/405.jpg	Huyện Tri Tôn, Tỉnh An Giang
+train/413.jpg	THỊ TRẤN BA CHÚC, HUYỆN TRI TÔN, TỈNH AN GIANG
+train/981.jpg	XÃ ĐẮK UI
+train/10.jpg	Mỹ Long
+train/598.jpg	thoại sơn
+train/504.jpg	Hòa Bình Thạnh, Châu Thành, An Giang
+train/838.jpg	ĐẮK KAN, NGỌC HỒI, KON TUM
+train/1018.jpg	Ro Koi, Sa Thay, Kon Tum
+train/363.jpg	Xã An Phú
+train/624.jpg	Vĩnh Phú, Thoại Sơn, An Giang
+train/811.jpg	XÃ ĐẮK MÔN, HUYỆN ĐẮK GLEI, TỈNH KON TUM
+train/809.jpg	XÃ ĐẮK MÔN
+train/43.jpg	phường mỹ thạnh
+train/115.jpg	xã nhơn hội
+train/636.jpg	vĩnh chánh, thoại sơn, an giang
+train/294.jpg	Khánh Hòa
+train/916.jpg	Măng Cành
+train/827.jpg	Xã Đắk Dục, Huyện Ngọc Hồi, Tỉnh Kon Tum
+train/176.jpg	Vĩnh Hòa, Tân Châu, An Giang
+train/775.jpg	Xã Đắk Man, Huyện Đắk Glei, Tỉnh Kon Tum
+train/406.jpg	Tri Ton
+train/63.jpg	Phường Châu Phú B
+train/904.jpg	Đắk Tăng
+train/514.jpg	Tan Phu
+train/539.jpg	Xa My Hoi Dong
+train/691.jpg	Phuong Truong Chinh, Thanh pho Kon Tum, Tinh Kon Tum
+train/523.jpg	Huyện Chợ Mới
+train/955.jpg	Xã Đắk Tờ Re, Huyện Kon Rẫy, Tỉnh Kon Tum
+train/858.jpg	Dak Ro Nga, Dak To, Kon Tum
+train/991.jpg	Xã Đắk Mar, Huyện Đắk Hà, Tỉnh Kon Tum
+train/681.jpg	PHƯỜNG DUY TÂN
+train/244.jpg	Hoa Lac, Phu Tan, An Giang
+train/497.jpg	xã bình hòa, huyện châu thành, tỉnh an giang
+train/639.jpg	xã định mỹ
+train/404.jpg	tri tôn, an giang
+train/651.jpg	Xa Vong Dong
+train/359.jpg	Xã Nhơn Hưng
+train/29.jpg	PHƯỜNG BÌNH KHÁNH, THÀNH PHỐ LONG XUYÊN, TỈNH AN GIANG
+train/675.jpg	THÀNH PHỐ KON TUM, TỈNH KON TUM
+train/252.jpg	Phú An, Phú Tân, An Giang
+train/308.jpg	ô long vỹ, châu phú, an giang
+train/205.jpg	xã lê chánh, thị xã tân châu, tỉnh an giang
+train/138.jpg	vĩnh trường
+train/920.jpg	đắk long
+train/331.jpg	xã đào hữu cảnh
+train/469.jpg	Huyện Châu Thành, Tỉnh An Giang
+train/672.jpg	KON TUM
+train/227.jpg	XÃ PHÚ LONG
+train/728.jpg	VINH QUANG
+train/403.jpg	Huyen Tri Ton
+train/789.jpg	Xã Xốp
+train/333.jpg	xã đào hữu cảnh, huyện châu phú, tỉnh an giang
+train/88.jpg	Vĩnh Châu, Châu Đốc, An Giang
+train/345.jpg	Huyện Tịnh Biên, Tỉnh An Giang
+train/105.jpg	Thị Trấn Long Bình, Huyện An Phú, Tỉnh An Giang
+train/657.jpg	XÃ VĨNH KHÁNH, HUYỆN THOẠI SƠN, TỈNH AN GIANG
+train/11.jpg	phường mỹ long
+train/297.jpg	Xa Khanh Hoa, Huyen Chau Phu, Tinh An Giang
+train/779.jpg	Xa Dak Nhoong, Huyen Dak Glei, Tinh Kon Tum
+train/162.jpg	Long Châu
+train/671.jpg	tỉnh kon tum
+train/1001.jpg	Xã Hà Mòn
+train/390.jpg	tân lợi
+train/507.jpg	Xã Vĩnh Lợi
+train/882.jpg	diên bình, đắk tô, kon tum
+train/527.jpg	Thị Trấn Chợ Mới
+train/685.jpg	Phuong Quyet Thang
+train/686.jpg	Quyet Thang, Kon Tum, Kon Tum
+train/385.jpg	xã an nông, huyện tịnh biên, tỉnh an giang
+train/332.jpg	Đào Hữu Cảnh, Châu Phú, An Giang
+train/360.jpg	NHƠN HƯNG, TỊNH BIÊN, AN GIANG
+train/261.jpg	Xã Hiệp Xương, Huyện Phú Tân, Tỉnh An Giang
+train/311.jpg	XÃ VĨNH THẠNH TRUNG
+train/426.jpg	vĩnh phước
+train/288.jpg	Châu Phú, An Giang
+train/679.jpg	PHƯỜNG QUANG TRUNG, THÀNH PHỐ KON TUM, TỈNH KON TUM
+train/172.jpg	Vĩnh Xương, Tân Châu, An Giang
+train/532.jpg	Mỹ Luông, Chợ Mới, An Giang
+train/727.jpg	Xã Ngọk Bay, Thành phố Kon Tum, Tỉnh Kon Tum
+train/287.jpg	Huyen Chau Phu
+train/927.jpg	XÃ HIẾU, HUYỆN KON PLÔNG, TỈNH KON TUM
+train/583.jpg	XÃ AN THẠNH TRUNG
+train/784.jpg	ĐẮK CHOONG
+train/300.jpg	Mỹ Đức, Châu Phú, An Giang
+train/440.jpg	LƯƠNG AN TRÀ, TRI TÔN, AN GIANG
+train/854.jpg	ĐẮK TÔ, ĐẮK TÔ, KON TUM
+train/409.jpg	Thị trấn Tri Tôn, Huyện Tri Tôn, Tỉnh An Giang
+train/34.jpg	Mỹ Quý
+train/411.jpg	thị trấn ba chúc
+train/796.jpg	Ngọc Linh
+train/223.jpg	Xã Long Hoà
+train/947.jpg	Xa Dak Ruong, Huyen Kon Ray, Tinh Kon Tum
+train/314.jpg	thạnh mỹ tây
+train/765.jpg	thị trấn đắk glei
+train/459.jpg	Xã Tân Tuyến
+train/512.jpg	Vĩnh Nhuận, Châu Thành, An Giang
+train/296.jpg	Khánh Hòa, Châu Phú, An Giang
+train/173.jpg	Xã Vĩnh Xương, Thị xã Tân Châu, Tỉnh An Giang
+train/112.jpg	Quốc Thái, An Phú, An Giang
+train/410.jpg	Ba Chuc
+train/72.jpg	Vĩnh Mỹ, Châu Đốc, An Giang
+train/817.jpg	Thị trấn Plei Cần
+train/68.jpg	Châu Phú A, Châu Đốc, An Giang
+train/516.jpg	Tân Phú, Châu Thành, An Giang
+train/654.jpg	vĩnh khánh
+train/618.jpg	AN BÌNH
+train/655.jpg	XÃ VĨNH KHÁNH
+train/983.jpg	Xã Đắk Ui, Huyện Đắk Hà, Tỉnh Kon Tum
+train/836.jpg	ĐẮK KAN
+train/475.jpg	Xã An Hòa
+train/132.jpg	vĩnh lộc, an phú, an giang
+train/58.jpg	Chau Doc
+train/861.jpg	XÃ NGỌK TỤ
+train/585.jpg	Xã An Thạnh Trung, Huyện Chợ Mới, Tỉnh An Giang
+train/985.jpg	xã đăk ngọk
+train/522.jpg	CHỢ MỚI
+train/699.jpg	phường ngô mây, thành phố kon tum, tỉnh kon tum
+train/603.jpg	Thi tran Nui Sap
+train/746.jpg	Đoàn Kết, Kon Tum, Kon Tum
+train/133.jpg	Xã Vĩnh Lộc, Huyện An Phú, Tỉnh An Giang
+train/192.jpg	Long Phú, Tân Châu, An Giang
+train/652.jpg	vọng đông, thoại sơn, an giang
+train/175.jpg	Xa Vinh Hoa
+train/524.jpg	Cho Moi, An Giang
+train/131.jpg	XÃ VĨNH LỘC
+train/917.jpg	Xa Mang Canh
+train/914.jpg	pờ ê, kon plông, kon tum
+train/658.jpg	Thoại Giang
+train/212.jpg	Phu Tan, An Giang
+train/76.jpg	Núi Sam, Châu Đốc, An Giang
+train/182.jpg	tân an
+train/306.jpg	Ô Long Vỹ
+train/725.jpg	Xa Ngok Bay
+train/260.jpg	hiệp xương, phú tân, an giang
+train/889.jpg	huyện kon plông
+train/327.jpg	Xã Bình Thủy
+train/454.jpg	Cô Tô
+train/484.jpg	Vĩnh Hanh, Châu Thành, An Giang
+train/190.jpg	LONG PHÚ
+train/540.jpg	mỹ hội đông, chợ mới, an giang
+train/923.jpg	Xã Đắk Long, Huyện Kon Plông, Tỉnh Kon Tum
+train/580.jpg	Bình Phước Xuân, Chợ Mới, An Giang
+train/696.jpg	Ngô Mây
+train/723.jpg	Xa Kroong, Thanh pho Kon Tum, Tinh Kon Tum
+train/367.jpg	Xã Thới Sơn
+train/161.jpg	PHƯỜNG LONG HƯNG, THỊ XÃ TÂN CHÂU, TỈNH AN GIANG
+train/277.jpg	Xã Bình Thạnh Đông, Huyện Phú Tân, Tỉnh An Giang
+train/152.jpg	Tân Châu, An Giang
+train/299.jpg	XÃ MỸ ĐỨC
+train/315.jpg	xã thạnh mỹ tây
+train/884.jpg	pô kô
+train/906.jpg	Dak Tang, Kon Plong, Kon Tum
+train/673.jpg	Thanh pho Kon Tum
+train/57.jpg	XÃ MỸ HOÀ HƯNG, THÀNH PHỐ LONG XUYÊN, TỈNH AN GIANG
+train/418.jpg	LÊ TRÌ
+train/124.jpg	phú hội, an phú, an giang
+train/785.jpg	XÃ ĐẮK CHOONG
+train/538.jpg	MỸ HỘI ĐÔNG
+train/849.jpg	Huyện Đắk Tô
+train/625.jpg	XÃ VĨNH PHÚ, HUYỆN THOẠI SƠN, TỈNH AN GIANG
+train/735.jpg	Xã Đắk Blà, Thành Phố Kon Tum, Tỉnh Kon Tum
+train/225.jpg	xã long hoà, huyện phú tân, tỉnh an giang
+train/248.jpg	Phú Thành, Phú Tân, An Giang
+train/533.jpg	Thị Trấn Mỹ Luông, Huyện Chợ Mới, Tỉnh An Giang
+train/439.jpg	Xã Lương An Trà
+train/265.jpg	XÃ PHÚ BÌNH, HUYỆN PHÚ TÂN, TỈNH AN GIANG
+train/339.jpg	xã bình chánh
+train/720.jpg	KROONG
+train/824.jpg	ĐẮK DỤC
+train/741.jpg	Xa Dak Nang
+train/241.jpg	Xã Phú Thạnh, Huyện Phú Tân, Tỉnh An Giang
+train/482.jpg	Vĩnh Hanh
+train/565.jpg	XÃ MỸ AN, HUYỆN CHỢ MỚI, TỈNH AN GIANG
+train/557.jpg	Xa Kien Thanh, Huyen Cho Moi, Tinh An Giang
+train/358.jpg	Nhơn Hưng
+train/934.jpg	đắk rve, kon rẫy, kon tum
+train/421.jpg	XÃ LÊ TRÌ, HUYỆN TRI TÔN, TỈNH AN GIANG
+train/122.jpg	PHÚ HỘI
+train/326.jpg	bình thủy

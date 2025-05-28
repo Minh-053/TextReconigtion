@@ -1,0 +1,1820 @@
+train/184.jpg	Tân An, Tân Châu, An Giang
+train/233.jpg	xã phú lâm, huyện phú tân, tỉnh an giang
+train/594.jpg	hòa an
+train/49.jpg	Phường Mỹ Hòa, Thành Phố Long Xuyên, Tỉnh An Giang
+train/224.jpg	long hoà, phú tân, an giang
+train/757.jpg	Xa Hoa Binh
+train/545.jpg	Xã Long Điền A, Huyện Chợ Mới, Tỉnh An Giang
+train/377.jpg	Xã Văn Giáo, Huyện Tịnh Biên, Tỉnh An Giang
+train/117.jpg	xã nhơn hội, huyện an phú, tỉnh an giang
+train/806.jpg	Đắk Kroong, Đắk Glei, Kon Tum
+train/694.jpg	THẮNG LỢI, KON TUM, KON TUM
+train/951.jpg	xã đắk pne, huyện kon rẫy, tỉnh kon tum
+train/69.jpg	Phường Châu Phú A, Thành Phố Châu Đốc, Tỉnh An Giang
+train/470.jpg	An Chau
+train/422.jpg	Vĩnh Gia
+train/1.jpg	Tỉnh An Giang
+train/275.jpg	XÃ BÌNH THẠNH ĐÔNG
+train/465.jpg	xã ô lâm, huyện tri tôn, tỉnh an giang
+train/852.jpg	Đắk Tô
+train/932.jpg	đắk rve
+train/760.jpg	Đắk Glei
+train/437.jpg	xã lương phi, huyện tri tôn, tỉnh an giang
+train/510.jpg	vĩnh nhuận
+train/258.jpg	Hiep Xuong
+train/898.jpg	ĐẮK RING, KON PLÔNG, KON TUM
+train/873.jpg	Xã Kon Đào
+train/958.jpg	Tân Lập, Kon Rẫy, Kon Tum
+train/364.jpg	An Phú, Tịnh Biên, An Giang
+train/174.jpg	VĨNH HÒA
+train/284.jpg	Tân Trung, Phú Tân, An Giang
+train/592.jpg	Hòa Bình, Chợ Mới, An Giang
+train/726.jpg	ngọk bay, kon tum, kon tum
+train/503.jpg	Xã Hòa Bình Thạnh
+train/462.jpg	Ô LÂM
+train/415.jpg	Xã Lạc Quới
+train/203.jpg	Xã Lê Chánh
+train/7.jpg	PHƯỜNG MỸ BÌNH
+train/815.jpg	Huyen Ngoc Hoi, Tinh Kon Tum
+train/347.jpg	Thị Trấn Nhà Bàng
+train/335.jpg	Xa Binh Phu
+train/362.jpg	an phú
+train/767.jpg	thị trấn đắk glei, huyện đắk glei, tỉnh kon tum
+train/208.jpg	Long Son, Tan Chau, An Giang
+train/478.jpg	CẦN ĐĂNG
+train/950.jpg	Đắk Pne, Kon Rẫy, Kon Tum
+train/23.jpg	PHƯỜNG BÌNH ĐỨC
+train/491.jpg	xã vĩnh bình
+train/823.jpg	xã đắk ang, huyện ngọc hồi, tỉnh kon tum
+train/596.jpg	hòa an, chợ mới, an giang
+train/181.jpg	XÃ TÂN THẠNH, THỊ XÃ TÂN CHÂU, TỈNH AN GIANG
+train/537.jpg	XÃ KIẾN AN, HUYỆN CHỢ MỚI, TỈNH AN GIANG
+train/1014.jpg	SA THẦY, SA THẦY, KON TUM
+train/379.jpg	Xa An Cu
+train/576.jpg	LONG KIẾN, CHỢ MỚI, AN GIANG
+train/575.jpg	Xa Long Kien
+train/95.jpg	Thị Trấn An Phú
+train/12.jpg	My Long, Long Xuyen, An Giang
+train/508.jpg	Vĩnh Lợi, Châu Thành, An Giang
+train/106.jpg	Khánh Bình
+train/171.jpg	Xã Vĩnh Xương
+train/157.jpg	PHƯỜNG LONG THẠNH, THỊ XÃ TÂN CHÂU, TỈNH AN GIANG
+train/647.jpg	XÃ MỸ PHÚ ĐÔNG
+train/758.jpg	Hòa Bình, Kon Tum, Kon Tum
+train/975.jpg	XÃ ĐĂK LONG, HUYỆN ĐẮK HÀ, TỈNH KON TUM
+train/689.jpg	Phường Trường Chinh
+train/378.jpg	AN CƯ
+train/147.jpg	Xã Đa Phước
+train/219.jpg	thị trấn chợ vàm
+train/113.jpg	xã quốc thái, huyện an phú, tỉnh an giang
+train/344.jpg	Tinh Bien, An Giang
+train/742.jpg	Dak Nang, Kon Tum, Kon Tum
+train/400.jpg	tân lập, tịnh biên, an giang
+train/1005.jpg	Xã Đắk La
+train/4.jpg	LONG XUYÊN, AN GIANG
+train/185.jpg	Xã Tân An, Thị Xã Tân Châu, Tỉnh An Giang
+train/967.jpg	THỊ TRẤN ĐẮK HÀ, HUYỆN ĐẮK HÀ, TỈNH KON TUM
+train/610.jpg	óc eo
+train/387.jpg	Xã Vĩnh Trung
+train/256.jpg	phú xuân, phú tân, an giang
+train/782.jpg	Dak Pek, Dak Glei, Kon Tum
+train/952.jpg	đắk tờ re
+train/547.jpg	Xã Tấn Mỹ
+train/667.jpg	Xã Vọng Thê
+train/101.jpg	Xã Khánh An, Huyện An Phú, Tỉnh An Giang
+train/239.jpg	Xã Phú Thạnh
+train/361.jpg	Xa Nhon Hung, Huyen Tinh Bien, Tinh An Giang
+train/77.jpg	PHƯỜNG NÚI SAM, THÀNH PHỐ CHÂU ĐỐC, TỈNH AN GIANG
+train/830.jpg	Đắk Nông, Ngọc Hồi, Kon Tum
+train/867.jpg	xã đắk trăm, huyện đắk tô, tỉnh kon tum
+train/563.jpg	Xa My An
+train/590.jpg	hòa bình
+train/988.jpg	ĐẮK MAR
+train/334.jpg	Bình Phú
+train/302.jpg	MỸ PHÚ
+train/893.jpg	xã đắk nên
+train/26.jpg	BÌNH KHÁNH
+train/701.jpg	Phường Thống Nhất
+train/762.jpg	ĐẮK GLEI, KON TUM
+train/5.jpg	Thanh pho Long Xuyen, Tinh An Giang
+train/687.jpg	Phường Quyết Thắng, Thành Phố Kon Tum, Tỉnh Kon Tum
+train/461.jpg	Xa Tan Tuyen, Huyen Tri Ton, Tinh An Giang
+train/965.jpg	Thị trấn Đắk Hà
+train/718.jpg	Đắk Cấm, Kon Tum, Kon Tum
+train/59.jpg	Thanh pho Chau Doc
+train/617.jpg	Xã Tây Phú, Huyện Thoại Sơn, Tỉnh An Giang
+train/790.jpg	Xốp, Đắk Glei, Kon Tum
+train/381.jpg	Xa An Cu, Huyen Tinh Bien, Tinh An Giang
+train/572.jpg	Long Giang, Cho Moi, An Giang
+train/432.jpg	Chau Lang, Tri Ton, An Giang
+train/509.jpg	Xa Vinh Loi, Huyen Chau Thanh, Tinh An Giang
+train/468.jpg	Châu Thành, An Giang
+train/273.jpg	Xã Phú Hưng, Huyện Phú Tân, Tỉnh An Giang
+train/16.jpg	Đông Xuyên, Long Xuyên, An Giang
+train/47.jpg	phường mỹ hòa
+train/881.jpg	Xã Diên Bình
+train/1010.jpg	SA THẦY, KON TUM
+train/807.jpg	Xã Đắk KRoong, Huyện Đắk Glei, Tỉnh Kon Tum
+train/369.jpg	xã thới sơn, huyện tịnh biên, tỉnh an giang
+train/551.jpg	Xã Long Điền B
+train/730.jpg	Vinh Quang, Kon Tum, Kon Tum
+train/160.jpg	LONG HƯNG, TÂN CHÂU, AN GIANG
+train/98.jpg	KHÁNH AN
+train/83.jpg	Xã Vĩnh Tế
+train/2.jpg	Long Xuyên
+train/87.jpg	Xa Vinh Chau
+train/487.jpg	xã bình thạnh
+train/972.jpg	đăk long
+train/525.jpg	HUYỆN CHỢ MỚI, TỈNH AN GIANG
+train/472.jpg	An Châu, Châu Thành, An Giang
+train/476.jpg	An Hoa, Chau Thanh, An Giang
+train/245.jpg	Xã Hoà Lạc, Huyện Phú Tân, Tỉnh An Giang
+train/318.jpg	BÌNH LONG
+train/193.jpg	Phường Long Phú, Thị xã Tân Châu, Tỉnh An Giang
+train/165.jpg	Phuong Long Chau, Thi xa Tan Chau, Tinh An Giang
+train/139.jpg	xã vĩnh trường
+train/97.jpg	thị trấn an phú, huyện an phú, tỉnh an giang
+train/143.jpg	Xa Vinh Hoi Dong
+train/420.jpg	LÊ TRÌ, TRI TÔN, AN GIANG
+train/375.jpg	Xa Van Giao
+train/477.jpg	xã an hòa, huyện châu thành, tỉnh an giang
+train/66.jpg	CHÂU PHÚ A
+train/496.jpg	Bình Hòa, Châu Thành, An Giang
+train/560.jpg	Mỹ Hiệp, Chợ Mới, An Giang
+train/558.jpg	My Hiep
+train/869.jpg	Xã Văn Lem
+train/900.jpg	măng buk
+train/111.jpg	XÃ QUỐC THÁI
+train/155.jpg	Phường Long Thạnh
+train/943.jpg	Xa Dak To Lung, Huyen Kon Ray, Tinh Kon Tum
+train/457.jpg	XÃ CÔ TÔ, HUYỆN TRI TÔN, TỈNH AN GIANG
+train/159.jpg	Phuong Long Hung
+train/14.jpg	Đông Xuyên
+train/759.jpg	xã hòa bình, thành phố kon tum, tỉnh kon tum
+train/135.jpg	Xã Vĩnh Hậu
+train/646.jpg	Mỹ Phú Đông
+train/880.jpg	Diên Bình
+train/285.jpg	xã tân trung, huyện phú tân, tỉnh an giang
+train/994.jpg	NGOK WANG, ĐẮK HÀ, KON TUM
+train/953.jpg	XÃ ĐẮK TỜ RE
+train/738.jpg	Ia Chim, Kon Tum, Kon Tum
+train/61.jpg	Thành Phố Châu Đốc, Tỉnh An Giang
+train/549.jpg	xã tấn mỹ, huyện chợ mới, tỉnh an giang
+train/693.jpg	Phường Thắng Lợi
+train/269.jpg	Xa Phu Tho, Huyen Phu Tan, Tinh An Giang
+train/272.jpg	PHÚ HƯNG, PHÚ TÂN, AN GIANG
+train/218.jpg	Chợ Vàm
+train/649.jpg	XÃ MỸ PHÚ ĐÔNG, HUYỆN THOẠI SƠN, TỈNH AN GIANG
+train/971.jpg	XÃ ĐẮK PXI, HUYỆN ĐẮK HÀ, TỈNH KON TUM
+train/281.jpg	Xã Tân Hòa, Huyện Phú Tân, Tỉnh An Giang
+train/750.jpg	Chư Hreng, Kon Tum, Kon Tum
+train/976.jpg	ĐẮK HRING
+train/431.jpg	Xã Châu Lăng
+train/48.jpg	Mỹ Hòa, Long Xuyên, An Giang
+train/739.jpg	Xa Ia Chim, Thanh pho Kon Tum, Tinh Kon Tum
+train/357.jpg	Xa Nui Voi, Huyen Tinh Bien, Tinh An Giang
+train/638.jpg	định mỹ
+train/183.jpg	xã tân an
+train/37.jpg	PHƯỜNG MỸ QUÝ, THÀNH PHỐ LONG XUYÊN, TỈNH AN GIANG
+train/186.jpg	Long An
+train/1004.jpg	đắk la
+train/812.jpg	Ngọc Hồi
+train/243.jpg	xã hoà lạc
+train/705.jpg	PHƯỜNG LÊ LỢI
+train/670.jpg	KON TUM
+train/591.jpg	Xã Hòa Bình
+train/425.jpg	xã vĩnh gia, huyện tri tôn, tỉnh an giang
+train/761.jpg	Huyện Đắk Glei
+train/800.jpg	Dak Long
+train/338.jpg	Bình Chánh
+train/114.jpg	Nhơn Hội
+train/626.jpg	Vinh Trach
+train/423.jpg	xã vĩnh gia
+train/729.jpg	Xa Vinh Quang
+train/121.jpg	Xã Phú Hữu, Huyện An Phú, Tỉnh An Giang
+train/688.jpg	TRƯỜNG CHINH
+train/86.jpg	VĨNH CHÂU
+train/216.jpg	phú mỹ, phú tân, an giang
+train/721.jpg	Xã Kroong
+train/286.jpg	châu phú
+train/513.jpg	Xa Vinh Nhuan, Huyen Chau Thanh, Tinh An Giang
+train/929.jpg	Huyện Kon Rẫy
+train/401.jpg	XÃ TÂN LẬP, HUYỆN TỊNH BIÊN, TỈNH AN GIANG
+train/623.jpg	Xã Vĩnh Phú
+train/323.jpg	XÃ BÌNH MỸ
+train/628.jpg	vĩnh trạch, thoại sơn, an giang
+train/268.jpg	phú thọ, phú tân, an giang
+train/24.jpg	bình đức, long xuyên, an giang
+train/126.jpg	phước hưng
+train/644.jpg	Dinh Thanh, Thoai Son, An Giang
+train/719.jpg	Xã Đắk Cấm, Thành Phố Kon Tum, Tỉnh Kon Tum
+train/110.jpg	quốc thái
+train/777.jpg	Xa Dak Nhoong
+train/278.jpg	Tân Hòa
+train/28.jpg	bình khánh, long xuyên, an giang
+train/44.jpg	Mỹ Thạnh, Long Xuyên, An Giang
+train/36.jpg	Mỹ Quý, Long Xuyên, An Giang
+train/804.jpg	ĐẮK KROONG
+train/564.jpg	mỹ an, chợ mới, an giang
+train/662.jpg	Bình Thành
+train/828.jpg	Đắk Nông
+train/355.jpg	Xa Nui Voi
+train/262.jpg	Phú Bình
+train/434.jpg	Lương Phi
+train/921.jpg	xã đắk long
+train/879.jpg	XÃ TÂN CẢNH, HUYỆN ĐẮK TÔ, TỈNH KON TUM
+train/937.jpg	Xã Đắk Kôi
+train/515.jpg	xã tân phú
+train/733.jpg	Xã Đắk Blà
+train/969.jpg	Xa Dak PXi
+train/195.jpg	xã châu phong
+train/925.jpg	Xa Hieu
+train/228.jpg	Phu Long, Phu Tan, An Giang
+train/569.jpg	Xã Nhơn Mỹ, Huyện Chợ Mới, Tỉnh An Giang
+train/382.jpg	An Nông
+train/301.jpg	Xã Mỹ Đức, Huyện Châu Phú, Tỉnh An Giang
+train/559.jpg	Xã Mỹ Hiệp
+train/700.jpg	Thống Nhất
+train/810.jpg	Dak Mon, Dak Glei, Kon Tum
+train/188.jpg	Long An, Tân Châu, An Giang
+train/238.jpg	Phú Thạnh
+train/293.jpg	THỊ TRẤN CÁI DẦU, HUYỆN CHÂU PHÚ, TỈNH AN GIANG
+train/85.jpg	xã vĩnh tế, thành phố châu đốc, tỉnh an giang
+train/365.jpg	xã an phú, huyện tịnh biên, tỉnh an giang
+train/236.jpg	Phú Hiệp, Phú Tân, An Giang
+train/255.jpg	Xã Phú Xuân
+train/92.jpg	An Phú, An Giang
+train/954.jpg	Dak To Re, Kon Ray, Kon Tum
+train/630.jpg	Phú Thuận
+train/834.jpg	Dak Xu, Ngoc Hoi, Kon Tum
+train/619.jpg	Xã An Bình
+train/680.jpg	duy tân
+train/310.jpg	Vĩnh Thạnh Trung
+train/430.jpg	CHÂU LĂNG
+train/291.jpg	Thị Trấn Cái Dầu
+train/959.jpg	XÃ TÂN LẬP, HUYỆN KON RẪY, TỈNH KON TUM
+train/489.jpg	Xa Binh Thanh, Huyen Chau Thanh, Tinh An Giang
+train/570.jpg	Long Giang
+train/707.jpg	PHƯỜNG LÊ LỢI, THÀNH PHỐ KON TUM, TỈNH KON TUM
+train/676.jpg	Quang Trung
+train/153.jpg	thị xã tân châu, tỉnh an giang
+train/715.jpg	Phường Trần Hưng Đạo, Thành phố Kon Tum, Tỉnh Kon Tum
+train/776.jpg	Dak Nhoong
+train/643.jpg	Xã Định Thành
+train/977.jpg	Xã Đắk Hring
+train/321.jpg	XÃ BÌNH LONG, HUYỆN CHÂU PHÚ, TỈNH AN GIANG
+train/490.jpg	vĩnh bình
+train/960.jpg	ĐẮK HÀ
+train/352.jpg	chi lăng, tịnh biên, an giang
+train/380.jpg	An Cu, Tinh Bien, An Giang
+train/883.jpg	XÃ DIÊN BÌNH, HUYỆN ĐẮK TÔ, TỈNH KON TUM
+train/1007.jpg	xã đắk la, huyện đắk hà, tỉnh kon tum
+train/989.jpg	Xã Đắk Mar
+train/267.jpg	xã phú thọ
+train/214.jpg	phú mỹ
+train/158.jpg	Long Hưng
+train/862.jpg	Ngọk Tụ, Đắk Tô, Kon Tum
+train/8.jpg	Mỹ Bình, Long Xuyên, An Giang
+train/397.jpg	Xã An Hảo, Huyện Tịnh Biên, Tỉnh An Giang
+train/33.jpg	PHƯỜNG MỸ PHƯỚC, THÀNH PHỐ LONG XUYÊN, TỈNH AN GIANG
+train/500.jpg	VĨNH AN, CHÂU THÀNH, AN GIANG
+train/601.jpg	Huyen Thoai Son, Tinh An Giang
+train/992.jpg	NGOK WANG
+train/908.jpg	Ngok Tem
+train/581.jpg	Xa Binh Phuoc Xuan, Huyen Cho Moi, Tinh An Giang
+train/695.jpg	Phuong Thang Loi, Thanh pho Kon Tum, Tinh Kon Tum
+train/826.jpg	ĐẮK DỤC, NGỌC HỒI, KON TUM
+train/60.jpg	Châu Đốc, An Giang
+train/313.jpg	Xa Vinh Thanh Trung, Huyen Chau Phu, Tinh An Giang
+train/137.jpg	xã vĩnh hậu, huyện an phú, tỉnh an giang
+train/766.jpg	Đắk Glei, Đắk Glei, Kon Tum
+train/346.jpg	Nha Bang
+train/305.jpg	Xa My Phu, Huyen Chau Phu, Tinh An Giang
+train/897.jpg	Xã Đắk Ring
+train/795.jpg	Xã Mường Hoong, Huyện Đắk Glei, Tỉnh Kon Tum
+train/928.jpg	Kon Ray
+train/957.jpg	xã tân lập
+train/631.jpg	Xã Phú Thuận
+train/747.jpg	Xã Đoàn Kết, Thành Phố Kon Tum, Tỉnh Kon Tum
+train/621.jpg	XÃ AN BÌNH, HUYỆN THOẠI SƠN, TỈNH AN GIANG
+train/90.jpg	AN PHÚ
+train/89.jpg	XÃ VĨNH CHÂU, THÀNH PHỐ CHÂU ĐỐC, TỈNH AN GIANG
+train/891.jpg	Huyện Kon Plông, Tỉnh Kon Tum
+train/156.jpg	Long Thanh, Tan Chau, An Giang
+train/724.jpg	Ngọk Bay
+train/856.jpg	Đắk Rơ Nga
+train/458.jpg	Tan Tuyen
+train/875.jpg	Xa Kon Dao, Huyen Dak To, Tinh Kon Tum
+train/744.jpg	đoàn kết
+train/191.jpg	PHƯỜNG LONG PHÚ
+train/801.jpg	Xa Dak Long
+train/845.jpg	Xã Sa Loong
+train/19.jpg	phường mỹ xuyên
+train/612.jpg	óc eo, thoại sơn, an giang
+train/841.jpg	Xã Pờ Y
+train/99.jpg	XÃ KHÁNH AN
+train/536.jpg	Kiến An, Chợ Mới, An Giang
+train/774.jpg	Dak Man, Dak Glei, Kon Tum
+train/586.jpg	Hội An
+train/27.jpg	PHƯỜNG BÌNH KHÁNH
+train/466.jpg	Chau Thanh
+train/642.jpg	Dinh Thanh
+train/833.jpg	xã đắk xú
+train/616.jpg	Tây Phú, Thoại Sơn, An Giang
+train/528.jpg	Chợ Mới, Chợ Mới, An Giang
+train/731.jpg	Xã Vinh Quang, Thành Phố Kon Tum, Tỉnh Kon Tum
+train/341.jpg	xã bình chánh, huyện châu phú, tỉnh an giang
+train/993.jpg	xã ngok wang
+train/433.jpg	xã châu lăng, huyện tri tôn, tỉnh an giang
+train/460.jpg	tân tuyến, tri tôn, an giang
+train/264.jpg	PHÚ BÌNH, PHÚ TÂN, AN GIANG
+train/70.jpg	Vinh My
+train/813.jpg	Huyen Ngoc Hoi
+train/703.jpg	Phường Thống Nhất, Thành Phố Kon Tum, Tỉnh Kon Tum
+train/485.jpg	Xã Vĩnh Hanh, Huyện Châu Thành, Tỉnh An Giang
+train/579.jpg	XÃ BÌNH PHƯỚC XUÂN
+train/494.jpg	Binh Hoa
+train/21.jpg	Phuong My Xuyen, Thanh pho Long Xuyen, Tinh An Giang
+train/136.jpg	Vinh Hau, An Phu, An Giang
+train/734.jpg	Đắk Blà, Kon Tum, Kon Tum
+train/764.jpg	đắk glei
+train/935.jpg	Thị Trấn Đắk Rve, Huyện Kon Rẫy, Tỉnh Kon Tum
+train/1000.jpg	Hà Mòn
+train/632.jpg	Phu Thuan, Thoai Son, An Giang
+train/391.jpg	Xã Tân Lợi
+train/521.jpg	Xa Vinh Thanh, Huyen Chau Thanh, Tinh An Giang
+train/283.jpg	Xã Tân Trung
+train/52.jpg	Mỹ Khánh, Long Xuyên, An Giang
+train/204.jpg	Lê Chánh, Tân Châu, An Giang
+train/130.jpg	VĨNH LỘC
+train/402.jpg	Tri Tôn
+train/818.jpg	plei cần, ngọc hồi, kon tum
+train/118.jpg	PHÚ HỮU
+train/495.jpg	XÃ BÌNH HÒA
+train/637.jpg	Xã Vĩnh Chánh, Huyện Thoại Sơn, Tỉnh An Giang
+train/755.jpg	Xa Dak Ro Wa, Thanh pho Kon Tum, Tinh Kon Tum
+train/320.jpg	Binh Long, Chau Phu, An Giang
+train/593.jpg	xã hòa bình, huyện chợ mới, tỉnh an giang
+train/996.jpg	Ngok Réo
+train/808.jpg	ĐẮK MÔN
+train/926.jpg	Hiếu, Kon Plông, Kon Tum
+train/530.jpg	My Luong
+train/177.jpg	xã vĩnh hòa, thị xã tân châu, tỉnh an giang
+train/395.jpg	Xã An Hảo
+train/754.jpg	Đắk Rơ Wa, Kon Tum, Kon Tum
+train/909.jpg	xã ngok tem
+train/607.jpg	THỊ TRẤN PHÚ HOÀ
+train/412.jpg	Ba Chuc, Tri Ton, An Giang
+train/448.jpg	Núi Tô, Tri Tôn, An Giang
+train/46.jpg	Mỹ Hòa
+train/435.jpg	Xã Lương Phi
+train/973.jpg	Xa Dak Long
+train/55.jpg	Xã Mỹ Hoà Hưng
+train/196.jpg	Châu Phong, Tân Châu, An Giang
+train/91.jpg	huyện an phú
+train/447.jpg	xã núi tô
+train/627.jpg	Xã Vĩnh Trạch
+train/389.jpg	XÃ VĨNH TRUNG, HUYỆN TỊNH BIÊN, TỈNH AN GIANG
+train/608.jpg	PHÚ HOÀ, THOẠI SƠN, AN GIANG
+train/215.jpg	thị trấn phú mỹ
+train/166.jpg	PHÚ LỘC
+train/931.jpg	Huyen Kon Ray, Tinh Kon Tum
+train/708.jpg	Nguyễn Trãi
+train/732.jpg	Dak Bla
+train/100.jpg	KHÁNH AN, AN PHÚ, AN GIANG
+train/312.jpg	VĨNH THẠNH TRUNG, CHÂU PHÚ, AN GIANG
+train/247.jpg	Xa Phu Thanh
+train/816.jpg	PLEI CẦN
+train/814.jpg	ngọc hồi, kon tum
+train/13.jpg	phường mỹ long, thành phố long xuyên, tỉnh an giang
+train/349.jpg	thị trấn nhà bàng, huyện tịnh biên, tỉnh an giang
+train/257.jpg	Xã Phú Xuân, Huyện Phú Tân, Tỉnh An Giang
+train/17.jpg	PHƯỜNG ĐÔNG XUYÊN, THÀNH PHỐ LONG XUYÊN, TỈNH AN GIANG
+train/986.jpg	ĐĂK NGỌK, ĐẮK HÀ, KON TUM
+train/74.jpg	NÚI SAM
+train/878.jpg	Tan Canh, Dak To, Kon Tum
+train/541.jpg	XÃ MỸ HỘI ĐÔNG, HUYỆN CHỢ MỚI, TỈNH AN GIANG
+train/846.jpg	SA LOONG, NGỌC HỒI, KON TUM
+train/336.jpg	BÌNH PHÚ, CHÂU PHÚ, AN GIANG
+train/915.jpg	XÃ PỜ Ê, HUYỆN KON PLÔNG, TỈNH KON TUM
+train/463.jpg	xã ô lâm
+train/661.jpg	XÃ THOẠI GIANG, HUYỆN THOẠI SƠN, TỈNH AN GIANG
+train/919.jpg	Xa Mang Canh, Huyen Kon Plong, Tinh Kon Tum
+train/622.jpg	Vĩnh Phú
+train/870.jpg	Văn Lem, Đắk Tô, Kon Tum
+train/324.jpg	Binh My, Chau Phu, An Giang
+train/886.jpg	Pô Kô, Đắk Tô, Kon Tum
+train/330.jpg	Đào Hữu Cảnh
+train/148.jpg	Đa Phước, An Phú, An Giang
+train/1009.jpg	Huyện Sa Thầy
+train/653.jpg	xã vọng đông, huyện thoại sơn, tỉnh an giang
+train/179.jpg	XÃ TÂN THẠNH
+train/353.jpg	THỊ TRẤN CHI LĂNG, HUYỆN TỊNH BIÊN, TỈNH AN GIANG
+train/690.jpg	Trường Chinh, Kon Tum, Kon Tum
+train/756.jpg	Hoa Binh
+train/416.jpg	Lac Quoi, Tri Ton, An Giang
+train/911.jpg	Xã Ngok Tem, Huyện Kon Plông, Tỉnh Kon Tum
+train/167.jpg	Xã Phú Lộc
+train/501.jpg	xã vĩnh an, huyện châu thành, tỉnh an giang
+train/872.jpg	kon đào
+train/84.jpg	vĩnh tế, châu đốc, an giang
+train/254.jpg	PHÚ XUÂN
+train/876.jpg	Tan Canh
+train/45.jpg	Phường Mỹ Thạnh, Thành phố Long Xuyên, Tỉnh An Giang
+train/966.jpg	Đắk Hà, Đắk Hà, Kon Tum
+train/295.jpg	Xa Khanh Hoa
+train/450.jpg	An Tuc
+train/648.jpg	mỹ phú đông, thoại sơn, an giang
+train/303.jpg	Xã Mỹ Phú
+train/553.jpg	xã long điền b, huyện chợ mới, tỉnh an giang
+train/493.jpg	XÃ VĨNH BÌNH, HUYỆN CHÂU THÀNH, TỈNH AN GIANG
+train/201.jpg	XÃ PHÚ VĨNH, THỊ XÃ TÂN CHÂU, TỈNH AN GIANG
+train/393.jpg	xã tân lợi, huyện tịnh biên, tỉnh an giang
+train/292.jpg	CÁI DẦU, CHÂU PHÚ, AN GIANG
+train/64.jpg	Châu Phú B, Châu Đốc, An Giang
+train/604.jpg	Núi Sập, Thoại Sơn, An Giang
+train/103.jpg	thị trấn long bình
+train/526.jpg	Chợ Mới
+train/154.jpg	Long Thạnh
+train/664.jpg	BÌNH THÀNH, THOẠI SƠN, AN GIANG
+train/449.jpg	Xa Nui To, Huyen Tri Ton, Tinh An Giang
+train/351.jpg	Thị Trấn Chi Lăng
+train/198.jpg	PHÚ VĨNH
+train/340.jpg	bình chánh, châu phú, an giang
+train/866.jpg	Dak Tram, Dak To, Kon Tum
+train/141.jpg	Xã Vĩnh Trường, Huyện An Phú, Tỉnh An Giang
+train/546.jpg	Tấn Mỹ
+train/740.jpg	Đăk Năng
+train/711.jpg	Phuong Nguyen Trai, Thanh pho Kon Tum, Tinh Kon Tum
+train/614.jpg	Tây Phú
+train/938.jpg	đắk kôi, kon rẫy, kon tum
+train/597.jpg	Xã Hòa An, Huyện Chợ Mới, Tỉnh An Giang
+train/842.jpg	pờ y, ngọc hồi, kon tum
+train/843.jpg	xã pờ y, huyện ngọc hồi, tỉnh kon tum
+train/901.jpg	xã măng buk
+train/771.jpg	XÃ ĐẮK PLÔ, HUYỆN ĐẮK GLEI, TỈNH KON TUM
+train/81.jpg	Phuong Vinh Nguon, Thanh pho Chau Doc, Tinh An Giang
+train/737.jpg	xã ia chim
+train/821.jpg	Xã Đắk Ang
+train/629.jpg	Xã Vĩnh Trạch, Huyện Thoại Sơn, Tỉnh An Giang
+train/602.jpg	núi sập
+train/548.jpg	tấn mỹ, chợ mới, an giang
+train/529.jpg	Thị Trấn Chợ Mới, Huyện Chợ Mới, Tỉnh An Giang
+train/684.jpg	Quyết Thắng
+train/220.jpg	Chợ Vàm, Phú Tân, An Giang
+train/930.jpg	kon rẫy, kon tum
+train/232.jpg	Phu Lam, Phu Tan, An Giang
+train/486.jpg	Bình Thạnh
+train/429.jpg	xã vĩnh phước, huyện tri tôn, tỉnh an giang
+train/383.jpg	Xã An Nông
+train/499.jpg	Xã Vĩnh An
+train/146.jpg	Đa Phước
+train/150.jpg	Tân Châu
+train/506.jpg	Vĩnh Lợi
+train/745.jpg	xã đoàn kết
+train/309.jpg	Xã Ô Long Vỹ, Huyện Châu Phú, Tỉnh An Giang
+train/620.jpg	An Bình, Thoại Sơn, An Giang
+train/325.jpg	Xã Bình Mỹ, Huyện Châu Phú, Tỉnh An Giang
+train/1002.jpg	HÀ MÒN, ĐẮK HÀ, KON TUM
+train/736.jpg	Ia Chim
+train/319.jpg	xã bình long
+train/125.jpg	Xã Phú Hội, Huyện An Phú, Tỉnh An Giang
+train/456.jpg	cô tô, tri tôn, an giang
+train/555.jpg	Xã Kiến Thành
+train/35.jpg	phường mỹ quý
+train/280.jpg	Tan Hoa, Phu Tan, An Giang
+train/492.jpg	VĨNH BÌNH, CHÂU THÀNH, AN GIANG
+train/366.jpg	THỚI SƠN
+train/93.jpg	Huyện An Phú, Tỉnh An Giang
+train/31.jpg	Phường Mỹ Phước
+train/104.jpg	LONG BÌNH, AN PHÚ, AN GIANG
+train/249.jpg	XÃ PHÚ THÀNH, HUYỆN PHÚ TÂN, TỈNH AN GIANG
+train/848.jpg	đắk tô
+train/871.jpg	XÃ VĂN LEM, HUYỆN ĐẮK TÔ, TỈNH KON TUM
+train/20.jpg	MỸ XUYÊN, LONG XUYÊN, AN GIANG
+train/246.jpg	Phú Thành
+train/743.jpg	xã đăk năng, thành phố kon tum, tỉnh kon tum
+train/282.jpg	TÂN TRUNG
+train/371.jpg	Thi tran Tinh Bien
+train/905.jpg	Xã Đắk Tăng
+train/987.jpg	Xa Dak Ngok, Huyen Dak Ha, Tinh Kon Tum
+train/229.jpg	Xã Phú Long, Huyện Phú Tân, Tỉnh An Giang
+train/853.jpg	thị trấn đắk tô
+train/199.jpg	Xã Phú Vĩnh
+train/217.jpg	Thi tran Phu My, Huyen Phu Tan, Tinh An Giang
+train/370.jpg	TỊNH BIÊN
+train/200.jpg	phú vĩnh, tân châu, an giang
+train/307.jpg	XÃ Ô LONG VỸ
+train/892.jpg	Đắk Nên
+train/444.jpg	Tà Đảnh, Tri Tôn, An Giang
+train/502.jpg	hòa bình thạnh
+train/995.jpg	xã ngok wang, huyện đắk hà, tỉnh kon tum
+train/424.jpg	Vĩnh Gia, Tri Tôn, An Giang
+train/386.jpg	Vĩnh Trung
+train/641.jpg	Xã Định Mỹ, Huyện Thoại Sơn, Tỉnh An Giang
+train/25.jpg	Phường Bình Đức, Thành phố Long Xuyên, Tỉnh An Giang
+train/587.jpg	Xã Hội An
+train/168.jpg	Phú Lộc, Tân Châu, An Giang
+train/865.jpg	XÃ ĐẮK TRĂM
+train/289.jpg	Huyen Chau Phu, Tinh An Giang
+train/342.jpg	Tinh Bien
+train/473.jpg	Thị trấn An Châu, Huyện Châu Thành, Tỉnh An Giang
+train/230.jpg	Phu Lam
+train/479.jpg	XÃ CẦN ĐĂNG
+train/399.jpg	Xa Tan Lap
+train/107.jpg	xã khánh bình
+train/717.jpg	XÃ ĐẮK CẤM
+train/471.jpg	Thi tran An Chau
+train/794.jpg	mường hoong, đắk glei, kon tum
+train/38.jpg	Mỹ Thới
+train/170.jpg	Vinh Xuong
+train/79.jpg	PHƯỜNG VĨNH NGƯƠN
+train/442.jpg	Tà Đảnh
+train/584.jpg	An Thạnh Trung, Chợ Mới, An Giang
+train/714.jpg	Trần Hưng Đạo, Kon Tum, Kon Tum
+train/797.jpg	Xã Ngọc Linh
+train/660.jpg	Thoai Giang, Thoai Son, An Giang
+train/213.jpg	huyện phú tân, tỉnh an giang
+train/751.jpg	XÃ CHƯ HRENG, THÀNH PHỐ KON TUM, TỈNH KON TUM
+train/946.jpg	ĐẮK RUỒNG, KON RẪY, KON TUM
+train/451.jpg	Xã An Tức
+train/3.jpg	Thanh pho Long Xuyen
+train/825.jpg	Xã Đắk Dục
+train/235.jpg	Xã Phú Hiệp
+train/956.jpg	tân lập
+train/793.jpg	XÃ MƯỜNG HOONG
+train/945.jpg	Xã Đắk Ruồng
+train/535.jpg	xã kiến an
+train/674.jpg	Kon Tum, Kon Tum
+train/859.jpg	XÃ ĐẮK RƠ NGA, HUYỆN ĐẮK TÔ, TỈNH KON TUM
+train/328.jpg	bình thủy, châu phú, an giang
+train/568.jpg	Nhơn Mỹ, Chợ Mới, An Giang
+train/194.jpg	Chau Phong
+train/62.jpg	Châu Phú B
+train/30.jpg	mỹ phước
+train/577.jpg	XÃ LONG KIẾN, HUYỆN CHỢ MỚI, TỈNH AN GIANG
+train/518.jpg	vĩnh thành
+train/480.jpg	Can Dang, Chau Thanh, An Giang
+train/266.jpg	PHÚ THỌ
+train/242.jpg	Hoà Lạc
+train/783.jpg	xã đắk pék, huyện đắk glei, tỉnh kon tum
+train/1008.jpg	SA THẦY
+train/896.jpg	Dak Ring
+train/716.jpg	đắk cấm
+train/253.jpg	Xã Phú An, Huyện Phú Tân, Tỉnh An Giang
+train/933.jpg	Thi tran Dak Rve
+train/682.jpg	Duy Tân, Kon Tum, Kon Tum
+train/710.jpg	Nguyễn Trãi, Kon Tum, Kon Tum
+train/678.jpg	Quang Trung, Kon Tum, Kon Tum
+train/75.jpg	Phường Núi Sam
+train/189.jpg	Xa Long An, Thi xa Tan Chau, Tinh An Giang
+train/939.jpg	Xa Dak Koi, Huyen Kon Ray, Tinh Kon Tum
+train/544.jpg	LONG ĐIỀN A, CHỢ MỚI, AN GIANG
+train/864.jpg	ĐẮK TRĂM
+train/857.jpg	Xa Dak Ro Nga
+train/887.jpg	xã pô kô, huyện đắk tô, tỉnh kon tum
+train/877.jpg	Xã Tân Cảnh
+train/605.jpg	Thi tran Nui Sap, Huyen Thoai Son, Tinh An Giang
+train/839.jpg	XÃ ĐẮK KAN, HUYỆN NGỌC HỒI, TỈNH KON TUM
+train/50.jpg	Mỹ Khánh
+train/164.jpg	long châu, tân châu, an giang
+train/634.jpg	VĨNH CHÁNH
+train/354.jpg	Nui Voi
+train/322.jpg	BÌNH MỸ
+train/791.jpg	Xã Xốp, Huyện Đắk Glei, Tỉnh Kon Tum
+train/683.jpg	Phuong Duy Tan, Thanh pho Kon Tum, Tinh Kon Tum
+train/706.jpg	Lê Lợi, Kon Tum, Kon Tum
+train/119.jpg	xã phú hữu
+train/822.jpg	Đắk Ang, Ngọc Hồi, Kon Tum
+train/1013.jpg	Thị Trấn Sa Thầy
+train/276.jpg	Bình Thạnh Đông, Phú Tân, An Giang
+train/562.jpg	My An
+train/316.jpg	Thanh My Tay, Chau Phu, An Giang
+train/237.jpg	Xã Phú Hiệp, Huyện Phú Tân, Tỉnh An Giang
+train/231.jpg	XÃ PHÚ LÂM
+train/910.jpg	NGOK TEM, KON PLÔNG, KON TUM
+train/140.jpg	vĩnh trường, an phú, an giang
+train/712.jpg	trần hưng đạo
+train/578.jpg	Bình Phước Xuân
+train/80.jpg	Vĩnh Ngươn, Châu Đốc, An Giang
+train/769.jpg	XÃ ĐẮK PLÔ
+train/67.jpg	phường châu phú a
+train/452.jpg	an tức, tri tôn, an giang
+train/781.jpg	Xã Đắk Pék
+train/805.jpg	Xã Đắk KRoong
+train/1016.jpg	Rơ Kơi
+train/561.jpg	xã mỹ hiệp, huyện chợ mới, tỉnh an giang
+train/787.jpg	XÃ ĐẮK CHOONG, HUYỆN ĐẮK GLEI, TỈNH KON TUM
+train/573.jpg	Xa Long Giang, Huyen Cho Moi, Tinh An Giang
+train/669.jpg	Xã Vọng Thê, Huyện Thoại Sơn, Tỉnh An Giang
+train/6.jpg	Mỹ Bình
+train/552.jpg	LONG ĐIỀN B, CHỢ MỚI, AN GIANG
+train/207.jpg	PHƯỜNG LONG SƠN
+train/692.jpg	Thắng Lợi
+train/78.jpg	Vĩnh Ngươn
+train/890.jpg	Kon Plông, Kon Tum
+train/209.jpg	Phường Long Sơn, Thị Xã Tân Châu, Tỉnh An Giang
+train/414.jpg	Lạc Quới
+train/941.jpg	xã đắk tơ lung
+train/768.jpg	đắk plô
+train/940.jpg	ĐẮK TƠ LUNG
+train/659.jpg	XÃ THOẠI GIANG
+train/211.jpg	Huyện Phú Tân
+train/571.jpg	Xa Long Giang
+train/392.jpg	tân lợi, tịnh biên, an giang
+train/850.jpg	ĐẮK TÔ, KON TUM
+train/922.jpg	Đắk Long, Kon Plông, Kon Tum
+train/511.jpg	Xã Vĩnh Nhuận
+train/997.jpg	xã ngok réo
+train/722.jpg	Kroong, Kon Tum, Kon Tum
+train/41.jpg	Phường Mỹ Thới, Thành phố Long Xuyên, Tỉnh An Giang
+train/600.jpg	Thoại Sơn, An Giang
+train/388.jpg	Vinh Trung, Tinh Bien, An Giang
+train/298.jpg	mỹ đức
+train/374.jpg	VĂN GIÁO
+train/427.jpg	xã vĩnh phước
+train/677.jpg	PHƯỜNG QUANG TRUNG
+train/748.jpg	CHƯ HRENG
+train/780.jpg	ĐẮK PÉK
+train/819.jpg	Thị trấn Plei Cần, Huyện Ngọc Hồi, Tỉnh Kon Tum
+train/788.jpg	Xốp
+train/792.jpg	Muong Hoong
+train/831.jpg	XÃ ĐẮK NÔNG, HUYỆN NGỌC HỒI, TỈNH KON TUM
+train/317.jpg	Xã Thạnh Mỹ Tây, Huyện Châu Phú, Tỉnh An Giang
+train/65.jpg	phường châu phú b, thành phố châu đốc, tỉnh an giang
+train/53.jpg	Xã Mỹ Khánh, Thành Phố Long Xuyên, Tỉnh An Giang
+train/974.jpg	Đăk Long, Đắk Hà, Kon Tum
+train/847.jpg	Xã Sa Loong, Huyện Ngọc Hồi, Tỉnh Kon Tum
+train/840.jpg	pờ y
+train/868.jpg	văn lem
+train/259.jpg	Xa Hiep Xuong
+train/329.jpg	Xã Bình Thủy, Huyện Châu Phú, Tỉnh An Giang
+train/640.jpg	ĐỊNH MỸ, THOẠI SƠN, AN GIANG
+train/786.jpg	Dak Choong, Dak Glei, Kon Tum
+train/944.jpg	Dak Ruong
+train/566.jpg	Nhơn Mỹ
+train/698.jpg	Ngô Mây, Kon Tum, Kon Tum
+train/270.jpg	phú hưng
+train/443.jpg	Xã Tà Đảnh
+train/474.jpg	an hòa
+train/18.jpg	Mỹ Xuyên
+train/128.jpg	phước hưng, an phú, an giang
+train/753.jpg	Xã Đắk Rơ Wa
+train/574.jpg	Long Kien
+train/123.jpg	Xa Phu Hoi
+train/54.jpg	MỸ HOÀ HƯNG
+train/240.jpg	PHÚ THẠNH, PHÚ TÂN, AN GIANG
+train/829.jpg	xã đắk nông
+train/844.jpg	Sa Loong
+train/980.jpg	Đắk Ui
+train/998.jpg	Ngok Réo, Đắk Hà, Kon Tum
+train/924.jpg	Hieu
+train/464.jpg	Ô Lâm, Tri Tôn, An Giang
+train/129.jpg	Xa Phuoc Hung, Huyen An Phu, Tinh An Giang
+train/453.jpg	Xã An Tức, Huyện Tri Tôn, Tỉnh An Giang
+train/820.jpg	ĐẮK ANG
+train/498.jpg	Vĩnh An
+train/0.jpg	An Giang
+train/752.jpg	Dak Ro Wa
+train/22.jpg	Binh Duc
+train/419.jpg	Xa Le Tri
+train/274.jpg	Bình Thạnh Đông
+train/542.jpg	LONG ĐIỀN A
+train/961.jpg	Huyện Đắk Hà
+train/835.jpg	Xã Đắk Xú, Huyện Ngọc Hồi, Tỉnh Kon Tum
+train/999.jpg	Xa Ngok Reo, Huyen Dak Ha, Tinh Kon Tum
+train/874.jpg	Kon Đào, Đắk Tô, Kon Tum
+train/180.jpg	Tân Thạnh, Tân Châu, An Giang
+train/408.jpg	tri tôn, tri tôn, an giang
+train/895.jpg	Xa Dak Nen, Huyen Kon Plong, Tinh Kon Tum
+train/356.jpg	núi voi, tịnh biên, an giang
+train/368.jpg	thới sơn, tịnh biên, an giang
+train/1003.jpg	Xã Hà Mòn, Huyện Đắk Hà, Tỉnh Kon Tum
+train/962.jpg	Dak Ha, Kon Tum
+train/606.jpg	Phu Hoa
+train/1015.jpg	Thị trấn Sa Thầy, Huyện Sa Thầy, Tỉnh Kon Tum
+train/918.jpg	Măng Cành, Kon Plông, Kon Tum
+train/863.jpg	XÃ NGỌK TỤ, HUYỆN ĐẮK TÔ, TỈNH KON TUM
+train/350.jpg	chi lăng
+train/709.jpg	Phuong Nguyen Trai
+train/251.jpg	XÃ PHÚ AN
+train/290.jpg	Cai Dau
+train/455.jpg	Xã Cô Tô
+train/799.jpg	Xã Ngọc Linh, Huyện Đắk Glei, Tỉnh Kon Tum
+train/51.jpg	XÃ MỸ KHÁNH
+train/543.jpg	Xã Long Điền A
+train/517.jpg	xã tân phú, huyện châu thành, tỉnh an giang
+train/271.jpg	Xã Phú Hưng
+train/697.jpg	PHƯỜNG NGÔ MÂY
+train/979.jpg	Xa Dak HRing, Huyen Dak Ha, Tinh Kon Tum
+train/1017.jpg	Xã Rơ Kơi
+train/407.jpg	Thị trấn Tri Tôn
+train/56.jpg	mỹ hoà hưng, long xuyên, an giang
+train/713.jpg	phường trần hưng đạo
+train/963.jpg	Huyen Dak Ha, Tinh Kon Tum
+train/851.jpg	huyện đắk tô, tỉnh kon tum
+train/615.jpg	XÃ TÂY PHÚ
+train/96.jpg	An Phú, An Phú, An Giang
+train/1019.jpg	XÃ RƠ KƠI, HUYỆN SA THẦY, TỈNH KON TUM
+train/102.jpg	long bình
+train/222.jpg	Long Hoà
+train/178.jpg	Tan Thanh
+train/531.jpg	THỊ TRẤN MỸ LUÔNG
+train/772.jpg	Đắk Man
+train/589.jpg	Xã Hội An, Huyện Chợ Mới, Tỉnh An Giang
+train/15.jpg	PHƯỜNG ĐÔNG XUYÊN
+train/949.jpg	Xã Đắk Pne
+train/611.jpg	Thi Tran Oc Eo
+train/187.jpg	Xã Long An
+train/964.jpg	ĐẮK HÀ
+train/149.jpg	Xa Da Phuoc, Huyen An Phu, Tinh An Giang
+train/226.jpg	Phu Long
+train/550.jpg	Long Điền B
+train/656.jpg	Vĩnh Khánh, Thoại Sơn, An Giang
+train/394.jpg	An Hao
+train/903.jpg	Xã Măng Buk, Huyện Kon Plông, Tỉnh Kon Tum
+train/234.jpg	Phú Hiệp
+train/441.jpg	Xã Lương An Trà, Huyện Tri Tôn, Tỉnh An Giang
+train/127.jpg	Xã Phước Hưng
+train/396.jpg	An Hảo, Tịnh Biên, An Giang
+train/948.jpg	đắk pne
+train/483.jpg	Xa Vinh Hanh
+train/488.jpg	Bình Thạnh, Châu Thành, An Giang
+train/467.jpg	Huyen Chau Thanh
+train/519.jpg	XÃ VĨNH THÀNH
+train/860.jpg	Ngok Tu
+train/984.jpg	Đăk Ngọk
+train/116.jpg	Nhơn Hội, An Phú, An Giang
+train/855.jpg	Thị trấn Đắk Tô, Huyện Đắk Tô, Tỉnh Kon Tum
+train/82.jpg	VĨNH TẾ
+train/108.jpg	Khanh Binh, An Phu, An Giang
+train/970.jpg	ĐẮK PXI, ĐẮK HÀ, KON TUM
+train/221.jpg	Thị trấn Chợ Vàm, Huyện Phú Tân, Tỉnh An Giang
+train/888.jpg	Kon Plông
+train/837.jpg	xã đắk kan
+train/942.jpg	Dak To Lung, Kon Ray, Kon Tum
+train/749.jpg	Xã Chư Hreng
+train/384.jpg	An Nong, Tinh Bien, An Giang
+train/348.jpg	Nhà Bàng, Tịnh Biên, An Giang
+train/417.jpg	Xã Lạc Quới, Huyện Tri Tôn, Tỉnh An Giang
+train/668.jpg	Vọng Thê, Thoại Sơn, An Giang
+train/770.jpg	Đắk Plô, Đắk Glei, Kon Tum
+train/534.jpg	KIẾN AN
+train/372.jpg	Tịnh Biên, Tịnh Biên, An Giang
+train/645.jpg	Xa Dinh Thanh, Huyen Thoai Son, Tinh An Giang
+train/445.jpg	XÃ TÀ ĐẢNH, HUYỆN TRI TÔN, TỈNH AN GIANG
+train/42.jpg	mỹ thạnh
+train/599.jpg	Huyen Thoai Son
+train/398.jpg	Tân Lập
+train/202.jpg	lê chánh
+train/802.jpg	Đắk Long, Đắk Glei, Kon Tum
+train/1006.jpg	Đắk La, Đắk Hà, Kon Tum
+train/151.jpg	Thi xa Tan Chau
+train/73.jpg	Phường Vĩnh Mỹ, Thành phố Châu Đốc, Tỉnh An Giang
+train/633.jpg	Xã Phú Thuận, Huyện Thoại Sơn, Tỉnh An Giang
+train/968.jpg	đắk pxi
+train/635.jpg	xã vĩnh chánh
+train/913.jpg	Xa Po E
+train/438.jpg	Lương An Trà
+train/936.jpg	đắk kôi
+train/778.jpg	Đắk Nhoong, Đắk Glei, Kon Tum
+train/520.jpg	vĩnh thành, châu thành, an giang
+train/145.jpg	XÃ VĨNH HỘI ĐÔNG, HUYỆN AN PHÚ, TỈNH AN GIANG
+train/595.jpg	Xa Hoa An
+train/505.jpg	XÃ HÒA BÌNH THẠNH, HUYỆN CHÂU THÀNH, TỈNH AN GIANG
+train/773.jpg	xã đắk man
+train/978.jpg	Đắk HRing, Đắk Hà, Kon Tum
+train/120.jpg	Phú Hữu, An Phú, An Giang
+train/206.jpg	Long Sơn
+train/798.jpg	Ngoc Linh, Dak Glei, Kon Tum
+train/40.jpg	Mỹ Thới, Long Xuyên, An Giang
+train/446.jpg	Nui To
+train/144.jpg	Vĩnh Hội Đông, An Phú, An Giang
+train/663.jpg	Xa Binh Thanh
+train/304.jpg	Mỹ Phú, Châu Phú, An Giang
+train/1011.jpg	Huyện Sa Thầy, Tỉnh Kon Tum
+train/990.jpg	ĐẮK MAR, ĐẮK HÀ, KON TUM
+train/373.jpg	THỊ TRẤN TỊNH BIÊN, HUYỆN TỊNH BIÊN, TỈNH AN GIANG
+train/109.jpg	Xã Khánh Bình, Huyện An Phú, Tỉnh An Giang
+train/803.jpg	Xa Dak Long, Huyen Dak Glei, Tinh Kon Tum
+train/650.jpg	vọng đông
+train/907.jpg	Xã Đắk Tăng, Huyện Kon Plông, Tỉnh Kon Tum
+train/556.jpg	Kiến Thành, Chợ Mới, An Giang
+train/902.jpg	măng buk, kon plông, kon tum
+train/9.jpg	Phường Mỹ Bình, Thành Phố Long Xuyên, Tỉnh An Giang
+train/32.jpg	Mỹ Phước, Long Xuyên, An Giang
+train/94.jpg	an phú
+train/554.jpg	Kien Thanh
+train/613.jpg	Thi Tran Oc Eo, Huyen Thoai Son, Tinh An Giang
+train/263.jpg	Xã Phú Bình
+train/665.jpg	xã bình thành, huyện thoại sơn, tỉnh an giang
+train/71.jpg	Phường Vĩnh Mỹ
+train/169.jpg	Xã Phú Lộc, Thị xã Tân Châu, Tỉnh An Giang
+train/982.jpg	Đắk Ui, Đắk Hà, Kon Tum
+train/163.jpg	Phường Long Châu
+train/763.jpg	huyện đắk glei, tỉnh kon tum
+train/279.jpg	Xa Tan Hoa
+train/702.jpg	Thống Nhất, Kon Tum, Kon Tum
+train/39.jpg	Phuong My Thoi
+train/832.jpg	Đắk Xú
+train/588.jpg	HỘI AN, CHỢ MỚI, AN GIANG
+train/567.jpg	Xa Nhon My
+train/582.jpg	An Thạnh Trung
+train/250.jpg	Phu An
+train/343.jpg	Huyện Tịnh Biên
+train/899.jpg	Xa Dak Ring, Huyen Kon Plong, Tinh Kon Tum
+train/210.jpg	phú tân
+train/912.jpg	Po E
+train/666.jpg	VỌNG THÊ
+train/894.jpg	đắk nên, kon plông, kon tum
+train/337.jpg	Xã Bình Phú, Huyện Châu Phú, Tỉnh An Giang
+train/428.jpg	Vĩnh Phước, Tri Tôn, An Giang
+train/609.jpg	THỊ TRẤN PHÚ HOÀ, HUYỆN THOẠI SƠN, TỈNH AN GIANG
+train/885.jpg	Xã Pô Kô
+train/481.jpg	XÃ CẦN ĐĂNG, HUYỆN CHÂU THÀNH, TỈNH AN GIANG
+train/142.jpg	Vinh Hoi Dong
+train/197.jpg	Xa Chau Phong, Thi xa Tan Chau, Tinh An Giang
+train/376.jpg	Văn Giáo, Tịnh Biên, An Giang
+train/1012.jpg	sa thầy
+train/134.jpg	vĩnh hậu
+train/436.jpg	LƯƠNG PHI, TRI TÔN, AN GIANG
+train/704.jpg	Lê Lợi
+train/405.jpg	Huyện Tri Tôn, Tỉnh An Giang
+train/413.jpg	THỊ TRẤN BA CHÚC, HUYỆN TRI TÔN, TỈNH AN GIANG
+train/981.jpg	XÃ ĐẮK UI
+train/10.jpg	Mỹ Long
+train/598.jpg	thoại sơn
+train/504.jpg	Hòa Bình Thạnh, Châu Thành, An Giang
+train/838.jpg	ĐẮK KAN, NGỌC HỒI, KON TUM
+train/1018.jpg	Ro Koi, Sa Thay, Kon Tum
+train/363.jpg	Xã An Phú
+train/624.jpg	Vĩnh Phú, Thoại Sơn, An Giang
+train/811.jpg	XÃ ĐẮK MÔN, HUYỆN ĐẮK GLEI, TỈNH KON TUM
+train/809.jpg	XÃ ĐẮK MÔN
+train/43.jpg	phường mỹ thạnh
+train/115.jpg	xã nhơn hội
+train/636.jpg	vĩnh chánh, thoại sơn, an giang
+train/294.jpg	Khánh Hòa
+train/916.jpg	Măng Cành
+train/827.jpg	Xã Đắk Dục, Huyện Ngọc Hồi, Tỉnh Kon Tum
+train/176.jpg	Vĩnh Hòa, Tân Châu, An Giang
+train/775.jpg	Xã Đắk Man, Huyện Đắk Glei, Tỉnh Kon Tum
+train/406.jpg	Tri Ton
+train/63.jpg	Phường Châu Phú B
+train/904.jpg	Đắk Tăng
+train/514.jpg	Tan Phu
+train/539.jpg	Xa My Hoi Dong
+train/691.jpg	Phuong Truong Chinh, Thanh pho Kon Tum, Tinh Kon Tum
+train/523.jpg	Huyện Chợ Mới
+train/955.jpg	Xã Đắk Tờ Re, Huyện Kon Rẫy, Tỉnh Kon Tum
+train/858.jpg	Dak Ro Nga, Dak To, Kon Tum
+train/991.jpg	Xã Đắk Mar, Huyện Đắk Hà, Tỉnh Kon Tum
+train/681.jpg	PHƯỜNG DUY TÂN
+train/244.jpg	Hoa Lac, Phu Tan, An Giang
+train/497.jpg	xã bình hòa, huyện châu thành, tỉnh an giang
+train/639.jpg	xã định mỹ
+train/404.jpg	tri tôn, an giang
+train/651.jpg	Xa Vong Dong
+train/359.jpg	Xã Nhơn Hưng
+train/29.jpg	PHƯỜNG BÌNH KHÁNH, THÀNH PHỐ LONG XUYÊN, TỈNH AN GIANG
+train/675.jpg	THÀNH PHỐ KON TUM, TỈNH KON TUM
+train/252.jpg	Phú An, Phú Tân, An Giang
+train/308.jpg	ô long vỹ, châu phú, an giang
+train/205.jpg	xã lê chánh, thị xã tân châu, tỉnh an giang
+train/138.jpg	vĩnh trường
+train/920.jpg	đắk long
+train/331.jpg	xã đào hữu cảnh
+train/469.jpg	Huyện Châu Thành, Tỉnh An Giang
+train/672.jpg	KON TUM
+train/227.jpg	XÃ PHÚ LONG
+train/728.jpg	VINH QUANG
+train/403.jpg	Huyen Tri Ton
+train/789.jpg	Xã Xốp
+train/333.jpg	xã đào hữu cảnh, huyện châu phú, tỉnh an giang
+train/88.jpg	Vĩnh Châu, Châu Đốc, An Giang
+train/345.jpg	Huyện Tịnh Biên, Tỉnh An Giang
+train/105.jpg	Thị Trấn Long Bình, Huyện An Phú, Tỉnh An Giang
+train/657.jpg	XÃ VĨNH KHÁNH, HUYỆN THOẠI SƠN, TỈNH AN GIANG
+train/11.jpg	phường mỹ long
+train/297.jpg	Xa Khanh Hoa, Huyen Chau Phu, Tinh An Giang
+train/779.jpg	Xa Dak Nhoong, Huyen Dak Glei, Tinh Kon Tum
+train/162.jpg	Long Châu
+train/671.jpg	tỉnh kon tum
+train/1001.jpg	Xã Hà Mòn
+train/390.jpg	tân lợi
+train/507.jpg	Xã Vĩnh Lợi
+train/882.jpg	diên bình, đắk tô, kon tum
+train/527.jpg	Thị Trấn Chợ Mới
+train/685.jpg	Phuong Quyet Thang
+train/686.jpg	Quyet Thang, Kon Tum, Kon Tum
+train/385.jpg	xã an nông, huyện tịnh biên, tỉnh an giang
+train/332.jpg	Đào Hữu Cảnh, Châu Phú, An Giang
+train/360.jpg	NHƠN HƯNG, TỊNH BIÊN, AN GIANG
+train/261.jpg	Xã Hiệp Xương, Huyện Phú Tân, Tỉnh An Giang
+train/311.jpg	XÃ VĨNH THẠNH TRUNG
+train/426.jpg	vĩnh phước
+train/288.jpg	Châu Phú, An Giang
+train/679.jpg	PHƯỜNG QUANG TRUNG, THÀNH PHỐ KON TUM, TỈNH KON TUM
+train/172.jpg	Vĩnh Xương, Tân Châu, An Giang
+train/532.jpg	Mỹ Luông, Chợ Mới, An Giang
+train/727.jpg	Xã Ngọk Bay, Thành phố Kon Tum, Tỉnh Kon Tum
+train/287.jpg	Huyen Chau Phu
+train/927.jpg	XÃ HIẾU, HUYỆN KON PLÔNG, TỈNH KON TUM
+train/583.jpg	XÃ AN THẠNH TRUNG
+train/784.jpg	ĐẮK CHOONG
+train/300.jpg	Mỹ Đức, Châu Phú, An Giang
+train/440.jpg	LƯƠNG AN TRÀ, TRI TÔN, AN GIANG
+train/854.jpg	ĐẮK TÔ, ĐẮK TÔ, KON TUM
+train/409.jpg	Thị trấn Tri Tôn, Huyện Tri Tôn, Tỉnh An Giang
+train/34.jpg	Mỹ Quý
+train/411.jpg	thị trấn ba chúc
+train/796.jpg	Ngọc Linh
+train/223.jpg	Xã Long Hoà
+train/947.jpg	Xa Dak Ruong, Huyen Kon Ray, Tinh Kon Tum
+train/314.jpg	thạnh mỹ tây
+train/765.jpg	thị trấn đắk glei
+train/459.jpg	Xã Tân Tuyến
+train/512.jpg	Vĩnh Nhuận, Châu Thành, An Giang
+train/296.jpg	Khánh Hòa, Châu Phú, An Giang
+train/173.jpg	Xã Vĩnh Xương, Thị xã Tân Châu, Tỉnh An Giang
+train/112.jpg	Quốc Thái, An Phú, An Giang
+train/410.jpg	Ba Chuc
+train/72.jpg	Vĩnh Mỹ, Châu Đốc, An Giang
+train/817.jpg	Thị trấn Plei Cần
+train/68.jpg	Châu Phú A, Châu Đốc, An Giang
+train/516.jpg	Tân Phú, Châu Thành, An Giang
+train/654.jpg	vĩnh khánh
+train/618.jpg	AN BÌNH
+train/655.jpg	XÃ VĨNH KHÁNH
+train/983.jpg	Xã Đắk Ui, Huyện Đắk Hà, Tỉnh Kon Tum
+train/836.jpg	ĐẮK KAN
+train/475.jpg	Xã An Hòa
+train/132.jpg	vĩnh lộc, an phú, an giang
+train/58.jpg	Chau Doc
+train/861.jpg	XÃ NGỌK TỤ
+train/585.jpg	Xã An Thạnh Trung, Huyện Chợ Mới, Tỉnh An Giang
+train/985.jpg	xã đăk ngọk
+train/522.jpg	CHỢ MỚI
+train/699.jpg	phường ngô mây, thành phố kon tum, tỉnh kon tum
+train/603.jpg	Thi tran Nui Sap
+train/746.jpg	Đoàn Kết, Kon Tum, Kon Tum
+train/133.jpg	Xã Vĩnh Lộc, Huyện An Phú, Tỉnh An Giang
+train/192.jpg	Long Phú, Tân Châu, An Giang
+train/652.jpg	vọng đông, thoại sơn, an giang
+train/175.jpg	Xa Vinh Hoa
+train/524.jpg	Cho Moi, An Giang
+train/131.jpg	XÃ VĨNH LỘC
+train/917.jpg	Xa Mang Canh
+train/914.jpg	pờ ê, kon plông, kon tum
+train/658.jpg	Thoại Giang
+train/212.jpg	Phu Tan, An Giang
+train/76.jpg	Núi Sam, Châu Đốc, An Giang
+train/182.jpg	tân an
+train/306.jpg	Ô Long Vỹ
+train/725.jpg	Xa Ngok Bay
+train/260.jpg	hiệp xương, phú tân, an giang
+train/889.jpg	huyện kon plông
+train/327.jpg	Xã Bình Thủy
+train/454.jpg	Cô Tô
+train/484.jpg	Vĩnh Hanh, Châu Thành, An Giang
+train/190.jpg	LONG PHÚ
+train/540.jpg	mỹ hội đông, chợ mới, an giang
+train/923.jpg	Xã Đắk Long, Huyện Kon Plông, Tỉnh Kon Tum
+train/580.jpg	Bình Phước Xuân, Chợ Mới, An Giang
+train/696.jpg	Ngô Mây
+train/723.jpg	Xa Kroong, Thanh pho Kon Tum, Tinh Kon Tum
+train/367.jpg	Xã Thới Sơn
+train/161.jpg	PHƯỜNG LONG HƯNG, THỊ XÃ TÂN CHÂU, TỈNH AN GIANG
+train/277.jpg	Xã Bình Thạnh Đông, Huyện Phú Tân, Tỉnh An Giang
+train/152.jpg	Tân Châu, An Giang
+train/299.jpg	XÃ MỸ ĐỨC
+train/315.jpg	xã thạnh mỹ tây
+train/884.jpg	pô kô
+train/906.jpg	Dak Tang, Kon Plong, Kon Tum
+train/673.jpg	Thanh pho Kon Tum
+train/57.jpg	XÃ MỸ HOÀ HƯNG, THÀNH PHỐ LONG XUYÊN, TỈNH AN GIANG
+train/418.jpg	LÊ TRÌ
+train/124.jpg	phú hội, an phú, an giang
+train/785.jpg	XÃ ĐẮK CHOONG
+train/538.jpg	MỸ HỘI ĐÔNG
+train/849.jpg	Huyện Đắk Tô
+train/625.jpg	XÃ VĨNH PHÚ, HUYỆN THOẠI SƠN, TỈNH AN GIANG
+train/735.jpg	Xã Đắk Blà, Thành Phố Kon Tum, Tỉnh Kon Tum
+train/225.jpg	xã long hoà, huyện phú tân, tỉnh an giang
+train/248.jpg	Phú Thành, Phú Tân, An Giang
+train/533.jpg	Thị Trấn Mỹ Luông, Huyện Chợ Mới, Tỉnh An Giang
+train/439.jpg	Xã Lương An Trà
+train/265.jpg	XÃ PHÚ BÌNH, HUYỆN PHÚ TÂN, TỈNH AN GIANG
+train/339.jpg	xã bình chánh
+train/720.jpg	KROONG
+train/824.jpg	ĐẮK DỤC
+train/741.jpg	Xa Dak Nang
+train/241.jpg	Xã Phú Thạnh, Huyện Phú Tân, Tỉnh An Giang
+train/482.jpg	Vĩnh Hanh
+train/565.jpg	XÃ MỸ AN, HUYỆN CHỢ MỚI, TỈNH AN GIANG
+train/557.jpg	Xa Kien Thanh, Huyen Cho Moi, Tinh An Giang
+train/358.jpg	Nhơn Hưng
+train/934.jpg	đắk rve, kon rẫy, kon tum
+train/421.jpg	XÃ LÊ TRÌ, HUYỆN TRI TÔN, TỈNH AN GIANG
+train/122.jpg	PHÚ HỘI
+train/326.jpg	bình thủy
+train/5001.jpg	Bản chất của thành công
+train/5002.jpg	Đã bao giờ bạn tự hỏi thành công là gì mà bao kẻ bỏ cả cuộc đời mình theo đuổi? Phải
+train/5003.jpg	chăng đó là kết quả hoàn hảo trong công việc, sự chính xác đến từng chi tiết? Hay đó
+train/5004.jpg	là cách nói khác của từ thành đạt, nghĩa là có được một cuộc sống giàu sang, được
+train/5005.jpg	mọi người nể phục? Vậy thì bạn hãy dành chút thời gian để lặng mình suy ngẫm.
+train/5006.jpg	Cuộc sống sẽ chỉ cho bạn có những người đạt được thành công theo một
+train/5007.jpg	cách giản dị đến bất ngờ.
+train/5008.jpg	Thành công là khi bố và con trai có dũng khí bước vào bếp, nấu những món ăn mẹ
+train/5009.jpg	thích nhân ngày 8 - 3. Món canh có thể hơi mặn, món cá sốt đáng lẽ phải có màu
+train/5010.jpg	đỏ sậm thì lại ngả sang màu... đen cháy. Nhưng nhìn mâm cơm, mẹ vẫn cười.
+train/5011.jpg	Bởi vì hai bố con không thể thành công trên " chiến trường " bếp núc, nhưng lại thành công
+train/5012.jpg	khi tặng mẹ " đoá hồng " của tình yêu. Một món quà ý nghĩa hơn cả những món
+train/5013.jpg	quà quý giá, hạnh phúc ấy long lanh in trong mắt mẹ.
+train/5014.jpg	Thành công còn là hình ảnh một cậu bé bị dị tật ở chân, không bao giờ đi lại bình
+train/5015.jpg	thường được. Từ nhỏ cậu đã nuôi ước mơ trở thành cầu thủ bóng đá. Sau bao nỗ lực
+train/5016.jpg	khổ luyện, cậu bé trở thành cầu thủ dự bị trong một đội bóng nhỏ, và chưa bao
+train/5017.jpg	giờ được chính thức ra sân. Nhưng đó không phải là thất bại. Trái lại, thành công
+train/5018.jpg	đã nở hoa khi cậu bé năm xưa, với bao nghị lực và quyết tâm, đã chiến thắng
+train/5019.jpg	hoàn cảnh để theo đuổi ước mơ từ ngày thơ bé.
+train/5020.jpg	Thành công ấy, liệu có mấy người đạt được?
+train/5021.jpg	Sau mỗi mùa thi đại học, có bao " sĩ tử " buồn rầu khi biết mình trở thành " tử
+train/5022.jpg	sĩ ". Hai bảy điểm, cao thật đấy. Nhưng cao mà làm gì khi NV1 lấy tới hai bảy
+train/5023.jpg	phẩy năm? Đó thật ra không phải là thất bại, chỉ là khi thành công - bị - trì - hoãn mà
+train/5024.jpg	thôi. Cuộc sống vẫn chào đón họ với NV2, NV3. Quan trọng là họ đã nỗ lực hết sức để
+train/5025.jpg	khẳng định mình. Đó là ý nghĩa vẹn nguyên của các kỳ thi, và cũng là bản chất của
+train/5026.jpg	thành công.
+train/5027.jpg	KHÁI QUÁT VỀ BIỂN ĐẢO VIỆT NAM
+train/5028.jpg	Nước ta giáp với biển Đông ở hai phía Đông và Nam. Vùng biển Việt Nam là một phần
+train/5029.jpg	biển Đông.
+train/5030.jpg	Bờ biển dài 3.260 km, từ Quảng Ninh đến Kiên Giang. Như vậy cứ 100 km2 thì
+train/5031.jpg	có 1 km bờ biển (trung bình của thế giới là 600 km2 đất liền / 1 km bờ biển).
+train/5032.jpg	Biển có vùng nội thủy, lãnh hải, vùng đặc quyền kinh tế và thềm lục địa với diện
+train/5033.jpg	tích trên 1 triệu km2 (gấp 3 diện tích đất liền : 1 triệu km2 / 330.000 km2).
+train/5034.jpg	Trong đó có 2 quần đảo Hoàng Sa, Trường Sa và 2.577 đảo lớn, nhỏ, gần và xa bờ,
+train/5035.jpg	hợp thành phòng tuyến bảo vệ và làm chủ vùng biển.
+train/5036.jpg	Có vị trí chiến lược quan trọng : nối liền Thái Bình Dương với Ấn Độ Dương,
+train/5037.jpg	châu Á với châu Âu, châu Úc với Trung Đông. Giao lưu quốc tế thuận lợi, phát
+train/5038.jpg	triển ngành biển.
+train/5039.jpg	Có khí hậu biển là vùng nhiệt đới tạo điều kiện cho sinh vật biển phát triển,
+train/5040.jpg	tồn tại tốt.
+train/5041.jpg	Có tài nguyên sinh vật và khoáng sản phong phú, đa dạng, quý hiếm.
+train/5042.jpg	Vùng biển và hải đảo nước ta có vị trí chiến lược hết sức to lớn, có ảnh hưởng
+train/5043.jpg	trực tiếp đến sự nghiệp bảo vệ nền độc lập dân tộc và xây dựng chủ nghĩa xã hội,
+train/5044.jpg	có liên quan trực tiếp đến sự phồn vinh của đất nước, đến văn minh và
+train/5045.jpg	hạnh phúc của nhân dân.
+train/5046.jpg	BẢN CHẤT CỦA THÀNH CÔNG
+train/5047.jpg	Đã bao giờ bạn tự hỏi thành công là gì mà bao kẻ bỏ cả cuộc đời mình theo đuổi? Phải chăng
+train/5048.jpg	đó là kết quả hoàn hảo trong công việc, sự chính xác đến từng chi tiết? Hay đó là cách nói
+train/5049.jpg	khác của từ thành đạt, nghĩa là có được một cuộc sống giàu sang, được mọi người nể phục?
+train/5050.jpg	Vậy thì bạn hãy dành chút thời gian để lặng mình suy ngẫm.
+train/5051.jpg	Cuộc sống sẽ chỉ cho bạn có những người đạt được thành công theo một cách giản dị đến bất
+train/5052.jpg	ngờ.
+train/5053.jpg	Thành công là khi bố và con trai có dũng khí bước vào bếp, nấu những món ăn mẹ thích nhân
+train/5054.jpg	ngày 8 - 3. Món canh có thể hơi mặn, món cá sốt đáng lẽ phải có màu đỏ sậm thì lại ngả sang
+train/5055.jpg	màu... đen cháy. Nhưng nhìn mâm cơm, mẹ vẫn cười. Bởi vì hai bố con không thể thành
+train/5056.jpg	công trên " chiến trường " bếp núc, nhưng lại thành công khi tặng mẹ " đoá hồng " của tình yêu.
+train/5057.jpg	Một món quà ý nghĩa hơn cả những món quà quý giá, hạnh phúc ấy long lanh in trong mắt
+train/5058.jpg	mẹ.
+train/5059.jpg	Thành công còn là hình ảnh một cậu bé bị dị tật ở chân, không bao giờ đi lại bình thường
+train/5060.jpg	được. Từ nhỏ cậu đã nuôi ước mơ trở thành cầu thủ bóng đá. Sau bao nỗ lực khổ luyện, cậu
+train/5061.jpg	bé trở thành cầu thủ dự bị trong một đội bóng nhỏ, và chưa bao giờ được chính thức ra sân.
+train/5062.jpg	Nhưng đó không phải là thất bại. Trái lại, thành công đã nở hoa khi cậu bé năm xưa, với bao
+train/5063.jpg	nghị lực và quyết tâm, đã chiến thắng hoàn cảnh để theo đuổi ước mơ từ ngày thơ bé.
+train/5064.jpg	Thành công ấy, liệu có mấy người đạt được?
+train/5065.jpg	Sau mỗi mùa thi đại học, có bao " sĩ tử " buồn rầu khi biết mình trở thành " tử sĩ ". Hai bảy điểm,
+train/5066.jpg	cao thật đấy. Nhưng cao mà làm gì khi NV1 lấy tới hai bảy phẩy năm? Đó thật ra không phải
+train/5067.jpg	là thất bại, chỉ là khi thành công - bị - trì - hoãn mà thôi. Cuộc sống vẫn chào đón họ với
+train/5068.jpg	NV2, NV3. Quan trọng là họ đã nỗ lực hết sức để khẳng định mình. Đó là ý nghĩa vẹn nguyên
+train/5069.jpg	của các kỳ thi, và cũng là bản chất của thành công.
+train/5070.jpg	KHÁI QUÁT VỀ BIỂN ĐẢO VIỆT NAM
+train/5071.jpg	Nước ta giáp với biển Đông ở hai phía Đông và Nam. Vùng biển Việt Nam là một phần biển
+train/5072.jpg	Đông.
+train/5073.jpg	Bờ biển dài 3.260 km, từ Quảng Ninh đến Kiên Giang. Như vậy cứ 100 km2 thì có 1 km bờ biển
+train/5074.jpg	(trung bình của thế giới là 600 km2 đất liền / 1 km bờ biển).
+train/5075.jpg	Biển có vùng nội thủy, lãnh hải, vùng đặc quyền kinh tế và thềm lục địa với diện tích trên 1
+train/5076.jpg	triệu km2 (gấp 3 diện tích đất liền : 1 triệu km2 / 330.000 km2).
+train/5077.jpg	Trong đó có 2 quần đảo Hoàng Sa, Trường Sa và 2.577 đảo lớn, nhỏ, gần và xa bờ, hợp
+train/5078.jpg	thành phòng tuyến bảo vệ, kiểm soát và làm chủ vùng biển.
+train/5079.jpg	Có vị trí chiến lược quan trọng : nối liền Thái Bình Dương với Ấn Độ Dương, châu Á với châu Âu,
+train/5080.jpg	châu Úc với Trung Đông. Giao lưu quốc tế thuận lợi, phát triển ngành biển.
+train/5081.jpg	Có khí hậu biển là vùng nhiệt đới tạo điều kiện cho sinh vật biển phát triển, tồn tại tốt.
+train/5082.jpg	Có tài nguyên sinh vật và khoáng sản phong phú, đa dạng, quý hiếm.
+train/5083.jpg	Vùng biển và hải đảo nước ta có vị trí chiến lược hết sức to lớn, có ảnh hưởng trực tiếp đến sự
+train/5084.jpg	nghiệp bảo vệ nền độc lập dân tộc và xây dựng chủ nghĩa xã hội, có liên quan trực tiếp đến
+train/5085.jpg	sự phồn vinh của đất nước, đến văn minh và hạnh phúc của nhân dân.
+train/5086.jpg	BẢN CHẤT CỦA THÀNH CÔNG
+train/5087.jpg	Đã bao giờ bạn tự hỏi thành công là gì mà bao kẻ bỏ cả cuộc đời
+train/5088.jpg	mình theo đuổi? Phải chăng đó là kết quả hoàn hảo trong công việc,
+train/5089.jpg	sự chính xác đến từng chi tiết? Hay đó là cách nói khác của từ thành
+train/5090.jpg	đạt, nghĩa là có được một cuộc sống giàu sang, được mọi người nể phục?
+train/5091.jpg	Vậy thì bạn hãy dành chút thời gian để lặng mình suy ngẫm.
+train/5092.jpg	Cuộc sống sẽ chỉ cho bạn có những người đạt được thành công theo một
+train/5093.jpg	cách giản dị đến bất ngờ.
+train/5094.jpg	Thành công là khi bố và con trai có dũng khí bước vào bếp, nấu những món
+train/5095.jpg	ăn mẹ thích nhân ngày 8 - 3. Món canh có thể hơi mặn, món cá sốt đáng lẽ
+train/5096.jpg	phải có màu đỏ sậm thì lại ngả sang màu... đen cháy. Nhưng nhìn mâm
+train/5097.jpg	cơm, mẹ vẫn cười. Bởi vì hai bố con không thể thành công trên " chiến trường "
+train/5098.jpg	bếp núc, nhưng lại thành công khi tặng mẹ " đoá hồng " của tình yêu. Một
+train/5099.jpg	món quà ý nghĩa hơn cả những món quà quý giá, hạnh phúc ấy long lanh
+train/5100.jpg	in trong mắt mẹ.
+train/5101.jpg	Thành công còn là hình ảnh một cậu bé bị dị tật ở chân, không bao giờ đi lại
+train/5102.jpg	bình thường được. Từ nhỏ cậu đã nuôi ước mơ trở thành cầu thủ bóng đá. Sau
+train/5103.jpg	bao nỗ lực khổ luyện, cậu bé trở thành cầu thủ dự bị trong một đội bóng
+train/5104.jpg	nhỏ, và chưa bao giờ được chính thức ra sân. Nhưng đó không phải là thất
+train/5105.jpg	bại. Trái lại, thành công đã nở hoa khi cậu bé năm xưa, với bao nghị
+train/5106.jpg	lực và quyết tâm, đã chiến thắng hoàn cảnh để theo đuổi ước mơ từ
+train/5107.jpg	ngày thơ bé
+train/5108.jpg	Thành công ấy, liệu có mấy người đạt được?
+train/5109.jpg	Sau mỗi mùa thi đại học, có bao " sĩ tử " buồn rầu khi biết mình trở thành
+train/5110.jpg	" tử sĩ ". Hai bảy điểm, cao thật đấy. Nhưng cao mà làm gì khi NV1 lấy
+train/5111.jpg	tới hai bảy phẩy năm? Đó thật ra không phải là thất bại, chỉ là khi
+train/5112.jpg	thành công - bị - trì - hoãn mà thôi. Cuộc sống vẫn chào đón họ với NV2, NV3.
+train/5113.jpg	Quan trọng là họ đã nỗ lực hết sức để khẳng định mình. Đó là ý nghĩa
+train/5114.jpg	vẹn nguyên của các kỳ thi, và cũng là bản chất của thành công.
+train/5115.jpg	KHÁI QUÁT VỀ BIỂN ĐẢO VIỆT NAM
+train/5116.jpg	Nước ta giáp với biển Đông ở hai phía Đông và Nam. Vùng biển Việt Nam là một
+train/5117.jpg	phần biển Đông.
+train/5118.jpg	Bờ biển dài 3.260 km, từ Quảng Ninh đến Kiên Giang. Như vậy cứ 100 km2 thì
+train/5119.jpg	có 1 km bờ biển (trung bình của thế giới là 600 km2 đất liền / 1 km bờ biển).
+train/5120.jpg	Biển có vùng nội thủy, lãnh hải, vùng đặc quyền kinh tế và thềm lục địa với
+train/5121.jpg	diện tích trên 1 triệu km2 (gấp 3 diện tích đất liền : 1 triệu km2 / 330.000
+train/5122.jpg	km2
+train/5123.jpg	Trong đó có 2 quần đảo Hoàng Sa, Trường Sa và 2.577 đảo lớn, nhỏ, gần và
+train/5124.jpg	xa bờ, hợp thành phòng tuyến bảo vệ, kiểm soát và làm chủ vùng biển.
+train/5125.jpg	Có vị trí chiến lược quan trọng : nối liền Thái Bình Dương với Ấn Độ Dương,
+train/5126.jpg	châu Á với châu Âu, châu Úc với Trung Đông. Giao lưu quốc tế thuận lợi,
+train/5127.jpg	phát triển ngành biển.
+train/5128.jpg	Có khí hậu biển là vùng nhiệt đới tạo điều kiện cho sinh vật biển phát
+train/5129.jpg	triển, tồn tại tốt.
+train/5130.jpg	Có tài nguyên sinh vật và khoáng sản phong phú, đa dạng, quý hiếm.
+train/5131.jpg	Vùng biển và hải đảo nước ta có vị trí chiến lược hết sức to lớn, có ảnh
+train/5132.jpg	hưởng trực tiếp đến sự nghiệp bảo vệ nền độc lập dân tộc và xây dựng chủ nghĩa
+train/5133.jpg	xã hội, có liên quan trực tiếp đến sự phồn vinh của đất nước, đến văn
+train/5134.jpg	minh và hạnh phúc của toàn dân.
+train/5135.jpg	BẢN CHẤT CỦA THÀNH CÔNG
+train/5136.jpg	Đã bao giờ bạn tự hỏi thành công là gì mà bao kẻ bỏ cả cuộc đời mình theo đuổi? Phải chăng
+train/5137.jpg	đó là kết quả hoàn hảo trong công việc, sự chính xác đến từng chi tiết? Hay đó là cách nói
+train/5138.jpg	khác của từ thành đạt, nghĩa là có được một cuộc sống giàu sang, được mọi người nể phục?
+train/5139.jpg	Vậy thì bạn hãy dành chút thời gian để lặng mình suy ngẫm.
+train/5140.jpg	Cuộc sống sẽ chỉ cho bạn có những người đạt được thành công theo một cách giản
+train/5141.jpg	dị đến bất ngờ.
+train/5142.jpg	Thành công là khi bố và con trai có dũng khí bước vào bếp, nấu những món ăn mẹ thích nhân
+train/5143.jpg	ngày 8 - 3. Món canh có thể hơi mặn, món cá sốt đáng lẽ phải có màu đỏ sậm thì lại ngả sang
+train/5144.jpg	màu... đen cháy. Nhưng nhìn mâm cơm, mẹ vẫn cười. Bởi vì hai bố con không thể thành
+train/5145.jpg	công trên chiến trường bếp núc, nhưng lại thành công khi tặng mẹ " đoá hồng " của tình yêu.
+train/5146.jpg	Một món quà ý nghĩa hơn cả những món quà quý giá, hạnh phúc ấy long lanh in trong mắt
+train/5147.jpg	mẹ.
+train/5148.jpg	Thành công còn là hình ảnh một cậu bé bị dị tật ở chân, không bao giờ đi lại bình thường
+train/5149.jpg	được. Từ nhỏ cậu đã nuôi ước mơ trở thành cầu thủ bóng đá. Sau bao nỗ lực khổ luyện, cậu
+train/5150.jpg	bé trở thành cầu thủ dự bị trong một đội bóng nhỏ, và chưa bao giờ được chính thức ra sân.
+train/5151.jpg	Nhưng đó không phải là thất bại. Trái lại, thành công đã nở hoa khi cậu bé năm xưa, với bao
+train/5152.jpg	nghị lực và quyết tâm, đã chiến thắng hoàn cảnh để theo đuổi ước mơ từ ngày thơ bé.
+train/5153.jpg	Thành công ấy, liệu có mấy người đạt được?
+train/5154.jpg	Sau mỗi mùa thi đại học, có bao " sĩ tử" buồn rầu khi biết mình trở thành " tử sĩ ". Hai bảy điểm,
+train/5155.jpg	cao thật đấy. Nhưng cao mà làm gì khi NV1 lấy tới hai bảy phẩy năm? Đó thật ra không phải
+train/5156.jpg	là thất bại, chỉ là khi thành công - bị - trì - hoãn mà thôi. Cuộc sống vẫn chào đón họ với
+train/5157.jpg	NV2, NV3. Quan trọng là họ đã nỗ lực hết sức để khẳng định mình. Đó là ý nghĩa vẹn nguyên
+train/5158.jpg	của các kỳ thi, và cũng là bản chất của thành công.
+train/5159.jpg	KHÁI QUÁT VỀ BIỂN ĐẢO VIỆT NAM
+train/5160.jpg	Nước ta giáp với biển Đông ở hai phía Đông và Nam. Vùng biển Việt Nam là một phần biển
+train/5161.jpg	Đông.
+train/5162.jpg	Bờ biển dài 3.260 km, từ Quảng Ninh đến Kiên Giang. Như vậy cứ 100 km2 thì có 1 km bờ biển
+train/5163.jpg	(trung bình của thế giới là 600 km2 đất liền / 1 km bờ biển)
+train/5164.jpg	Biển có vùng nội thủy, lãnh hải, vùng đặc quyền kinh tế và thềm lục địa với diện tích trên 1
+train/5165.jpg	triệu km2 (gấp 3 diện tích đất liền : 1 triệu km2 / 330.000 km2)
+train/5166.jpg	Trong đó có 2 quần đảo Hoàng Sa, Trường Sa và 2.577 đảo lớn, nhỏ, gần và xa bờ, hợp
+train/5167.jpg	thành phòng tuyến bảo vệ, kiểm soát và làm chủ vùng biển.
+train/5168.jpg	Có vị trí chiến lược quan trọng : nối liền Thái Bình Dương với Ấn Độ Dương, châu Á với
+train/5169.jpg	châu Âu, châu Úc với Trung Đông. Giao lưu quốc tế thuận lợi, phát triển ngành biển.
+train/5170.jpg	Có khí hậu biển là vùng nhiệt đới tạo điều kiện cho sinh vật biển phát triển, tồn tại tốt.
+train/5171.jpg	Có tài nguyên sinh vật và khoáng sản phong phú, đa dạng, quý hiếm.
+train/5172.jpg	Vùng biển và hải đảo nước ta có vị trí chiến lược hết sức to lớn, có ảnh hưởng trực tiếp đến
+train/5173.jpg	sự nghiệp bảo vệ nền độc lập dân tộc và xây dựng chủ nghĩa xã hội, có liên quan trực
+train/5174.jpg	tiếp đến sự phồn vinh của đất nước, đến văn minh và hạnh phúc của nhân dân.
+train/5175.jpg	BẢN CHẤT CỦA THÀNH CÔNG
+train/5176.jpg	Đã bao giờ bạn tự hỏi thành công là gì mà bao kẻ bỏ cả cuộc đời mình theo đuổi? Phải chăng
+train/5177.jpg	đó là kết quả hoàn hảo trong công việc, sự chính xác đến từng chi tiết? Hay đó là cách nói
+train/5178.jpg	khác của từ thành đạt, nghĩa là có được một cuộc sống giàu sang, được mọi người nể phục?
+train/5179.jpg	Vậy thì bạn hãy dành chút thời gian để lặng mình suy ngẫm.
+train/5180.jpg	Cuộc sống sẽ chỉ cho bạn có những người thành đạt được thành công theo một cách giản dị đến bất
+train/5181.jpg	ngờ
+train/5182.jpg	Thành công là khi bố và con trai có dũng khí bước vào bếp, nấu những món ăn mẹ thích nhân
+train/5183.jpg	ngày 8 - 3. Món canh có thể hơi mặn, món cá sốt đáng lẽ phải có màu đỏ sậm thì lại ngả sang
+train/5184.jpg	màu... đen cháy. Nhưng nhìn mâm cơm, mẹ vẫn cười. Bởi vì hai bố con không thể thành
+train/5185.jpg	công trên " chiến trường " bếp núc, nhưng lại thành công khi tặng mẹ " đoá hồng " của tình yêu.
+train/5186.jpg	Một món quà ý nghĩa hơn cả những món quà quý giá, hạnh phúc ấy long lanh in trong mắt
+train/5187.jpg	mẹ.
+train/5188.jpg	Thành công còn là hình ảnh một cậu bé bị dị tật ở chân, không bao giờ đi lại bình thường
+train/5189.jpg	được. Từ nhỏ cậu đã nuôi ước mơ trở thành cầu thủ bóng đá. Sau bao nỗ lực khổ luyện, cậu
+train/5190.jpg	bé trở thành cầu thủ dự bị trong một đội bóng nhỏ, và chưa bao giờ được chính thức ra sân.
+train/5191.jpg	Nhưng đó không phải là thất bại. Trái lại, thành công đã nở hoa khi cậu bé năm xưa, với bao
+train/5192.jpg	nghị lực và quyết tâm, đã chiến thắng hoàn cảnh để theo đuổi ước mơ từ ngày thơ bé.
+train/5193.jpg	Thành công ấy, liệu có mấy người đạt được?
+train/5194.jpg	Sau mỗi mùa thi đại học, có bao " sĩ tử " buồn rầu khi biết mình trở thành " sĩ tử ". Hai bảy điểm,
+train/5195.jpg	cao thật đấy. Nhưng cao mà làm gì khi NV1 lấy tới hai bảy phẩy năm? Đó thật ra không phải
+train/5196.jpg	là thất bại, chỉ là khi thành công - bị - trì - hoãn mà thôi. Cuộc sống vẫn chào đón họ với
+train/5197.jpg	NV2, NV3. Quan trọng là họ đã nỗ lực hết sức để khẳng định mình. Đó là ý nghĩa vẹn nguyên
+train/5198.jpg	của các kỳ thi, và cũng là bản chất của thành công.
+train/5199.jpg	KHÁI QUÁT VỀ BIỂN ĐẢO VIỆT NAM
+train/5200.jpg	Nước ta giáp với biển Đông ở hai phía Đông và Nam. Vùng biển Việt Nam là một phần biển
+train/5201.jpg	Đông.
+train/5202.jpg	Bờ biển dài 3.260 km, từ Quảng Ninh đến Kiên Giang. Như vậy cứ 100 km2 thì có 1 km bờ biển
+train/5203.jpg	(trung bình của thế giới là 600 km2 đất liền / 1 km bờ biển).
+train/5204.jpg	Biển có vùng nội thủy, lãnh hải, vùng đặc quyền kinh tế và thềm lục địa với diện tích trên 1
+train/5205.jpg	triệu km2 (gấp 3 diện tích đất liền : 1 triệu km2 / 330.000 km2).
+train/5206.jpg	Trong đó có 2 quần đảo Hoàng Sa, Trường Sa và 2.577 đảo lớn, nhỏ, gần và xa bờ, hợp
+train/5207.jpg	thành phòng tuyến bảo vệ, kiểm soát và làm chủ vùng biển.
+train/5208.jpg	Có vị trí chiến lược quan trọng : nối liền Thái Bình Dương và Ấn Độ Dương, châu Á với châu Âu,
+train/5209.jpg	châu Úc với Trung Đông. Giao lưu quốc tế thuận lợi, phát triển ngành biển.
+train/5210.jpg	Có khí hậu biển là vùng nhiệt đới tạo điều kiện cho sinh vật biển phát triển, tồn tại tốt.
+train/5211.jpg	Có tài nguyên sinh vật và khoáng sản phong phú, đa dạng, quý hiếm.
+train/5212.jpg	Vùng biển và hải đảo nước ta có vị trí chiến lược hết sức to lớn, có ảnh hưởng trực tiếp đến sự
+train/5213.jpg	nghiệp bảo vệ nền độc lập dân tộc và xây dựng chủ nghĩa xã hội, có liên quan trực tiếp đến
+train/5214.jpg	sự phồn vinh của đất nước, đến văn minh và hạnh phúc của nhân dân.
+train/5215.jpg	BẢN CHẤT CỦA THÀNH CÔNG
+train/5216.jpg	Đã bao giờ bạn tự hỏi thành công là gì mà bao kẻ bỏ cả cuộc đời mình theo đuổi? Phải
+train/5217.jpg	chăng đó là kết quả hoàn hảo trong công việc, sự chính xác đến từng chi tiết? Hay
+train/5218.jpg	đó là cách nói khác của từ thành đạt, nghĩa là có được một cuộc sống giàu sang,
+train/5219.jpg	được mọi người nể phục? Vậy thì bạn hãy dành chút thời gian để lặng mình
+train/5220.jpg	suy ngẫm.
+train/5221.jpg	Cuộc sống sẽ chỉ cho bạn có những người đạt được thành công theo một
+train/5222.jpg	cách giản dị đến bất ngờ.
+train/5223.jpg	Thành công là khi bố và con trai có dũng khí bước vào bếp, nấu những
+train/5224.jpg	món ăn mẹ thích nhân ngày 8 - 3. Món canh có thể hơi mặn, món cá sốt đáng
+train/5225.jpg	lẽ phải có màu đỏ sậm thì lại ngả sang màu... đen cháy. Nhưng nhìn
+train/5226.jpg	mâm cơm, mẹ vẫn cười. Bởi vì hai bố con không thể thành công trên
+train/5227.jpg	" chiến trường " bếp núc, nhưng lại thành công khi tặng mẹ " đoá hồng " của
+train/5228.jpg	tình yêu. Một món quà ý nghĩa hơn cả những món quà quý giá, hạnh phúc
+train/5229.jpg	ấy long lanh in trong mắt mẹ.
+train/5230.jpg	Thành công còn là hình ảnh một cậu bé bị dị tật ở chân, không bao giờ đi lại
+train/5231.jpg	bình thường được. Từ nhỏ cậu đã nuôi ước mơ trở thành cầu thủ bóng đá. Sau
+train/5232.jpg	bao nỗ lực khổ luyện, cậu bé trở thành cầu thủ dự bị trong một đội bóng
+train/5233.jpg	nhỏ, và chưa bao giờ được chính thức ra sân. Nhưng đó không phải là thất
+train/5234.jpg	bại. Trái lại, thành công đã nở hoa khi cậu bé năm xưa, với bao nghị lực và
+train/5235.jpg	quyết tâm, đã chiến thắng hoàn cảnh để theo đuổi ước mơ từ ngày thơ bé.
+train/5236.jpg	Thành công ấy, liệu có mấy người đạt được?
+train/5237.jpg	Sau mỗi mùa thi đại học, có bao " sĩ tử " buồn rầu khi biết mình trở
+train/5238.jpg	thành " tử sĩ ". Hai bảy điểm, cao thật đấy. Nhưng cao mà làm gì khi NV1 lấy
+train/5239.jpg	tới hai bảy phẩy năm? Đó thật ra không phải là thất bại, chỉ là khi
+train/5240.jpg	thành công - bị - trì - hoãn mà thôi. Cuộc sống vẫn chào đón họ với NV2, NV3.
+train/5241.jpg	Quan trọng là họ đã nỗ lực hết sức để khẳng định mình. Đó là ý nghĩa
+train/5242.jpg	vẹn nguyên của các kỳ thi, và cũng là bản chất của thành công.
+train/5243.jpg	KHÁI QUÁT VỀ BIỂN ĐẢO VIỆT NAM
+train/5244.jpg	Nước ta giáp với biển Đông ở hai phía Đông và Nam. Vùng biển Việt Nam là
+train/5245.jpg	một phần biển Đông.
+train/5246.jpg	Bờ biển dài 3.260 km, từ Quảng Ninh đến Kiên Giang. Như vậy cứ 100 km2
+train/5247.jpg	thì có 1 km bờ biển (trung bình của thế giới là 600 km2 đất liền / 1 km bờ biển).
+train/5248.jpg	Biển có vùng nội thủy, lãnh hải, vùng đặc quyền kinh tế và thềm lục địa
+train/5249.jpg	với diện tích trên 1 triệu km2 (gấp 3 diện tích đất liền : 1 triệu km2 / 330.000 km2).
+train/5250.jpg	Trong đó có 2 quần đảo Hoàng Sa, Trường Sa và 2.577 đảo lớn, nhỏ, gần
+train/5251.jpg	và xa bờ, hợp thành phòng tuyến bảo vệ, kiểm soát và làm chủ vùng biển.
+train/5252.jpg	Có vị trí chiến lược quan trọng : nối liền Thái Bình Dương với Ấn Độ Dương,
+train/5253.jpg	châu Á với châu Âu, châu Úc với Trung Đông. Giao lưu quốc tế thuận
+train/5254.jpg	lợi, phát triển ngành biển.
+train/5255.jpg	Có khí hậu biển là vùng nhiệt đới tạo điều kiện cho sinh vật biển phát triển,
+train/5256.jpg	tồn tại tốt.
+train/5257.jpg	Có tài nguyên sinh vật và khoáng sản phong phú, đa dạng, quý hiếm.
+train/5258.jpg	Vùng biển và hải đảo nước ta có vị trí chiến lược hết sức to lớn, có ảnh
+train/5259.jpg	hưởng trực tiếp đến sự nghiệp bảo vệ nền độc lập dân tộc và xây dựng
+train/5260.jpg	chủ nghĩa xã hội, có liên quan trực tiếp đến sự phồn vinh của đất nước,
+train/5261.jpg	đến văn minh và hạnh phúc của nhân dân.
+train/5262.jpg	BẢN CHẤT CỦA THÀNH CÔNG
+train/5263.jpg	Đã bao giờ bạn tự hỏi thành công là gì mà bao kẻ bỏ cả cuộc đời mình theo đuổi? Phải chăng đó là
+train/5264.jpg	kết quả hoàn hảo trong công việc, sự chính xác đến từng chi tiết? Hay đó là cách nói khác
+train/5265.jpg	của từ thành đạt, nghĩa là có được một cuộc sống giàu sang, được mọi người nể phục?
+train/5266.jpg	Vậy thì bạn hãy dành chút thời gian để lặng mình suy ngẫm.
+train/5267.jpg	Cuộc sống sẽ chỉ cho bạn có những người đạt được thành công theo một cách giản dị
+train/5268.jpg	đến bất ngờ.
+train/5269.jpg	Thành công là khi bố và con trai có dũng khí bước vào bếp, nấu những món ăn
+train/5270.jpg	mẹ thích nhân ngày 8 - 3. Món canh có thể hơi mặn, món cá sốt đáng lẽ phải có
+train/5271.jpg	màu đỏ sậm thì lại ngả sang màu... đen cháy. Nhưng nhìn mâm cơm, mẹ vẫn cười.
+train/5272.jpg	Bởi vì hai bố con không thể thành công trên " chiến trường " bếp núc, nhưng lại
+train/5273.jpg	thành công khi tặng mẹ " đoá hồng " của tình yêu. Một món quà ý nghĩa hơn cả
+train/5274.jpg	những món quà quý giá, hạnh phúc ấy long lanh in trong mắt mẹ.
+train/5275.jpg	Thành công còn là hình ảnh một cậu bé bị dị tật ở chân, không bao giờ đi lại bình
+train/5276.jpg	thường được. Từ nhỏ cậu đã nuôi ước mơ trở thành cầu thủ bóng đá. Sau bao nỗ
+train/5277.jpg	lực khổ luyện, cậu bé trở thành cầu thủ dự bị trong một đội bóng nhỏ, và chưa bao
+train/5278.jpg	giờ được chính thức ra sân. Nhưng đó không phải là thất bại. Trái lại, thành công
+train/5279.jpg	đã nở hoa khi cậu bé năm xưa, với bao nghị lực và quyết tâm, đã chiến thắng
+train/5280.jpg	hoàn cảnh để theo đuổi ước mơ từ ngày thơ bé.
+train/5281.jpg	Thành công ấy, liệu có mấy người đạt được?
+train/5282.jpg	Sau mỗi mùa thi đại học, có bao " sĩ tử " buồn rầu khi biết mình trở thành " tử sĩ ".
+train/5283.jpg	Hai bảy điểm, cao thật đấy. Nhưng cao mà làm gì khi NV1 lấy tới hai bảy phẩy năm?
+train/5284.jpg	Đó thật ra không phải là thất bại, chỉ là khi thành công - bị - trì - hoãn mà thôi.
+train/5285.jpg	Cuộc sống vẫn chào đón họ với NV2, NV3. Quan trọng là họ đã nỗ lực hết sức để
+train/5286.jpg	khẳng định mình. Đó là ý nghĩa vẹn nguyên của các kỳ thi, và cũng là bản chất
+train/5287.jpg	của thành công.
+train/5288.jpg	KHÁI QUÁT VỀ BIỂN ĐẢO VIỆT NAM
+train/5289.jpg	Nước ta giáp với biển Đông ở hai phía Đông và Nam. Vùng biển Việt Nam là một phần biển
+train/5290.jpg	Đông.
+train/5291.jpg	Bờ biển dài 3.260 km, từ Quảng Ninh đến Kiên Giang. Như vậy cứ 100 km2 thì
+train/5292.jpg	có 1 km bờ biển (trung bình của thế giới là 600 km2 đất liền / 1 km bờ biển).
+train/5293.jpg	Biển có vùng nội thủy, lãnh hải, vùng đặc quyền kinh tế và thềm lục địa với diện tích
+train/5294.jpg	trên 1 triệu km2 (gấp 3 diện tích đất liền : 1 triệu km2 / 330.000 km2).
+train/5295.jpg	Trong đó có 2 quần đảo Hoàng Sa, Trường Sa và 2.577 đảo lớn, nhỏ, gần và xa bờ,
+train/5296.jpg	hợp thành phòng tuyến bảo vệ, kiểm soát và làm chủ vùng biển.
+train/5297.jpg	Có vị trí chiến lược quan trọng : nối liền Thái Bình Dương với Ấn Độ Dương, châu Á
+train/5298.jpg	với châu Âu, châu Úc với Trung Đông. Giao lưu quốc tế thuận lợi, phát triển
+train/5299.jpg	ngành biển.
+train/5300.jpg	Có khí hậu biển là vùng nhiệt đới tạo điều kiện cho sinh vật biển phát triển, tồn tại
+train/5301.jpg	tốt.
+train/5302.jpg	Có tài nguyên sinh vật và khoáng sản phong phú, đa dạng, quý hiếm.
+train/5303.jpg	Vùng biển và hải đảo nước ta có vị trí chiến lược hết sức to lớn, có ảnh
+train/5304.jpg	hưởng trực tiếp đến sự nghiệp bảo vệ nền độc lập dân tộc và xây dựng
+train/5305.jpg	chủ nghĩa xã hội, có liên quan trực tiếp đến sự phồn vinh của đất nước,
+train/5306.jpg	đến văn minh và hạnh phúc của nhân dân.
+train/5307.jpg	Bản chất của thành công
+train/5308.jpg	Đã bao giờ bạn tự hỏi thành công là gì mà bao kẻ bỏ cả cuộc đời mình theo đuổi?
+train/5309.jpg	Phải chăng đó là kết quả hoàn hảo trong công việc, sự chính xác đến từng chi tiết?
+train/5310.jpg	Hay đó là cách nói khác của từ thành đạt, nghĩa là có được một cuộc sống
+train/5311.jpg	giàu sang, được mọi người nể phục?
+train/5312.jpg	Vì vậy hãy dành chút thời gian để lặng mình suy nghĩ.
+train/5313.jpg	Cuộc sống sẽ chỉ cho bạn có những người đạt được thành công theo một
+train/5314.jpg	cách giản dị đến bất ngờ.
+train/5315.jpg	Thành công là khi bố và con trai có dũng khí bước vào bếp, nấu những
+train/5316.jpg	món ăn mẹ thích nhân ngày 8 - 3. Món canh có thể hơi mặn, món cá sốt
+train/5317.jpg	đáng lẽ phải có màu đỏ sậm thì lại ngả sang màu... đen cháy. Nhưng
+train/5318.jpg	nhìn mâm cơm, mẹ vẫn cười. Bởi vì hai bố con không thể thành công
+train/5319.jpg	trên " chiến trường " bếp núc, nhưng lại thành công khi tặng mẹ " đoá hồng " của tình yêu.
+train/5320.jpg	Một món quà ý nghĩa hơn cả những món quà quý giá, hạnh phúc
+train/5321.jpg	long lanh in trong mắt mẹ.
+train/5322.jpg	Thành công còn là hình ảnh một cậu bé bị dị tật ở chân, không bao giờ đi lại
+train/5323.jpg	bình thường được. Từ nhỏ cậu đã nuôi ước mơ trở thành cầu thủ bóng đá. Sau
+train/5324.jpg	bao nỗ lực khổ luyện, cậu bé trở thành cầu thủ dự bị trong một đội bóng
+train/5325.jpg	nhỏ và chưa bao giờ được chính thức ra sân.
+train/5326.jpg	Nhưng đó không phải là thất bại. Trái lại, thành công sẽ nở hoa khi cậu
+train/5327.jpg	bé năm xưa, với bao nghị lực và quyết tâm, đã chiến thắng hoàn cảnh
+train/5328.jpg	để theo đuổi ước mơ từ ngày thơ bé.
+train/5329.jpg	Thành công ấy liệu có mấy người đạt được?
+train/5330.jpg	Sau mỗi mùa thi đại học, có bao " sĩ tử " buồn rầu khi biết mình trở thành
+train/5331.jpg	" tử sĩ ". Hai bảy điểm, cao thật đấy. Nhưng cao mà làm gì khi NV1
+train/5332.jpg	lấy tới hai bảy phẩy năm? Cuộc sống vẫn chào đón họ với NV2, NV3.
+train/5333.jpg	Quan trọng là họ đã nỗ lực hết sức để khẳng định mình. Đó là ý
+train/5334.jpg	nghĩa vẹn nguyên của các kỳ thi, và cũng là bản chất của
+train/5335.jpg	thành công.
+train/5336.jpg	Khái quát về biển đảo Việt Nam
+train/5337.jpg	Nước ta giáp với biển Đông và Nam. Vùng biển Việt Nam là một phần biển
+train/5338.jpg	Đông.
+train/5339.jpg	Bờ biển dài 3.260 km, từ Quảng Ninh đến Kiên Giang. Như vậy cứ 100 km2
+train/5340.jpg	thì có 1 km bờ biển (trung bình của thế giới là 600 km2 đất liền / 1 km bờ biển)
+train/5341.jpg	Biển có vùng nội thủy, lãnh hải, vùng đặc quyền kinh tế và thềm lục địa
+train/5342.jpg	với diện tích 1 triệu km2 (gấp 3 diện tích đất liền : 1 triệu km2 / 330.000 km2)
+train/5343.jpg	Trong đó có 2 quần đảo Hoàng Sa, Trường Sa và 2.577 đảo lớn, nhỏ, gần và xa bờ,
+train/5344.jpg	hợp thành phòng tuyến bảo vệ, kiểm soát và làm chủ vùng biển.
+train/5345.jpg	Có vị trí chiến lược quan trọng : nối liền Thái Bình Dương và Ấn Độ Dương,
+train/5346.jpg	châu Á với châu Âu, châu Úc với Trung Đông. Giao lưu quốc tế
+train/5347.jpg	thuận lợi, phát triển ngành biển.
+train/5348.jpg	Có khí hậu biển là vùng nhiệt đới tạo điều kiện cho sinh vật biển phát
+train/5349.jpg	triển, tồn tại tốt.
+train/5350.jpg	Có tài nguyên và khoáng sản phong phú, đa dạng, quý hiếm.
+train/5351.jpg	Vùng biển và hải đảo nước ta có vị trí chiến lược hết sức to lớn, có
+train/5352.jpg	ảnh hưởng trực tiếp đến sự nghiệp bảo vệ nền độc lập dân tộc và
+train/5353.jpg	xây dựng chủ nghĩa xã hội, có liên quan trực tiếp đến sự phồn vinh
+train/5354.jpg	của đất nước, đến văn minh và hạnh phúc của nhân dân.
+train/5355.jpg	BẢN CHẤT CỦA THÀNH CÔNG
+train/5356.jpg	Đã bao giờ bạn tự hỏi thành công là gì mà bao kẻ bỏ cả cuộc đời mình theo
+train/5357.jpg	đuổi? Phải chăng đó là kết quả hoàn hảo trong công việc, sự chính xác đến
+train/5358.jpg	từng chi tiết? Hay đó là cách nói khác của từ thành đạt, nghĩa là có
+train/5359.jpg	được một cuộc sống giàu sang, được mọi người nể phục?
+train/5360.jpg	Vậy thì bạn hãy dành chút thời gian để lặng mình suy ngẫm.
+train/5361.jpg	Cuộc sống sẽ chỉ cho bạn có những người đạt được thành công theo một cách
+train/5362.jpg	giản dị đến bất ngờ.
+train/5363.jpg	Thành công là khi bố và con trai có dũng khí bước vào bếp, nấu những món
+train/5364.jpg	ăn mẹ thích nhân ngày 8 - 3. Món canh có thể hơi mặn, món cá sốt đáng lẽ
+train/5365.jpg	phải có màu đỏ sậm thì lại ngả sang màu... đen cháy. Nhưng nhìn mâm cơm,
+train/5366.jpg	mẹ vẫn cười. Bởi vì hai bố con không thể thành công trên " chiến trường "
+train/5367.jpg	bếp núc, nhưng lại thành công khi tặng mẹ " đoá hồng " của tình yêu.
+train/5368.jpg	Một món quà ý nghĩa hơn cả những món quà quý giá, hạnh phúc ấy long
+train/5369.jpg	lanh in trong mắt mẹ.
+train/5370.jpg	Thành công còn là hình ảnh một cậu bé bị dị tật ở chân, không bao giờ
+train/5371.jpg	đi lại bình thường được. Từ nhỏ cậu đã nuôi ước mơ trở thành cầu thủ bóng
+train/5372.jpg	đá. Sau bao nỗ lực khổ luyện, cậu bé trở thành cầu thủ dự bị trong một
+train/5373.jpg	đội bóng nhỏ, và chưa bao giờ được chính thức ra sân. Nhưng đó không
+train/5374.jpg	phải là thất bại. Trái lại, thành công đã nở hoa khi cậu bé năm xưa,
+train/5375.jpg	với bao nghị lực và quyết tâm, đã chiến thắng hoàn cảnh để theo
+train/5376.jpg	đuổi ước mơ từ ngày thơ bé.
+train/5377.jpg	Thành công ấy, liệu có mấy người đạt được?
+train/5378.jpg	Sau mỗi mùa thi đại học, có bao " sĩ tử " buồn rầu khi biết mình trở thành
+train/5379.jpg	" tử sĩ ". Hai bảy điểm, cao thật đấy. Nhưng cao mà làm gì khi NV1 lấy
+train/5380.jpg	tới hai bảy phẩy năm? Đó thật ra không phải là thất bại, chỉ là khi
+train/5381.jpg	thành công - bị - trì - hoãn mà thôi. Cuộc sống vẫn chào đón họ với NV2, NV3.
+train/5382.jpg	Quan trọng là họ đã nỗ lực hết sức để khẳng định mình. Đó là ý
+train/5383.jpg	nghĩa vẹn nguyên của các kỳ thi, và cũng là bản chất của thành công.
+train/5384.jpg	KHÁI QUÁT VỀ BIỂN ĐẢO VIỆT NAM
+train/5385.jpg	Nước ta giáp với biển Đông ở hai phía Đông và Nam. Vùng biển Việt Nam là
+train/5386.jpg	một phần biển Đông.
+train/5387.jpg	Bờ biển dài 3.260 km, từ Quảng Ninh đến Kiên Giang. Như vậy cứ 100 km2
+train/5388.jpg	thì có 1 km bờ biển (trung bình của thế giới là 600 km2 đất liền / 1 km bờ
+train/5389.jpg	biển).
+train/5390.jpg	Biển có vùng nội thủy, lãnh hải, vùng đặc quyền kinh tế và thềm lục địa với
+train/5391.jpg	diện tích trên 1 triệu km2 (gấp 3 diện tích đất liền : 1 triệu km2 / 330.000 km2).
+train/5392.jpg	Trong đó có 2 quần đảo Hoàng Sa, Trường Sa và 2.577 đảo lớn, nhỏ, gần và xa
+train/5393.jpg	bờ, hợp thành phòng tuyến bảo vệ, kiểm soát và làm chủ vùng biển.
+train/5394.jpg	Có vị trí chiến lược quan trọng : nối liền Thái Bình Dương với Ấn Độ Dương,
+train/5395.jpg	châu Á với châu Âu, châu Úc với Trung Đông. Giao lưu quốc tế thuận
+train/5396.jpg	lợi, phát triển ngành biển.
+train/5397.jpg	Có khí hậu biển là vùng nhiệt đới tạo điều kiện cho sinh vật biển
+train/5398.jpg	phát triển, tồn tại tốt.
+train/5399.jpg	Có tài nguyên sinh vật và khoáng sản phong phú, đa dạng, quý hiếm.
+train/5400.jpg	Vùng biển và hải đảo nước ta có vị trí chiến lược hết sức to lớn, có ảnh
+train/5401.jpg	hưởng trực tiếp đến sự nghiệp bảo vệ nền độc lập dân tộc và xây dựng
+train/5402.jpg	chủ nghĩa xã hội, có liên quan trực tiếp đến sự phồn vinh của đất
+train/5403.jpg	nước, đến văn minh và hạnh phúc của nhân dân.
+train/5404.jpg	BẢN CHẤT CỦA THÀNH CÔNG
+train/5405.jpg	Đã bao giờ bạn tự hỏi thành công là gì mà bao kẻ bỏ cả cuộc
+train/5406.jpg	đời mình theo đuổi? Phải chăng đó là kết quả hoàn hảo trong
+train/5407.jpg	công việc, sự chính xác đến từng chi tiết? Hay đó là cách nói
+train/5408.jpg	khác của người thành đạt, nghĩa là có được một cuộc sống giàu
+train/5409.jpg	sang, được mọi người nể phục?
+train/5410.jpg	Vậy thì bạn hãy dành chút thời gian để lặng mình suy ngẫm.
+train/5411.jpg	Cuộc sống sẽ chỉ cho bạn có những người đạt được thành công theo
+train/5412.jpg	một cách giản dị đến bất ngờ.
+train/5413.jpg	Thành công là khi bố và con trai có dũng khí bước vào bếp, nấu những
+train/5414.jpg	món ăn mẹ thích nhân ngày 8 - 3. Món canh có thể hơi mặn, món
+train/5415.jpg	cá sốt đáng lẽ phải có màu đỏ sậm thì lại ngả sang màu... đen
+train/5416.jpg	cháy. Nhưng nhìn mâm cơm, mẹ vẫn cười. Bởi vì hai bố con không
+train/5417.jpg	thể thành công trên chiến trường " bếp núc ", nhưng lại thành công khi
+train/5418.jpg	tặng mẹ " đoá hồng " của tình yêu. Một món quà ý nghĩa hơn cả những
+train/5419.jpg	món quà quý giá, hạnh phúc ấy long lanh in trong mắt mẹ.
+train/5420.jpg	Thành công còn là hình ảnh một cậu bé bị dị tật ở chân, không bao
+train/5421.jpg	giờ đi lại bình thường được. Từ nhỏ cậu đã nuôi ước mơ trở thành
+train/5422.jpg	cầu thủ bóng đá. Sau bao nỗ lực khổ luyện, cậu bé trở thành
+train/5423.jpg	cầu thủ dự bị trong một đội bóng nhỏ, và chưa bao giờ được chính
+train/5424.jpg	thức ra sân. Nhưng đó không phải là thất bại. Trái lại, thành công
+train/5425.jpg	đã nở hoa khi cậu bé năm xưa, với bao nghị lực và quyết tâm,
+train/5426.jpg	đã chiến thắng hoàn cảnh để theo đuổi ước mơ từ ngày thơ bé.
+train/5427.jpg	Thành công ấy, liệu có mấy người đạt được?
+train/5428.jpg	Sau mỗi mùa thi đại học, có bao " sĩ tử " buồn rầu khi biết mình
+train/5429.jpg	trở thành " tử sĩ ". Hai bảy điểm, cao thật đấy. Nhưng cao mà làm
+train/5430.jpg	gì khi NV1 lấy tới hai bảy phẩy năm? Đó thật ra không phải
+train/5431.jpg	là thất bại, chỉ là khi thành công - bị - trì - hoãn mà thôi.
+train/5432.jpg	Cuộc sống vẫn chào đón họ với NV2, NV3. Quan trọng là họ đã
+train/5433.jpg	nỗ lực hết sức để khẳng định mình. Đó là ý nghĩa vẹn nguyên
+train/5434.jpg	của các kỳ thi, và cũng là bản chất của thành công.
+train/5435.jpg	KHÁI QUÁT VỀ BIỂN ĐẢO VIỆT NAM
+train/5436.jpg	Nước ta giáp với biển Đông ở hai phía Đông và Nam. Vùng biển Việt
+train/5437.jpg	Nam là một phần biển Đông.
+train/5438.jpg	Bờ biển dài 3.260 km, từ Quảng Ninh đến Kiên Giang. Như vậy cứ 100
+train/5439.jpg	km2 thì có 1 km bờ biển (trung bình của thế giới là 600 km2
+train/5440.jpg	đất liền / 1 km bờ biển).
+train/5441.jpg	Biển có vùng nội thủy, lãnh hải, vùng đặc quyền kinh tế và thềm lục địa
+train/5442.jpg	với diện tích trên 1 triệu km2 (gấp 3 diện tích đất liền : 1 triệu
+train/5443.jpg	km2 / 330.000 km2).
+train/5444.jpg	Trong đó có 2 quần đảo Hoàng Sa, Trường Sa và 2.577 đảo lớn,
+train/5445.jpg	nhỏ, gần và xa bờ, hợp thành phòng tuyến bảo vệ, kiểm soát và
+train/5446.jpg	làm chủ vùng biển.
+train/5447.jpg	Có vị trí chiến lược quan trọng : nối liền Thái Bình Dương với Ấn Độ Dương
+train/5448.jpg	, châu Á với châu Âu, châu Úc và Trung Đông. Giao lưu quốc tế
+train/5449.jpg	thuận lợi, phát triển ngành biển.
+train/5450.jpg	Có khí hậu biển là vùng nhiệt đới tạo điều kiện cho sinh vật biển phát
+train/5451.jpg	triển, tồn tại tốt.
+train/5452.jpg	Có tài nguyên sinh vật và khoáng sản phong phú, đa dạng, quý hiếm.
+train/5453.jpg	Vùng biển và hải đảo nước ta có vị trí chiến lược hết sức to lớn,
+train/5454.jpg	có ảnh hưởng trực tiếp đến sự nghiệp bảo vệ nền độc lập dân tộc và
+train/5455.jpg	xây dựng chủ nghĩa xã hội, có liên quan trực tiếp đến sự phồn vinh
+train/5456.jpg	của đất nước, đến văn minh và hạnh phúc của nhân dân.
+train/5457.jpg	KHÁI QUÁT VỀ BIỂN ĐẢO VIỆT NAM
+train/5458.jpg	Nước ta giáp với biển Đông ở hai phía Đông và Nam. Vùng biển Việt Nam là
+train/5459.jpg	một phần biển Đông.
+train/5460.jpg	Bờ biển dài 3.260 km, từ Quảng Ninh đến Kiên Giang. Như vậy cứ 100 km2
+train/5461.jpg	thì có 1 km bờ biển (trung bình của thế giới là 600 km2 đất liền / 1 km bờ biển).
+train/5462.jpg	Biển có vùng nội thủy, lãnh hải, vùng đặc quyền kinh tế và thềm
+train/5463.jpg	lục địa với diện tích trên 1 triệu km2 (gấp 3 diện tích đất liền :
+train/5464.jpg	1 triệu km2 / 330.000 km2).
+train/5465.jpg	Trong đó có 2 quần đảo Hoàng Sa, Trường Sa và 2.577 đảo lớn, nhỏ,
+train/5466.jpg	gần và xa bờ, hợp thành phòng tuyến bảo vệ, kiểm soát và làm chủ
+train/5467.jpg	vùng biển.
+train/5468.jpg	Có vị trí chiến lược quan trọng : nối liền Thái Bình Dương với Ấn Độ Dương
+train/5469.jpg	châu Á, châu Âu, châu Úc với Trung Đông. Giao lưu quốc tế thuận lợi
+train/5470.jpg	phát triển ngành biển.
+train/5471.jpg	Có khí hậu biển là vùng nhiệt đới tạo điều kiện cho sinh vật biển
+train/5472.jpg	phát triển, tồn tại tốt.
+train/5473.jpg	Có tài nguyên sinh vật và khoáng sản phong phú, đa dạng, quý hiếm.
+train/5474.jpg	Vùng biển và hải đảo nước ta có vị trí chiến lược hết sức to lớn, có
+train/5475.jpg	ảnh hưởng trực tiếp đến sự nghiệp bảo vệ nền độc lập dân tộc và xây
+train/5476.jpg	dựng chủ nghĩa xã hội, có liên quan trực tiếp đến sự phồn vinh của đất
+train/5477.jpg	nước, đến văn minh và hạnh phúc của nhân dân.
+train/5478.jpg	BẢN CHẤT CỦA THÀNH CÔNG
+train/5479.jpg	Đã bao giờ bạn tự hỏi thành công là gì mà bao kẻ bỏ cả cuộc đời mình theo đuổi? Phải chăng
+train/5480.jpg	đó là kết quả hoàn hảo trong công việc, sự chính xác đến từng chi tiết? Hay đó là cách nói
+train/5481.jpg	khác của từ thành đạt, nghĩa là có được một cuộc sống giàu sang, được mọi người nể phục?
+train/5482.jpg	Vậy thì bạn hãy dành chút thời gian để lặng mình suy ngẫm.
+train/5483.jpg	Cuộc sống sẽ chỉ cho bạn có những người đạt được thành công theo một cách giản dị đến bất
+train/5484.jpg	ngờ.
+train/5485.jpg	Thành công là khi bố và con trai có dũng khí bước vào bếp, nấu những món ăn mẹ thích nhân
+train/5486.jpg	ngày 8 - 3. Món canh có thể hơi mặn, món cá sốt đáng lẽ phải có màu đỏ sậm thì lại ngả sang
+train/5487.jpg	màu... đen cháy. Nhưng nhìn mâm cơm, mẹ vẫn cười. Bởi vì hai bố con không thể thành
+train/5488.jpg	công trên " chiến trường " bếp núc, nhưng lại thành công khi tặng mẹ " đoá hồng " của tình yêu.
+train/5489.jpg	Một món quà ý nghĩa hơn cả những món quà quý giá, hạnh phúc ấy long lanh in trong mắt
+train/5490.jpg	mẹ.
+train/5491.jpg	Thành công còn là hình ảnh một cậu bé bị dị tật ở chân, không bao giờ đi lại bình thường
+train/5492.jpg	được. Từ nhỏ cậu đã nuôi ước mơ trở thành cầu thủ bóng đá. Sau bao nỗ lực khổ luyện, cậu
+train/5493.jpg	bé trở thành cầu thủ dự bị trong một đội bóng nhỏ, và chưa bao giờ được chính thức ra sân.
+train/5494.jpg	Nhưng đó không phải là thất bại. Trái lại, thành công đã nở hoa khi cậu bé năm xưa, với bao
+train/5495.jpg	nghị lực và quyết tâm, đã chiến thắng hoàn cảnh để theo đuổi ước mơ từ ngày thơ bé.
+train/5496.jpg	Thành công ấy, liệu có mấy người đạt được?
+train/5497.jpg	Sau mỗi mùa thi đại học, có bao " sĩ tử " buồn rầu khi biết mình trở thành " tử sĩ ". Hai bảy điểm,
+train/5498.jpg	cao thật đấy. Nhưng cao mà làm gì khi NV1 lấy tới hai bảy phẩy năm? Đó thật ra không phải
+train/5499.jpg	là thất bại, chỉ là khi thành công - bị - trì - hoãn mà thôi. Cuộc sống vẫn chào đón họ với
+train/5500.jpg	NV2, NV3. Quan trọng là họ đã nỗ lực hết sức để khẳng định mình. Đó là ý nghĩa vẹn nguyên
+train/5501.jpg	của các kỳ thi, và cũng là bản chất của thành công.
+train/5502.jpg	KHÁI QUÁT VỀ BIỂN ĐẢO VIỆT NAM
+train/5503.jpg	Nước ta giáp với biển Đông ở hai phía Đông và Nam. Vùng biển Việt Nam là một phần biển
+train/5504.jpg	Đông.
+train/5505.jpg	Bờ biển dài 3.260 km, từ Quảng Ninh đến Kiên Giang. Như vậy cứ 100 km2 thì có 1 km bờ biển
+train/5506.jpg	(trung bình của thế giới là 600 km2 đất liền / 1 km bờ biển).
+train/5507.jpg	Biển có vùng nội thủy, lãnh hải, vùng đặc quyền kinh tế và thềm lục địa với diện tích trên 1
+train/5508.jpg	triệu km2 (gấp 3 diện tích đất liền : 1 triệu km2 / 330.000 km2).
+train/5509.jpg	Trong đó có 2 quần đảo Hoàng Sa, Trường Sa và 2.577 đảo lớn, nhỏ, gần và xa bờ, hợp
+train/5510.jpg	thành phòng tuyến bảo vệ, kiểm soát và làm chủ vùng biển.
+train/5511.jpg	Có vị trí chiến lược quan trọng : nối liền Thái Bình Dương với Ấn Độ Dương, châu Á với châu Âu,
+train/5512.jpg	châu Úc với Trung Đông. Giao lưu quốc tế thuận lợi, phát triển ngành biển.
+train/5513.jpg	Có khí hậu biển là vùng nhiệt đới tạo điều kiện cho sinh vật biển phát triển và tồn tại tốt.
+train/5514.jpg	Có tài nguyên sinh vật và khoáng sản phong phú, đa dạng, quý hiếm.
+train/5515.jpg	Vùng biển và hải đảo nước ta có vị trí chiến lược hết sức to lớn, có ảnh hưởng trực tiếp đến sự
+train/5516.jpg	nghiệp bảo vệ nền độc lập dân tộc và xây dựng chủ nghĩa xã hội, có liên quan trực tiếp đến
+train/5517.jpg	sự phồn vinh của đất nước, đến văn minh và hạnh phúc của nhân dân.
+train/5518.jpg	BẢN CHẤT CỦA THÀNH CÔNG
+train/5519.jpg	Đã bao giờ bạn tự hỏi thành công là gì mà bao kẻ bỏ cả cuộc đời mình theo
+train/5520.jpg	đuổi? Phải chăng đó là kết quả hoàn hảo trong công việc, sự chính xác đến từng chi tiết?
+train/5521.jpg	Hay đó là cách nói khác của từ thành đạt, nghĩa là có được một cuộc sống giàu
+train/5522.jpg	sang, được mọi người nể phục? Vậy thì bạn hãy dành chút thời gian để lặng mình
+train/5523.jpg	suy ngẫm.
+train/5524.jpg	Cuộc sống sẽ chỉ cho bạn có những người đạt được thành công theo một cách giản dị
+train/5525.jpg	đến bất ngờ.
+train/5526.jpg	Thành công là khi bố và con trai có dũng khí bước vào bếp, nấu những món ăn mẹ
+train/5527.jpg	thích nhân ngày 8 - 3. Món canh có thể hơi mặn, món cá sốt đáng lẽ phải có màu đỏ sậm
+train/5528.jpg	thì lại ngả sang màu... đen cháy. Nhưng nhìn mâm cơm, mẹ vẫn cười. Bởi vì
+train/5529.jpg	hai bố con không thể thành công trên " chiến trường " bếp núc, nhưng lại thành
+train/5530.jpg	công khi tặng mẹ " đoá hồng " của tình yêu. Một món quà ý nghĩa hơn cả
+train/5531.jpg	những món quà quý giá, hạnh phúc ấy long lanh in trong mắt mẹ.
+train/5532.jpg	Thành công còn là hình ảnh một cậu bé bị dị tật ở chân, không bao giờ
+train/5533.jpg	đi lại bình thường được. Từ nhỏ cậu đã nuôi ước mơ trở thành cầu thủ bóng đá.
+train/5534.jpg	Sau bao nỗ lực khổ luyện, cậu bé trở thành cầu thủ dự bị trong một đội bóng
+train/5535.jpg	nhỏ, và chưa bao giờ được chính thức ra sân. Nhưng đó không phải là thất
+train/5536.jpg	bại. Trái lại, thành công đã nở hoa khi cậu bé năm xưa, với bao nghị lực
+train/5537.jpg	và quyết tâm, đã chiến thắng hoàn cảnh để theo đuổi ước mơ từ ngày thơ bé.
+train/5538.jpg	Thành công ấy, liệu có mấy người đạt được?
+train/5539.jpg	Sau mỗi mùa thi đại học, có bao " sĩ tử " buồn rầu khi biết mình trở thành " tử sĩ ".
+train/5540.jpg	Hai bảy điểm, cao thật đấy. Nhưng cao mà làm gì khi NV1 lấy tới hai bảy phẩy
+train/5541.jpg	năm? Đó thật ra không phải là thất bại, chỉ là khi thành công - bị - trì -
+train/5542.jpg	hoãn mà thôi. Cuộc sống vẫn chào đón họ với NV2, NV3. Quan trọng là
+train/5543.jpg	họ đã nỗ lực hết sức để khẳng định mình. Đó là ý nghĩa vẹn nguyên của
+train/5544.jpg	các kỳ thi, và cũng là bản chất của thành công.
+train/5545.jpg	KHÁI QUÁT VỀ BIỂN ĐẢO VIỆT NAM
+train/5546.jpg	Nước ta giáp với biển Đông ở hai phía Đông và Nam. Vùng biển Việt Nam
+train/5547.jpg	là một phần biển Đông.
+train/5548.jpg	Bờ biển dài 3.260 km, từ Quảng Ninh đến Kiên Giang. Như vậy cứ 100 km2
+train/5549.jpg	thì có 1 km bờ biển (trung bình của thế giới là 600 km2 đất liền / 1 km bờ biển).
+train/5550.jpg	Biển có vùng nội thủy, lãnh hải, vùng đặc quyền kinh tế và thềm lục địa với
+train/5551.jpg	diện tích trên 1 triệu km2 (gấp 3 diện tích đất liền : 1 triệu km2 /
+train/5552.jpg	330.000 km2)
+train/5553.jpg	Trong đó có 2 quần đảo Hoàng Sa, Trường Sa và 2.577 đảo lớn, nhỏ,
+train/5554.jpg	gần và xa bờ, hợp thành phòng tuyến bảo vệ, kiểm soát và làm chủ
+train/5555.jpg	vùng biển.
+train/5556.jpg	Có vị trí chiến lược quan trọng : nối liền Thái Bình Dương với Ấn Độ Dương,
+train/5557.jpg	châu Á với châu Âu, châu Úc với Trung Đông. Giao lưu quốc tế thuận
+train/5558.jpg	lợi, phát triển ngành biển.
+train/5559.jpg	Có khí hậu biển là vùng nhiệt đới tạo điều kiện cho sinh vật biển phát
+train/5560.jpg	triển, tồn tại tốt.
+train/5561.jpg	Có tài nguyên sinh vật và khoáng sản phong phú, đa dạng, quý hiếm.
+train/5562.jpg	Vùng biển và hải đảo nước ta có vị trí chiến lược hết sức to lớn, có ảnh hưởng
+train/5563.jpg	trực tiếp đến sự nghiệp bảo vệ nền độc lập dân tộc và xây dựng chủ nghĩa
+train/5564.jpg	xã hội, có liên quan trực tiếp đến sự phồn vinh của đất nước, đến văn
+train/5565.jpg	minh và hạnh phúc của nhân dân.
+train/5566.jpg	BẢN CHẤT CỦA THÀNH CÔNG
+train/5567.jpg	Đã bao giờ bạn tự hỏi thành công là gì mà bao kẻ bỏ cả cuộc đời mình theo đuổi? Phải chăng
+train/5568.jpg	đó là kết quả hoàn hảo trong công việc, sự chính xác đến từng chi tiết? Hay đó là cách nói
+train/5569.jpg	khác của từ thành đạt, nghĩa là có được một cuộc sống giàu sang, được mọi người nể phục?
+train/5570.jpg	Vậy thì bạn hãy dành chút thời gian để lặng mình suy ngẫm.
+train/5571.jpg	Cuộc sống sẽ chỉ cho bạn có những người đạt được thành công theo một cách giản
+train/5572.jpg	dị đến bất ngờ.
+train/5573.jpg	Thành công là khi bố và con trai có dũng khí bước vào bếp, nấu những món ăn mẹ thích
+train/5574.jpg	nhân ngày 8 - 3. Món canh có thể hơi mặn, món cá sốt đáng lẽ phải có màu đỏ sậm thì lại ngả
+train/5575.jpg	sang màu... đen cháy. Nhưng nhìn mâm cơm, mẹ vẫn cười. Bởi vì hai bố con không thể
+train/5576.jpg	thành công trên " chiến trường " bếp núc, nhưng lại thành công khi tặng mẹ " đoá hồng " của
+train/5577.jpg	tình yêu. Một món quà ý nghĩa hơn cả những món quà quý giá, hạnh phúc ấy long
+train/5578.jpg	lanh in trong mắt mẹ.
+train/5579.jpg	Thành công còn là hình ảnh một cậu bé bị dị tật ở chân, không bao giờ đi lại bình thường
+train/5580.jpg	được. Từ nhỏ cậu đã nuôi ước mơ trở thành cầu thủ bóng đá. Sau bao nỗ lực khổ
+train/5581.jpg	luyện, cậu bé trở thành cầu thủ dự bị trong một đội bóng nhỏ, và chưa bao giờ được
+train/5582.jpg	chính thức ra sân. Nhưng đó không phải là thất bại. Trái lại, thành công đã nở hoa khi
+train/5583.jpg	cậu bé năm xưa, với bao nghị lực và quyết tâm, đã chiến thắng hoàn cảnh để theo
+train/5584.jpg	đuổi ước mơ từ ngày thơ bé.
+train/5585.jpg	Thành công ấy, liệu có mấy người đạt được?
+train/5586.jpg	Sau mỗi mùa thi đại học, có bao " sĩ tử " buồn rầu khi biết mình trở thành " tử sĩ ". Hai bảy
+train/5587.jpg	điểm, cao thật đấy. Nhưng cao mà làm gì khi NV1 lấy tới hai bảy phẩy năm? Đó thật ra
+train/5588.jpg	không phải là thất bại, chỉ là khi thành công - bị - trì - hoãn mà thôi. Cuộc sống vẫn chào
+train/5589.jpg	đón họ với NV2, NV3. Quan trọng là họ đã nỗ lực hết sức để khẳng định mình. Đó là
+train/5590.jpg	ý nghĩa vẹn nguyên của các kỳ thi, và cũng là bản chất của thành công.
+train/5591.jpg	KHÁI QUÁT VỀ BIỂN ĐẢO VIỆT NAM
+train/5592.jpg	Nước ta giáp với biển Đông ở hai phía Đông và Nam. Vùng biển Việt Nam là một phần
+train/5593.jpg	biển Đông.
+train/5594.jpg	Bờ biển dài 3.260 km, từ Quảng Ninh đến Kiên Giang. Như vậy cứ 100 km2 thì có 1 km
+train/5595.jpg	bờ biển (trung bình của thế giới là 600 km2 đất liền / 1 km bờ biển).
+train/5596.jpg	Biển có vùng nội thủy, lãnh hải, vùng đặc quyền kinh tế và thềm lục địa với diện tích
+train/5597.jpg	trên 1 triệu km2 (gấp 3 diện tích đất liền : 1 triệu km2 / 330.000 km2)
+train/5598.jpg	Trong đó có 2 quần đảo Hoàng Sa, Trường Sa và 2.577 đảo lớn, nhỏ, gần và xa bờ,
+train/5599.jpg	hợp thành phòng tuyến bảo vệ, kiểm soát và làm chủ vùng biển.
+train/5600.jpg	Có vị trí chiến lược quan trọng : nối liền Thái Bình Dương với Ấn Độ Dương, châu Á
+train/5601.jpg	với châu Âu, châu Úc với Trung Đông. Giao lưu quốc tế thuận lợi, phát triển ngành
+train/5602.jpg	biển.
+train/5603.jpg	Có khí hậu biển là vùng nhiệt đới tạo điều kiện cho sinh vật biển phát triển, tồn tại tốt.
+train/5604.jpg	Có tài nguyên sinh vật và khoáng sản phong phú, đa dạng, quý hiếm.
+train/5605.jpg	Vùng biển và hải đảo nước ta có vị trí chiến lược hết sức to lớn, có ảnh hưởng trực
+train/5606.jpg	tiếp đến sự nghiệp bảo vệ nền độc lập dân tộc và xây dựng chủ nghĩa xã hội, có liên
+train/5607.jpg	quan trực tiếp đến sự phồn vinh của đất nước, đến văn minh và hạnh phúc của
+train/5608.jpg	nhân dân.
+train/5609.jpg	BẢN CHẤT CỦA THÀNH CÔNG
+train/5610.jpg	Đã bao giờ bạn tự hỏi thành công là gì mà bao kẻ bỏ cả cuộc đời mình theo
+train/5611.jpg	đuổi? Phải chăng đó là kết quả hoàn hảo trong công việc, sự chính xác
+train/5612.jpg	đến từng chi tiết? Hay đó là cách nói khác của từ thành đạt, nghĩa là có
+train/5613.jpg	được một cuộc sống giàu sang, được mọi người nể phục? Vậy thì bạn hãy dành chút
+train/5614.jpg	thời gian để lặng mình suy ngẫm. Cuộc sống sẽ chỉ cho bạn có những người
+train/5615.jpg	đạt được thành công theo một cách giản dị đến bất ngờ
+train/5616.jpg	Thành công là khi bố và con trai có dũng khí bước vào bếp, nấu những món ăn mẹ thích
+train/5617.jpg	nhân ngày 8 - 3. Món canh có thể hơi mặn, món cá sốt đáng lẽ phải có màu đỏ sậm thì lại
+train/5618.jpg	ngả sang màu... đen cháy. Nhưng nhìn mâm cơm, mẹ vẫn cười. Bởi vì hai bố
+train/5619.jpg	con không thể thành công trên " chiến trường " bếp núc, nhưng lại thành công
+train/5620.jpg	khi tặng mẹ " đoá hồng " của tình yêu. Một món quà ý nghĩa hơn cả những món
+train/5621.jpg	quà quý giá, hạnh phúc ấy long lanh in trong mắt mẹ.
+train/5622.jpg	Thành công còn là hình ảnh một cậu bé bị dị tật ở chân, không bao giờ đi lại
+train/5623.jpg	bình thường được. Từ nhỏ cậu đã nuôi ước mơ trở thành cầu thủ bóng đá. Sau bao nỗ lực khổ
+train/5624.jpg	luyện, cậu bé trở thành cầu thủ dự bị trong một đội bóng nhỏ, và chưa bao giờ được chính
+train/5625.jpg	thức ra sân. Nhưng đó không phải là thất bại. Trái lại, thành công đã nở hoa khi cậu bé
+train/5626.jpg	năm xưa, với bao nghị lực và quyết tâm, đã chiến thắng hoàn cảnh và theo đuổi
+train/5627.jpg	ước mơ từ ngày thơ bé.
+train/5628.jpg	Thành công ấy, liệu có mấy người đạt được?
+train/5629.jpg	Sau mỗi mùa thi đại học, có bao " sĩ tử " buồn rầu khi biết mình trở thành " tử sĩ ".
+train/5630.jpg	Hai bảy điểm, cao thật đấy. Nhưng cao mà làm gì khi NV1 lấy tới hai bảy phẩy
+train/5631.jpg	năm? Đó thật ra không phải là thất bại, chỉ là khi thành công - bị - trì - hoãn
+train/5632.jpg	mà thôi. Cuộc sống vẫn chào đón họ với NV2, NV3. Quan trọng là họ đã
+train/5633.jpg	nỗ lực hết sức để khẳng định mình. Đó là ý nghĩa vẹn nguyên của các kỳ
+train/5634.jpg	thi, và cũng là bản chất của thành công.
+train/5635.jpg	KHÁI QUÁT VỀ BIỂN ĐẢO VIỆT NAM
+train/5636.jpg	Nước ta giáp với biển Đông ở hai phía Đông và Nam. Vùng biển Việt Nam là một phần
+train/5637.jpg	biển Đông.
+train/5638.jpg	Bờ biển dài 3.260 km, từ Quảng Ninh đến Kiên Giang. Như vậy cứ 100 km2 thì có
+train/5639.jpg	1 km bờ biển (trung bình của thế giới là 600 km2 đất liền / 1 km bờ biển
+train/5640.jpg	Biển có vùng nội thủy, lãnh hải, vùng đặc quyền kinh tế và thềm lục địa với diện
+train/5641.jpg	tích trên 1 triệu km2 (gấp 3 diện tích đất liền : 1 triệu km2 / 330.000 km2)
+train/5642.jpg	Trong đó có 2 quần đảo Hoàng Sa, Trường Sa và 2.577 đảo lớn, nhỏ, gần và
+train/5643.jpg	xa bờ, hợp thành phòng tuyến bảo vệ, kiểm soát và làm chủ vùng biển.
+train/5644.jpg	Có vị trí chiến lược quan trọng : nối liền Thái Bình Dương với Ấn Độ Dương,
+train/5645.jpg	châu Á với châu Âu, châu Úc với Trung Đông. Giao lưu quốc tế thuận lợi,
+train/5646.jpg	phát triển ngành biển.
+train/5647.jpg	Có khí hậu biển là vùng nhiệt đới tạo điều kiện cho sinh vật biển
+train/5648.jpg	phát triển, tồn tại tốt.
+train/5649.jpg	Có tài nguyên sinh vật và khoáng sản phong phú, đa dạng, quý hiếm.
+train/5650.jpg	Vùng biển và hải đảo nước ta có vị trí chiến lược hết sức to lớn, có ảnh
+train/5651.jpg	hưởng trực tiếp đến sự nghiệp bảo vệ nền độc lập dân tộc và xây dựng chủ
+train/5652.jpg	nghĩa xã hội, có liên quan trực tiếp đến sự phồn vinh của đất nước,
+train/5653.jpg	đến văn minh và hạnh phúc của nhân dân.
+train/5654.jpg	BẢN CHẤT CỦA THÀNH CÔNG
+train/5655.jpg	Đã bao giờ bạn tự hỏi thành công là gì mà bao kẻ bỏ cả cuộc đời mình theo đuổi? Phải
+train/5656.jpg	chăng đó là kết quả hoàn hảo trong công việc, sự chính xác đến từng chi tiết? Hay đó
+train/5657.jpg	là cách nói khác của từ thành đạt, nghĩa là có được một cuộc sống giàu sang, được
+train/5658.jpg	mọi người nể phục? Vậy thì bạn hãy dành chút thời gian để lặng mình suy ngẫm.
+train/5659.jpg	Cuộc sống sẽ chỉ cho bạn có những người đạt được thành công theo một cách giản dị
+train/5660.jpg	đến bất ngờ.
+train/5661.jpg	Thành công là khi bố và con trai có dũng khí bước vào bếp, nấu những món ăn mẹ
+train/5662.jpg	thích nhân ngày 8 - 3. Món canh có thể hơi mặn, món cá sốt đáng lẽ phải có màu đỏ
+train/5663.jpg	sậm thì lại ngả sang màu... đen cháy. Nhưng nhìn mâm cơm, mẹ vẫn cười. Bởi
+train/5664.jpg	vì hai bố con không thể thành công trên " chiến trường " bếp núc, nhưng lại thành
+train/5665.jpg	công khi tặng mẹ " đoá hồng " của tình yêu. Một món quà ý nghĩa hơn cả
+train/5666.jpg	những món quà quý giá, hạnh phúc ấy long lanh in trong mắt mẹ.
+train/5667.jpg	Thành công còn là hình ảnh một cậu bé bị dị tật ở chân, không bao giờ đi lại
+train/5668.jpg	bình thường được. Từ nhỏ cậu đã nuôi ước mơ trở thành cầu thủ bóng đá. Sau
+train/5669.jpg	bao nỗ lực khổ luyện, cậu bé trở thành cầu thủ dự bị trong một đội bóng nhỏ,
+train/5670.jpg	và chưa bao giờ được chính thức ra sân. Nhưng đó không phải là thất bại. Trái lại,
+train/5671.jpg	thành công đã nở hoa khi cậu bé năm xưa, với bao nghị lực và quyết tâm, đã
+train/5672.jpg	chiến thắng hoàn cảnh để theo đuổi ước mơ từ ngày thơ bé.
+train/5673.jpg	Thành công ấy, liệu có mấy người đạt được?
+train/5674.jpg	Sau mỗi mùa thi đại học, có bao " sĩ tử " buồn rầu khi biết mình trở thành " tử sĩ ". Hai
+train/5675.jpg	bảy điểm, cao thật đấy. Nhưng cao mà làm gì khi NV1 lấy tới hai bảy phẩy năm?
+train/5676.jpg	Đó thật ra không phải là thất bại, chỉ là khi thành công - bị - trì - hoãn mà thôi.
+train/5677.jpg	Cuộc sống vẫn chào đón họ với NV2, NV3. Quan trọng là họ đã nỗ lực
+train/5678.jpg	hết sức để khẳng định mình. Đó là ý nghĩa vẹn nguyên của các kỳ thi, và
+train/5679.jpg	cũng là bản chất của thành công.
+train/5680.jpg	KHÁI QUÁT VỀ BIỂN ĐẢO VIỆT NAM
+train/5681.jpg	Nước ta giáp với biển Đông ở hai phía Đông và Nam. Vùng biển Việt Nam là
+train/5682.jpg	một phần biển Đông.
+train/5683.jpg	Bờ biển dài 3.260 km, từ Quảng Ninh đến Kiên Giang. Như vậy cứ 100 km2
+train/5684.jpg	thì có 1 km bờ biển (trung bình của thế giới là 600 km2 đất liền / 1 km bờ
+train/5685.jpg	biển).
+train/5686.jpg	Biển có vùng nội thủy, lãnh hải, vùng đặc quyền kinh tế và thềm lục địa với diện
+train/5687.jpg	tích trên 1 triệu km2 (gấp 3 diện tích đất liền : 1 triệu km2 / 330.000 km2).
+train/5688.jpg	Trong đó có 2 quần đảo Hoàng Sa, Trường Sa và 2.577 đảo lớn, nhỏ, gần và xa
+train/5689.jpg	bờ, hợp thành phòng tuyến bảo vệ, kiểm soát và làm chủ vùng biển.
+train/5690.jpg	Có vị trí chiến lược quan trọng : nối liền Thái Bình Dương với Ấn Độ Dương, châu Á
+train/5691.jpg	với châu Âu, châu Úc với Trung Đông. Giao lưu quốc tế thuận lợi, phát triển
+train/5692.jpg	ngành biển. Có khí hậu biển là vùng nhiệt đới tạo điều kiện cho sinh vật
+train/5693.jpg	biển phát triển, tồn tại tốt.
+train/5694.jpg	Có tài nguyên sinh vật và khoáng sản phong phú, đa dạng, quý hiếm.
+train/5695.jpg	Vùng biển và hải đảo nước ta có vị trí chiến lược hết sức to lớn, có ảnh hưởng
+train/5696.jpg	trực tiếp đến sự nghiệp bảo vệ nền độc lập dân tộc và xây dựng chủ nghĩa xã hội,
+train/5697.jpg	có liên quan trực tiếp đến sự phồn vinh của đất nước, đến văn minh và hạnh
+train/5698.jpg	phúc của nhân dân.
+train/5699.jpg	BẢN CHẤT CỦA THÀNH CÔNG
+train/5700.jpg	Đã bao giờ bạn tự hỏi thành công là gì mà bao kẻ bỏ cả cuộc đời mình theo đuổi? Phải chăng
+train/5701.jpg	đó là kết quả hoàn hảo trong công việc, sự chính xác đến từng chi tiết? Hay đó
+train/5702.jpg	là cách nói khác của từ thành đạt, nghĩa là có được một cuộc sống giàu
+train/5703.jpg	sang, được mọi người nể phục? Vậy thì bạn hãy dành chút thời gian để
+train/5704.jpg	lặng mình suy ngẫm.
+train/5705.jpg	Cuộc sống sẽ chỉ cho bạn có những người đạt được thành công theo một
+train/5706.jpg	cách giản dị đến bất ngờ.
+train/5707.jpg	Thành công là khi bố và con trai có dũng khí bước vào bếp, nấu những món
+train/5708.jpg	ăn mẹ thích nhân ngày 8 - 3. Món canh có thể hơi mặn, món cá sốt đáng
+train/5709.jpg	lẽ phải có màu đỏ sậm thì lại ngả sang màu... đen cháy. Nhưng nhìn
+train/5710.jpg	mâm cơm, mẹ vẫn cười. Bởi vì hai bố con không thể thành công trên
+train/5711.jpg	" chiến trường " bếp núc, nhưng lại thành công khi tặng mẹ đoá hồng
+train/5712.jpg	tình yêu. Một món quà ý nghĩa hơn cả những món quà quý giá,
+train/5713.jpg	hạnh phúc ấy long lanh in trong mắt mẹ.
+train/5714.jpg	Thành công còn là hình ảnh một cậu bé bị dị tật ở chân, không bao giờ đi
+train/5715.jpg	lại bình thường được. Từ nhỏ cậu đã nuôi ước mơ trở thành cầu thủ
+train/5716.jpg	bóng đá. Sau bao nỗ lực khổ luyện, cậu bé trở thành cầu thủ dự
+train/5717.jpg	bị trong một đội bóng nhỏ, và chưa bao giờ được chính thức ra sân.
+train/5718.jpg	Nhưng đó không phải là thất bại. Trái lại, thành công đã nở hoa khi
+train/5719.jpg	cậu bé năm xưa, với bao nghị lực và quyết tâm, đã chiến thắng
+train/5720.jpg	hoàn cảnh để theo đuổi ước mơ từ thơ bé.
+train/5721.jpg	Thành công ấy, liệu có mấy người đạt được?
+train/5722.jpg	Sau mỗi mùa thi đại học, có bao " sĩ tử " buồn rầu khi biết mình trở
+train/5723.jpg	thành " tử sĩ ". Hai bảy điểm, cao thật đấy. Nhưng cao mà làm gì
+train/5724.jpg	khi NV1 lấy tới hai bảy phẩy năm? Đó thật ra không phải là thất bại,
+train/5725.jpg	chỉ là khi thành công - bị - trì - hoãn mà thôi. Cuộc sống vẫn chào
+train/5726.jpg	đón họ với NV2, NV3. Quan trọng là họ đã nỗ lực hết sức
+train/5727.jpg	để khẳng định mình. Đó là ý nghĩa nguyên vẹn của các kỳ thi,
+train/5728.jpg	và cũng là bản chất của thành công.
+train/5729.jpg	KHÁI QUÁT VỀ BIỂN ĐẢO VIỆT NAM
+train/5730.jpg	Nước ta giáp với biển Đông ở hai phía Đông và Nam. Vùng biển Việt Nam
+train/5731.jpg	là một phần biển Đông.
+train/5732.jpg	Bờ biển dài 3.260 km, từ Quảng Ninh đến Kiên Giang. Như vậy cứ
+train/5733.jpg	100 km2 thì có 1 km bờ biển (trung bình của thế giới là 600 km2
+train/5734.jpg	đất liền / 1 km bờ biển).
+train/5735.jpg	Biển có vùng nội thủy, lãnh hải, vùng đặc quyền kinh tế và thềm lục địa
+train/5736.jpg	với diện tích trên 1 triệu km2 (gấp 3 diện tích đất liền 1 triệu km2 /
+train/5737.jpg	330.000 km2).
+train/5738.jpg	Trong đó có 2 quần đảo Hoàng Sa, Trường Sa và 2.577 đảo lớn, nhỏ,
+train/5739.jpg	gần và xa bờ, hợp thành phòng tuyến bảo vệ, kiểm soát và làm chủ vùng
+train/5740.jpg	biển.
+train/5741.jpg	Có vị trí chiến lược quan trọng : nối liền Thái Bình Dương với Ấn Độ Dương
+train/5742.jpg	, châu Á với châu Âu, châu Úc với Trung Đông. Giao lưu quốc tế
+train/5743.jpg	thuận lợi, phát triển ngành biển.
+train/5744.jpg	Có khí hậu biển là vùng nhiệt đới tạo điều kiện cho sinh vật biển
+train/5745.jpg	phát triển, tồn tại tốt.
+train/5746.jpg	Có tài nguyên sinh vật và khoáng sản phong phú, đa dạng, quý hiếm.
+train/5747.jpg	Vùng biển và hải đảo nước ta có vị trí chiến lược hết sức to lớn, có
+train/5748.jpg	ảnh hưởng trực tiếp đến sự nghiệp bảo vệ nền độc lập dân tộc và
+train/5749.jpg	xây dựng chủ nghĩa xã hội, có liên quan trực tiếp đến sự phồn
+train/5750.jpg	vinh của đất nước, đến văn minh và hạnh phúc của nhân dân.
+train/5751.jpg	BẢN CHẤT CỦA THÀNH CÔNG
+train/5752.jpg	Đã bao giờ bạn tự hỏi thành công là gì mà bao kẻ bỏ cả cuộc đời mình theo đuổi? Phải chăng
+train/5753.jpg	đó là kết quả hoàn hảo trong công việc, sự chính xác đến từng chi tiết? Hay đó là cách nói
+train/5754.jpg	khác của từ thành đạt, nghĩa là có được một cuộc sống giàu sang, được mọi người nể phục?
+train/5755.jpg	Vậy thì bạn hãy dành chút thời gian để lặng mình suy ngẫm.
+train/5756.jpg	Cuộc sống sẽ chỉ cho bạn có những người đạt được thành công theo một cách giản dị đến bất
+train/5757.jpg	ngờ.
+train/5758.jpg	Thành công là khi bố và con trai có dũng khí bước vào bếp, nấu những món ăn mẹ thích nhân
+train/5759.jpg	ngày 8 - 3. Món canh có thể hơi mặn, món cá sốt đáng lẽ phải có màu đỏ sậm thì lại ngả sang
+train/5760.jpg	màu... đen cháy. Nhưng nhìn mâm cơm, mẹ vẫn cười. Bởi vì hai bố con không thể thành
+train/5761.jpg	công trên " chiến trường " bếp núc, nhưng lại thành công khi tặng mẹ " đoá hồng " của tình yêu.
+train/5762.jpg	Một món quà ý nghĩa hơn cả những món quà quý giá, hạnh phúc ấy long lanh in trong mắt
+train/5763.jpg	mẹ.
+train/5764.jpg	Thành công còn là hình ảnh một cậu bé bị dị tật ở chân, không bao giờ đi lại bình thường
+train/5765.jpg	được. Từ nhỏ cậu đã nuôi ước mơ trở thành cầu thủ bóng đá. Sau bao nỗ lực khổ luyện, cậu
+train/5766.jpg	bé trở thành cầu thủ dự bị trong một đội bóng nhỏ, và chưa bao giờ được chính thức ra sân.
+train/5767.jpg	Nhưng đó không phải là thất bại. Trái lại, thành công đã nở hoa khi cậu bé năm xưa, với bao
+train/5768.jpg	nghị lực và quyết tâm, đã chiến thắng hoàn cảnh để theo đuổi ước mơ từ ngày thơ bé.
+train/5769.jpg	Thành công ấy, liệu có mấy người đạt được?
+train/5770.jpg	Sau mỗi mùa thi đại học, có bao " sĩ tử " buồn rầu khi biết mình trở thành " tử sĩ ". Hai bảy điểm,
+train/5771.jpg	cao thật đấy. Nhưng cao mà làm gì khi NV1 lấy tới hai bảy phẩy năm? Đó thật ra không phải
+train/5772.jpg	là thất bại, chỉ là khi thành công - bị - trì - hoãn mà thôi. Cuộc sống vẫn chào đón họ với
+train/5773.jpg	NV2, NV3. Quan trọng là họ đã nỗ lực hết sức để khẳng định mình. Đó là ý nghĩa vẹn nguyên
+train/5774.jpg	của các kỳ thi, và cũng là bản chất của thành công.
+train/5775.jpg	KHÁI QUÁT VỀ BIỂN ĐẢO VIỆT NAM
+train/5776.jpg	Nước ta giáp với biển Đông ở hai phía Đông và Nam. Vùng biển Việt Nam là một phần biển
+train/5777.jpg	Đông.
+train/5778.jpg	Bờ biển dài 3.260 km, từ Quảng Ninh đến Kiên Giang. Như vậy cứ 100 km2 thì có 1 km bờ biển
+train/5779.jpg	(trung bình của thế giới là 600 km2 đất liền / 1 km bờ biển).
+train/5780.jpg	Biển có vùng nội thủy, lãnh hải, vùng đặc quyền kinh tế và thềm lục địa với diện tích 1
+train/5781.jpg	triệu km2 (gấp 3 diện tích đất liền : 1 triệu km2 / 330.000 km2).
+train/5782.jpg	Trong đó có 2 quần đảo Hoàng Sa, Trường Sa và 2.577 đảo lớn, nhỏ, gần và xa bờ, hợp
+train/5783.jpg	thành phòng tuyến bảo vệ, kiểm soát và làm chủ vùng biển.
+train/5784.jpg	Có vị trí chiến lược quan trọng : nối liền Thái Bình Dương với Ấn Độ Dương, châu Á với châu Âu,
+train/5785.jpg	châu Úc với Trung Đông. Giao lưu quốc tế thuận lợi, phát triển ngành biển.
+train/5786.jpg	Có khí hậu biển là vùng nhiệt đới tạo điều kiện cho sinh vật biển phát, tồn tại tốt.
+train/5787.jpg	Có tài nguyên sinh vật và khoáng sản phong phú, đa dạng, quý hiếm.
+train/5788.jpg	Vùng biển và hải đảo nước ta có vị trí chiến lược hết sức to lớn, có ảnh hưởng trực tiếp đến sự
+train/5789.jpg	nghiệp bảo vệ nền độc lập dân tộc và xây dựng chủ nghĩa xã hội, có liên quan trực tiếp đến
+train/5790.jpg	sự phồn vinh của đất nước, đến văn minh và hạnh phúc của nhân dân.
+train/5791.jpg	BẢN CHẤT CỦA THÀNH CÔNG
+train/5792.jpg	Đã bao giờ bạn tự hỏi thành công là gì mà bao kẻ bỏ cả cuộc đời mình theo đuổi?
+train/5793.jpg	Phải chăng đó là kết quả hoàn hảo trong công việc, sự chính xác đến từng chi tiết?
+train/5794.jpg	Hay đó là cách nói khác của từ thành đạt, nghĩa là có được một cuộc sống giàu sang,
+train/5795.jpg	được mọi người nể phục? Vậy thì bạn hãy dành chút thời gian để lặng mình
+train/5796.jpg	suy ngẫm.
+train/5797.jpg	Cuộc sống sẽ chỉ cho bạn có những người đạt được thành công theo một cách
+train/5798.jpg	giản dị đến bất ngờ.
+train/5799.jpg	Thành công là khi bố và con trai có dũng khí bước vào bếp, nấu những món ăn
+train/5800.jpg	mẹ thích nhân ngày 8 - 3. Món canh có thể hơi mặn, món cá sốt đáng lẽ phải có
