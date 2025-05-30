@@ -13,7 +13,7 @@ Chúng em đề ra các mục tiêu như sau:
   
 **Cơ sở lý thuyết:**
 
-1. Tìm hiểu về Việt OCR
+**1. Tìm hiểu về Việt OCR**
 
 VietOCR là một mô hình nhận diện văn bản (Optical Character Recognition - OCR) mã nguồn mở, được thiết kế và tối ưu hóa cho văn bản tiếng Việt. Nó được xây dựng dựa trên kiến trúc học sâu encoder-decoder, có khả năng nhận diện các chuỗi ký tự từ hình ảnh văn bản một cách chính xác.
 
@@ -56,8 +56,8 @@ Trong này:
 -  “train/17.jpg ” là đường dẫn đến ảnh gốc.
 - “PHƯỜNG ĐÔNG XUYÊN, THÀNH PHỐ LONG XUYÊN, TỈNH AN GIANG” là nhãn của ảnh.
   
-2. Tìm hiểu về Tesseract OCR - Công cụ phát hiện vùng văn bản
-3. 
+**2. Tìm hiểu về Tesseract OCR - Công cụ phát hiện vùng văn bản**
+   
 Tesseract OCR là một trong những thư viện nhận diện ký tự quang học (OCR) mã nguồn mở mạnh mẽ và phổ biến nhất hiện nay, được phát triển ban đầu bởi HP và sau này do Google duy trì. Không chỉ nhận diện ký tự, Tesseract còn cung cấp khả năng phân tích cấu trúc bố cục văn bản trong ảnh, bao gồm:
 - Xác định các dòng văn bản (lines)
 - Cắt thành vùng từ (words)
@@ -74,7 +74,7 @@ Trong đề tài này, Tesseract OCR được sử dụng không phải để nh
 
 **Triền khai thực tiễn**
 
-. Thu thập dữ liệu 
+**1. Thu thập dữ liệu**
 
 -  Dữ liệu gồm các ảnh chứa văn bản tiếng Việt, thu thập từ sách, tài liệu, chữ viết tay.
 -  Dạng dữ liệu: cặp (ảnh, chuỗi text đúng).
@@ -91,9 +91,6 @@ Nhãn: “Bức” ““Xuống Đồng”” Của Trần Văn Cẩn Đã Đư
 
 Nhãn: Thành công ấy, liệu có mấy người đạt được ?
 
-
-
-
 Bộ dataset của nhóm chúng em thu thập được vào khoảng hơn 4000k ảnh 
 
 Trong đó :
@@ -109,7 +106,7 @@ Thư mục val(Validation) bao gồm 20% - 800 ảnh:
 + Giúp theo dõi độ chính xác (accuracy) và độ lỗi (loss) sau mỗi vòng lặp (epoch).
 + Nếu mô hình có validation loss tăng trong khi training loss giảm → có thể đang bị overfitting.
   
-  2. Bắt đầu train mô hình
+**2. Bắt đầu train mô hình**
   
 Quá trình huấn luyện mô hình được thực hiện bằng cách sử dụng thư viện VietOCR, với kiến trúc vgg_seq2seq. 
 
@@ -153,7 +150,7 @@ e. Thực hiện huấn luyện
  
 ![image](https://github.com/user-attachments/assets/445a01f1-dbe4-494e-9bee-314410e63650)
 
-3. Theo dõi và đánh giá
+**3. Theo dõi và đánh giá**
    
 Theo dõi train log:
  
@@ -169,7 +166,7 @@ Theo dõi train log:
 
 ![image](https://github.com/user-attachments/assets/eab544e5-aaa8-4f77-a669-10b9eb99d690)
 
-4. Triển khai mô hình (Inference)
+**4. Triển khai mô hình (Inference)**
    
 Sau khi chúng em hoàn thành huấn luyện mô hình VietOCR, hệ thống nhận diện văn bản được triển khai với giao diện đơn giản sử dụng thư viện Tkinter và Pillow, kết hợp giữa Tesseract OCR (để tách dòng văn bản) và VietOCR (để nhận diện văn bản từng dòng). Quá trình triển khai bao gồm các bước chính như sau:
 
@@ -219,7 +216,7 @@ Kết quả nhận diện của mô hình nhóm chúng em train:
 
 ![image](https://github.com/user-attachments/assets/5f88ef06-70bf-4900-8ac4-aa8d4c57fc92)
  
-5. So sánh và đánh giá với mô hình gốc (pre-trained)
+**5. So sánh và đánh giá với mô hình gốc (pre-trained)**
 
           Để so sánh và đánh giá tổng quát về độ cải thiện giữa mô hình train (fine-tune) so với mô hình gốc (pre-trained) thì chúng em đã lựa chọn đánh giá theo tiêu trí CER (Characters Error Rate) 
 
@@ -253,5 +250,5 @@ Nhận xét:
 -   Các từ đặc thù trong tập dữ liệu (ví dụ: tên riêng, dấu tiếng Việt) được nhận diện chính xác hơn sau khi fine-tune.
 -   Tuy nhiên, mô hình gốc đôi khi vẫn nhận diện tốt hơn ở một số dòng khó hoặc nhiễu, phản ánh sự ổn định cao của mô hình pretrained.
 
-Kết luận cuối cùng :
+**Kết luận cuối cùng:**
         Huấn luyện lại mô hình VietOCR trên tập dữ liệu đặc thù giúp cải thiện độ chính xác tổng thể, đặc biệt là khi tập dữ liệu có nhiều khác biệt so với dữ liệu gốc (phông chữ, chất lượng ảnh, tiếng Việt). Kết quả này chứng minh rằng fine-tuning mô hình trên dữ liệu mục tiêu là cần thiết trong các ứng dụng thực tế.
